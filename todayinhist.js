@@ -2692,6 +2692,170 @@ var todayinhistory = [
     "event": "Geronimo - Apache hero - dies (birth date unknown)"
   },
   {
+    "date": "1885-02-18",
+    "event": "Mark Twain publishes the Adventures of Huckleberry Finn"
+  },
+  {
+    "date": "1930-02-18",
+    "event": "Pluto discovered at the Lowell Observatory in Flagstaff, Arizona"
+  },
+  {
+    "date": "2003-02-18",
+    "event": "Arsonist sets fire in South Korean subway"
+  },
+  {
+    "date": "1847-02-19",
+    "event": "Donner Party rescued"
+  },
+  {
+    "date": "1878-02-18",
+    "event": "Thomas Edison patents the phonograph"
+  },
+  {
+    "date": "1945-02-19",
+    "event": "Marines invade Iwo Jima"
+  },
+  {
+    "date": "1981-02-19",
+    "event": "United States calls situation in El Salvador a communist plot"
+  },
+  {
+    "date": "1792-02-20",
+    "event": "George Washington signs the Postal Service Act"
+  },
+  {
+    "date": "1985-02-20",
+    "event": "Ireland allows sale of contraceptives"
+  },
+  {
+    "date": "1962-02-20",
+    "event": "An American orbits earth"
+  },
+  {
+    "date": "1848-02-21",
+    "event": "Karl Marx publishes Manifesto"
+  },
+  {
+    "date": "1965-02-21",
+    "event": "Malcolm X assasinated"
+  },
+  {
+    "date": "1972-02-21",
+    "event": "Nixon visits China"
+  },
+  {
+    "date": "1732-02-22",
+    "event": "George Washington is born"
+  },
+  {
+    "date": "1819-02-22",
+    "event": "The US acquires Spanish Florida"
+  },
+  {
+    "date": "1980-02-22",
+    "event": "US hockey team makes miracle on ice at the XIII Olympic Games"
+  },
+  {
+    "date": "2006-02-22",
+    "event": "Gang commits largest robbery in British history"
+  },
+  {
+    "date": "1861-02-23",
+    "event": "Lincoln arrives in Washington"
+  },
+  {
+    "date": "1945-02-23",
+    "event": "US flag raised on Iwo Jima"
+  },
+  {
+    "date": "1954-02-23",
+    "event": "Children receive first polio vaccine"
+  },
+  {
+    "date": "1997-02-23",
+    "event": "Schindler's List shown uncut on network television"
+  },
+  {
+    "date": "1836-02-24",
+    "event": "Alamo defenders call for help"
+  },
+  {
+    "date": "1982-02-24",
+    "event": "Wayne Gretzky 'The Great One' scores 77th goal"
+  },
+  {
+    "date": "1999-02-24",
+    "event": "Avalanche buries home in Austria"
+  },
+  {
+    "date": "1828-02-25",
+    "event": "John Quincy Adams' son marries relative at the White House"
+  },
+  {
+    "date": "1948-02-25",
+    "event": "Communists take power in Czechoslovakia"
+  },
+  {
+    "date": "1964-02-25",
+    "event": "Cassius Clay defeats Sonny Liston"
+  },
+  {
+    "date": "1919-02-26",
+    "event": "Two national parks preserved, ten years apart"
+  },
+  {
+    "date": "1993-02-26",
+    "event": "World Trade Center bombed"
+  },
+  {
+    "date": "1935-02-26",
+    "event": "Hitler organizes Luftwaffe"
+  },
+  {
+    "date": "1827-02-27",
+    "event": "New Orleans take to the streets for Mardi Gras"
+  },
+  {
+    "date": "1922-02-27",
+    "event": "Supreme Court defends women's voting rights"
+  },
+  {
+    "date": "1943-02-27",
+    "event": "Mine explosion in Montana kills 74"
+  },
+  {
+    "date": "1964-02-27",
+    "event": "Leaning Tower needs help"
+  },
+  {
+    "date": "1953-02-28",
+    "event": "Watson and Crick  discover chemical structure of DNA"
+  },
+  {
+    "date": "1987-02-28",
+    "event": "Gorbachev calls for nuclear weapons treaty"
+  },
+  {
+    "date": "2013-02-28",
+    "event": "Pope Benedict resigns"
+  },
+  {
+    "date": "1692-02-29",
+    "event": "Salem witch trials began"
+  },
+  {
+    "date": "1940-02-29",
+    "event": "Patty McDaniel wins Oscar"
+  },
+  {
+    "date": "1972-02-27",
+    "event": "Hank Aaron signs record-breaking deal"
+  },
+  {
+    "date": "2004-02-27",
+    "event": "Lord of the Rings: The Return of the King wins 11 Oscars"
+  },
+  {
     "date": "1753-03-01",
     "event": "St. David\\'s Day"
   },
@@ -5246,6 +5410,22 @@ var todayinhistory = [
   {
     "date": "1892-04-21",
     "event": "1st buffalo born in Golden Gate Park."
+  },
+  {
+    "date": "1886-04-22",
+    "event": "Seduction is made illegal in Ohio"
+  },
+  {
+    "date": "1915-04-22",
+    "event": "Germans introduce posion gas"
+  },
+  {
+    "date": "1945-04-22",
+    "event": "Hitler admits defeat"
+  },
+  {
+    "date": "1970-04-22",
+    "event": "The first Earth Day"
   },
   {
     "date": "1871-04-23",

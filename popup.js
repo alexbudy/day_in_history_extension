@@ -20,28 +20,29 @@ function get_date_string() {
 
 // index of todayinhistory[] array
 // starting_date = 'mm-dd'
-function get_start_idx(starting_date) {
-	var len = todayinhistory.length
+function bin_search_get_start_idx(date_to_match) {
+	var startIndex  = 0,
+        stopIndex   = todayinhistory.length - 1,
+        middle      = Math.floor((stopIndex + startIndex)/2);
 
-	return bin_search(Math.floor(len/2), starting_date)	
-}
-
-function bin_search(idx, date_to_match) {
-	
-	if (date_compare(date_to_match, get_month_day_from_list(idx)) == 0) {
-		while (date_compare(date_to_match, get_month_day_from_list(idx-1)) == 0) {
-			idx--;
+    var cnt = 0
+	while (date_compare(date_to_match, get_month_day_from_list(middle)) != 0 && startIndex < stopIndex) {
+		cnt++;
+		if (date_compare(date_to_match, get_month_day_from_list(middle)) == 1) { // first date larger
+			startIndex = middle + 1;
+		} else {
+			stopIndex = middle - 1;
 		}
-		return idx;
+
+		middle = Math.floor((stopIndex+startIndex) / 2)
 	}
 
-
-	if (date_compare(date_to_match, get_month_day_from_list(idx)) == 1) { // first date larger
-		return bin_search(Math.floor((idx + todayinhistory.length)/2), date_to_match)
-	} else {
-		return bin_search(Math.floor(idx/2), date_to_match)
+	while (middle > 0 && date_compare(date_to_match, get_month_day_from_list(middle-1)) == 0) {
+		middle--;
 	}
 
+	//console.log("Finding index of " + date_to_match + " took " + cnt + " loops, index found: " + middle)
+	return middle;
 }
 
 function get_month_day_from_list(idx) {
@@ -68,5 +69,27 @@ function date_compare(d1, d2) {
 		return 2
 	} else {
 		return 0
+	}
+}
+
+
+function test_search() {
+	var daysInMonth = [null, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+
+	for (var month = 1; month <= 12; month++) {
+		for (var day = 1; day <= daysInMonth[month]; day++) {
+			var month_day = month + "-" + day;
+			var idx = bin_search_get_start_idx(month_day)
+
+			if (idx == 0) {
+				continue
+			}
+			if (date_compare(month_day, get_month_day_from_list(idx)) == 0 
+				&& date_compare(month_day, get_month_day_from_list(idx-1)) == 1) {
+				// no problem here
+			} else {
+				console.log("problem for " + month_day + ", index found: " + idx)
+			}
+		}
 	}
 }
