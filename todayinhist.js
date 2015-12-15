@@ -2708,7 +2708,7 @@ var todayinhistory = [
     "event": "Donner Party rescued"
   },
   {
-    "date": "1878-02-18",
+    "date": "1878-02-19",
     "event": "Thomas Edison patents the phonograph"
   },
   {
