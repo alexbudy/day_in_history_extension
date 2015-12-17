@@ -1,12 +1,51 @@
+var histIds = []
+
 window.onload = function() {
-	document.getElementById('span_fact').innerHTML = todayinhistory[0]
+	histIds = generateHistIdsArrayForDate('2015-12-16')
+	setHeaderText()	
+	setFactText(5)
+}
+
+// this function generates array of ids for the date today, and shifts based on year
+// ex: if day starts at id 20 and goes to 25, array will be [20, 21, 22, 23, 24, 25],
+// 		then shifted by [current year] mod [len(array)]
+function generateHistIdsArrayForDate(date) {
+	var startIdx = bin_search_get_start_idx(get_month_day_from_full_date(date))
+
+	var ids = [startIdx]
+
+	var idx = startIdx+1
+	while (date_compare_ignore_yrs(date, todayinhistory[idx].date) == 0) {
+		ids.push(idx)
+		idx++;
+	}
+
+	// now shift here
+
+	return ids
+}
+
+function setHeaderText() {
+	document.getElementById('span_header').innerHTML = "Today In History..."
+}
+
+function setFactText(todayId) {
+	document.getElementById('span_fact').innerHTML = todayinhistory[todayId].event	
+}
+
+// in format yyyy-mm-dd
+function get_current_date() {
+	var date = new Date()
+	var yr = date.getFullYear()
+	var mm
 }
 
 // stored in array as 'yyyy-mm-dd'
-function get_date_string() {
+function get_today_date() {
 	var today = new Date()
 	var dd = today.getDate()
 	var mm = today.getMonth()+1; //January is 0!
+	var yyyy = today.getFullYear();
 
 	if (dd<10) {
 		dd = '0'+dd
@@ -15,7 +54,7 @@ function get_date_string() {
 		mm = '0'+mm
 	}
 
-	return mm + "-" + dd
+	return yyyy + "-" + mm + "-" + dd
 }
 
 // index of todayinhistory[] array
@@ -46,7 +85,28 @@ function bin_search_get_start_idx(date_to_match) {
 }
 
 function get_month_day_from_list(idx) {
-	return todayinhistory[idx].date.substring(5);
+	return get_month_day_from_full_date(todayinhistory[idx].date)
+}
+
+// protect if full_date doesnt have yr
+function get_month_day_from_full_date(full_date) {
+	if (full_date.split('-').length > 2) {
+		return full_date.substring(5)
+	} else {
+		return full_date
+	}
+}
+
+// same as function below, but if yrs are present in dates ignore them
+function date_compare_ignore_yrs(d1, d2) {
+	if (d1.split('-').length > 2) {
+		d1 = get_month_day_from_full_date(d1)
+	} 
+	if (d2.split('-').length > 2) {
+		d2 = get_month_day_from_full_date(d2)
+	}
+
+	return date_compare(d1, d2)
 }
 
 // compare two dates such as '03-26' and '07-26' -> return 1 if first larger, 2 if second, 0 if equal
@@ -72,7 +132,7 @@ function date_compare(d1, d2) {
 	}
 }
 
-
+// ran this function just to test that my binary search works
 function test_search() {
 	var daysInMonth = [null, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
