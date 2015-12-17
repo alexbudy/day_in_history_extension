@@ -20,7 +20,14 @@ function generateHistIdsArrayForDate(date) {
 		idx++;
 	}
 
-	// now shift here
+	// now shift here -> this preserves consistency across all users
+	var yr = parseInt(date.substring(0, 3))
+	var shftAmt = yr % ids.length
+
+	while (shftAmt > 0) {
+		ids.push(ids.shift())
+		shftAmt--
+	}
 
 	return ids
 }
