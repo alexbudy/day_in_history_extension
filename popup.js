@@ -1,27 +1,74 @@
-var histIds = []
+var histIds = [] // all ids for current date
+var currentFactListIdx // index for displayed fact
+var today
+var selectedDate
 
 window.onload = function() {
-	histIds = generateHistIdsArrayForDate('2015-12-16')
+	today = get_today_date()
+	selectedDate = today //initially
+	
+	resetHistIdsAndIdx()
+	setSpansForselectedDate()
+}
+
+function setSpansForselectedDate() {
 	setHeaderText()	
-	setFactText(5)
+	setFactText()
+}
+
+// onclick functions for the three buttons: tomorrow, yesterday, and another (today)
+function showAnotherFact() {
+	currentFactListIdx++;
+	if (currentFactListIdx >= histIds.length) {
+		currentFactListIdx = 0
+	}
+
+	// TODO
+}
+
+// left button was clicked
+function goDayBack() {
+	decrementDay()
+	resetHistIdsAndIdx()
+	setSpansForDay()
+}
+
+// right button was clicked
+function goDayForward() {
+	incrementDay()
+	resetHistIdsAndIdx()
+	setSpansForDay()
+}
+
+function incrementDay() {
+	// TODO
+}
+
+function decrementDay() {
+ 	// TODO
+ }
+
+function resetHistIdsAndIdx() {
+	histIds = generateHistIdsArrayForSelectedDate()
+	currentFactListIdx = 0
 }
 
 // this function generates array of ids for the date today, and shifts based on year
 // ex: if day starts at id 20 and goes to 25, array will be [20, 21, 22, 23, 24, 25],
 // 		then shifted by [current year] mod [len(array)]
-function generateHistIdsArrayForDate(date) {
-	var startIdx = bin_search_get_start_idx(get_month_day_from_full_date(date))
+function generateHistIdsArrayForSelectedDate() {
+	var startIdx = bin_search_get_start_idx(get_month_day_from_full_date(selectedDate))
 
 	var ids = [startIdx]
 
 	var idx = startIdx+1
-	while (date_compare_ignore_yrs(date, todayinhistory[idx].date) == 0) {
+	while (date_compare_ignore_yrs(selectedDate, todayinhistory[idx].date) == 0) {
 		ids.push(idx)
 		idx++;
 	}
 
 	// now shift here -> this preserves consistency across all users
-	var yr = parseInt(date.substring(0, 3))
+	var yr = parseInt(selectedDate.substring(0, 3))
 	var shftAmt = yr % ids.length
 
 	while (shftAmt > 0) {
@@ -32,22 +79,15 @@ function generateHistIdsArrayForDate(date) {
 	return ids
 }
 
-function setHeaderText() {
+function setHeaderText(date) {
 	document.getElementById('span_header').innerHTML = "Today In History..."
 }
 
-function setFactText(todayId) {
-	document.getElementById('span_fact').innerHTML = todayinhistory[todayId].event	
+function setFactText() {
+	document.getElementById('span_fact').innerHTML = todayinhistory[histIds[currentFactListIdx]].event	
 }
 
-// in format yyyy-mm-dd
-function get_current_date() {
-	var date = new Date()
-	var yr = date.getFullYear()
-	var mm
-}
-
-// stored in array as 'yyyy-mm-dd'
+// returned as 'yyyy-mm-dd'
 function get_today_date() {
 	var today = new Date()
 	var dd = today.getDate()
