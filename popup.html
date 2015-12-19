@@ -5,8 +5,8 @@
     	body {
     		font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
     		font-size: 100%;
-    		width: 200;
-    		height: 300;
+    		width: 300;
+    		height: 200;
     	}
 
 
@@ -16,8 +16,13 @@
     </head>
     <body>
 
-	    <span id="span_header"></span>
-    	<span id="span_fact"></span>
-
+	    <span id="span_header"></span><!-- Today/Tomorrow/Yesterday/'Jan 26' in History, -->
+	    <span id="span_year"></span><!-- [year] -->
+    	<br>
+    	<span id="span_fact"></span><!-- [fact goes here] -->
+    	<br>
+    	<button type="button" id="showAnotherBtn">Show Another Fact</button>
+    	<button type="button" id="goBackBtn">Go Back Day</button>
+    	<button type="button" id="goFwdBtn">Go Forward Day</button>
     </body>
 </html>

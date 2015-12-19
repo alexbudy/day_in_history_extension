@@ -1,5 +1,7 @@
 var histIds = [] // all ids for current date
 var currentFactListIdx // index for displayed fact
+
+// dates listed as 'yyyy-mm-dd'
 var today
 var selectedDate
 
@@ -7,37 +9,57 @@ window.onload = function() {
 	today = get_today_date()
 	selectedDate = today //initially
 	
-	resetHistIdsAndIdx()
-	setSpansForselectedDate()
+	setHistIdsAndIdx()
+	setSpansForSelectedDate()
+
+	addButtonListeners()
 }
 
-function setSpansForselectedDate() {
+function addButtonListeners() {
+	document.getElementById("showAnotherBtn").addEventListener("click", showAnotherFact);
+	document.getElementById("goBackBtn").addEventListener("click", goDayBack);
+	document.getElementById("goFwdBtn").addEventListener("click", goDayForward);
+}
+
+
+function setSpansForSelectedDate() {
 	setHeaderText()	
+	setYearText()
 	setFactText()
 }
 
 // onclick functions for the three buttons: tomorrow, yesterday, and another (today)
 function showAnotherFact() {
+	console.log('btn clicked')
+
 	currentFactListIdx++;
 	if (currentFactListIdx >= histIds.length) {
-		currentFactListIdx = 0
+		resetCurrentFactIdx()
 	}
 
-	// TODO
+	setSpansForSelectedDate()
+}
+
+function resetCurrentFactIdx() {
+	currentFactListIdx = 0
+}
+
+function getCurrentFact() {
+	return todayinhistory[histIds[currentFactListIdx]]
 }
 
 // left button was clicked
 function goDayBack() {
 	decrementDay()
-	resetHistIdsAndIdx()
-	setSpansForDay()
+	setHistIdsAndIdx()
+	setSpansForSelectedDay()
 }
 
 // right button was clicked
 function goDayForward() {
 	incrementDay()
-	resetHistIdsAndIdx()
-	setSpansForDay()
+	setHistIdsAndIdx()
+	setSpansForSelectedDay()
 }
 
 function incrementDay() {
@@ -48,9 +70,10 @@ function decrementDay() {
  	// TODO
  }
 
-function resetHistIdsAndIdx() {
+// sets history ids for the selected date
+function setHistIdsAndIdx() {
 	histIds = generateHistIdsArrayForSelectedDate()
-	currentFactListIdx = 0
+	resetCurrentFactIdx()
 }
 
 // this function generates array of ids for the date today, and shifts based on year
@@ -79,12 +102,18 @@ function generateHistIdsArrayForSelectedDate() {
 	return ids
 }
 
-function setHeaderText(date) {
-	document.getElementById('span_header').innerHTML = "Today In History..."
+// Today/Tomorrow/Yesterday/'Jan 26' in History,
+
+function setHeaderText() {
+	document.getElementById('span_header').innerHTML = "Today In History..." + getCurrentFact().date
+}
+
+function setYearText() {
+	document.getElementById('span_year').innerHTML = getCurrentFact().date.substring(0, 4)
 }
 
 function setFactText() {
-	document.getElementById('span_fact').innerHTML = todayinhistory[histIds[currentFactListIdx]].event	
+	document.getElementById('span_fact').innerHTML = getCurrentFact().event	
 }
 
 // returned as 'yyyy-mm-dd'
@@ -136,6 +165,7 @@ function get_month_day_from_list(idx) {
 }
 
 // protect if full_date doesnt have yr
+// returns in form 'mm-dd'
 function get_month_day_from_full_date(full_date) {
 	if (full_date.split('-').length > 2) {
 		return full_date.substring(5)
