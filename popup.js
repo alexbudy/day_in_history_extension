@@ -6,7 +6,7 @@ var today
 var selectedDate
 
 window.onload = function() {
-	today = get_today_date()
+	var today = getStringDateFromObj(new Date())
 	selectedDate = today //initially
 	
 	setHistIdsAndIdx()
@@ -17,8 +17,8 @@ window.onload = function() {
 
 function addButtonListeners() {
 	document.getElementById("showAnotherBtn").addEventListener("click", showAnotherFact);
-	document.getElementById("goBackBtn").addEventListener("click", goDayBack);
-	document.getElementById("goFwdBtn").addEventListener("click", goDayForward);
+	//document.getElementById("goBackBtn").addEventListener("click", goDayBack);
+	//document.getElementById("goFwdBtn").addEventListener("click", goDayForward);
 }
 
 
@@ -63,12 +63,44 @@ function goDayForward() {
 }
 
 function incrementDay() {
-	// TODO
+	moveSelectedDate(+1)
 }
 
 function decrementDay() {
- 	// TODO
- }
+	moveSelectedDate(-1)
+}
+
+// adds (subtracts) passed integer, neg or pos
+function moveSelectedDate(dayAmt) {
+	var d = getDateObjFromStr(selectedDate)
+	d.setDate(d.getDate() + dayAmt)
+	selectedDate = getStringDateFromObj(d)
+}
+
+// converts 'yyyy-mm-dd' string to javascript date obj
+function getDateObjFromStr(dateStr) {
+	var yyyy = parseInt(dateStr.substring(0, 4))
+	var mm = parseInt(dateStr.substring(5,7)) - 1
+	var dd = parseInt(dateStr.substring(8,10))
+
+	return new Date(yyyy, mm, dd)
+}
+
+// returned as 'yyyy-mm-dd'
+function getStringDateFromObj(d) {
+	var dd = d.getDate()
+	var mm = d.getMonth()+1; //January is 0!
+	var yyyy = d.getFullYear();
+
+	if (dd<10) {
+		dd = '0'+dd
+	}
+	if (mm<10) {
+		mm = '0'+mm
+	}
+
+	return yyyy + "-" + mm + "-" + dd
+}
 
 // sets history ids for the selected date
 function setHistIdsAndIdx() {
@@ -114,23 +146,6 @@ function setYearText() {
 
 function setFactText() {
 	document.getElementById('span_fact').innerHTML = getCurrentFact().event	
-}
-
-// returned as 'yyyy-mm-dd'
-function get_today_date() {
-	var today = new Date()
-	var dd = today.getDate()
-	var mm = today.getMonth()+1; //January is 0!
-	var yyyy = today.getFullYear();
-
-	if (dd<10) {
-		dd = '0'+dd
-	}
-	if (mm<10) {
-		mm = '0'+mm
-	}
-
-	return yyyy + "-" + mm + "-" + dd
 }
 
 // index of todayinhistory[] array
