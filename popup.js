@@ -6,7 +6,7 @@ var today
 var selectedDate
 
 window.onload = function() {
-	var today = getStringDateFromObj(new Date())
+	today = getStringDateFromObj(new Date())
 	selectedDate = today //initially
 	
 	setHistIdsAndIdx()
@@ -17,21 +17,19 @@ window.onload = function() {
 
 function addButtonListeners() {
 	document.getElementById("showAnotherBtn").addEventListener("click", showAnotherFact);
-	//document.getElementById("goBackBtn").addEventListener("click", goDayBack);
-	//document.getElementById("goFwdBtn").addEventListener("click", goDayForward);
+	document.getElementById("goBackBtn").addEventListener("click", goBackDay);
+	document.getElementById("goFwdBtn").addEventListener("click", goFwdDay);
 }
 
 
 function setSpansForSelectedDate() {
 	setHeaderText()	
-	setYearText()
+	// setYearText() TODO needed?
 	setFactText()
 }
 
 // onclick functions for the three buttons: tomorrow, yesterday, and another (today)
 function showAnotherFact() {
-	console.log('btn clicked')
-
 	currentFactListIdx++;
 	if (currentFactListIdx >= histIds.length) {
 		resetCurrentFactIdx()
@@ -48,29 +46,21 @@ function getCurrentFact() {
 	return todayinhistory[histIds[currentFactListIdx]]
 }
 
-// left button was clicked
-function goDayBack() {
-	decrementDay()
+function goBackDay() {
+	moveDay(-1)
+}
+
+function goFwdDay() {
+	moveDay(+1)
+}
+
+function moveDay(incDay) {
+	moveSelectedDate(incDay)
 	setHistIdsAndIdx()
-	setSpansForSelectedDay()
+	setSpansForSelectedDate()
 }
 
-// right button was clicked
-function goDayForward() {
-	incrementDay()
-	setHistIdsAndIdx()
-	setSpansForSelectedDay()
-}
-
-function incrementDay() {
-	moveSelectedDate(+1)
-}
-
-function decrementDay() {
-	moveSelectedDate(-1)
-}
-
-// adds (subtracts) passed integer, neg or pos
+// adds passed integer, neg or pos
 function moveSelectedDate(dayAmt) {
 	var d = getDateObjFromStr(selectedDate)
 	d.setDate(d.getDate() + dayAmt)
@@ -137,7 +127,25 @@ function generateHistIdsArrayForSelectedDate() {
 // Today/Tomorrow/Yesterday/'Jan 26' in History,
 
 function setHeaderText() {
-	document.getElementById('span_header').innerHTML = "Today In History..." + getCurrentFact().date
+	var txt;
+	var selectedDateObj = getDateObjFromStr(selectedDate)
+	var todayDateObj = getDateObjFromStr(today)
+	
+	var timeDiff = selectedDateObj.getTime() - todayDateObj.getTime()
+	var diffDays = timeDiff/(1000*3600*24)
+
+	var factYr = getCurrentFact().date.substring(0, 4)
+	if (selectedDateObj == todayDateObj) {
+		txt = 'Today In History, ' + factYr
+	} else if (diffDays == -1) {
+		txt = 'Yesterday in History, ' + factYr
+	} else if (diffDays == 1) {
+		txt = 'Tomorrow in History, ' + factYr
+	} else {
+		txt = 'On ' + monthLookup(parseInt(selectedDateObj.getMonth())) + ' ' + selectedDateObj.getDate() + ' in history, ' + factYr
+	}
+
+	document.getElementById('span_header').innerHTML = txt
 }
 
 function setYearText() {
@@ -146,6 +154,11 @@ function setYearText() {
 
 function setFactText() {
 	document.getElementById('span_fact').innerHTML = getCurrentFact().event	
+}
+
+// Jan = 0, Feb = 1, etc
+function monthLookup(monthIdx) {
+	return ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'][monthIdx]
 }
 
 // index of todayinhistory[] array
