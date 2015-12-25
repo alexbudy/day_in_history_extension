@@ -1,7 +1,7 @@
 var todayinhistory = [
   {
     "date": "1643-01-01",
-    "event": "Isaac Newton baptized in St. John\\'s Church in Colsterworth England"
+    "event": "Isaac Newton baptized in St. John's Church in Colsterworth England"
   },
   {
     "date": "1801-01-01",
@@ -53,7 +53,7 @@ var todayinhistory = [
   },
   {
     "date": "1912-01-01",
-    "event": "1st running of SF\\'s famed \\\"Bay to Breakers\\\" race (763 miles)"
+    "event": "1st running of SF's famed \"Bay to Breakers\" race (763 miles)"
   },
   {
     "date": "1913-01-01",
@@ -129,7 +129,7 @@ var todayinhistory = [
   },
   {
     "date": "1975-01-01",
-    "event": "International Women\\'s Year"
+    "event": "International Women's Year"
   },
   {
     "date": "1978-01-01",
@@ -177,11 +177,11 @@ var todayinhistory = [
   },
   {
     "date": "1987-01-01",
-    "event": "Internat\\'l Year of Shelter"
+    "event": "Internat'l Year of Shelter"
   },
   {
     "date": "1988-01-01",
-    "event": "NY Carnegie Deli\\'s owner Leo Steiner dies"
+    "event": "NY Carnegie Deli's owner Leo Steiner dies"
   },
   {
     "date": "2304-01-01",
@@ -201,7 +201,7 @@ var todayinhistory = [
   },
   {
     "date": "1893-01-02",
-    "event": "World\\'s Columbian Exposition opens in Chicago"
+    "event": "World's Columbian Exposition opens in Chicago"
   },
   {
     "date": "1917-01-02",
@@ -365,7 +365,7 @@ var todayinhistory = [
   },
   {
     "date": "1790-01-04",
-    "event": "Pres Washington delivers 1st \\\"State of the Union\\"
+    "event": "Pres Washington delivers 1st State of the Union"
   },
   {
     "date": "1883-01-04",
@@ -381,7 +381,7 @@ var todayinhistory = [
   },
   {
     "date": "1959-01-04",
-    "event": "Luna 1 1st craft to leave Earth\\'s gravity"
+    "event": "Luna 1 1st craft to leave Earth's gravity"
   },
   {
     "date": "1962-01-04",
@@ -413,11 +413,11 @@ var todayinhistory = [
   },
   {
     "date": "1905-01-05",
-    "event": "C Perrine announces discovery of Jupiter\\'s 7th satellite Elara"
+    "event": "C Perrine announces discovery of Jupiter's 7th satellite Elara"
   },
   {
     "date": "1911-01-05",
-    "event": "SF has it\\'s 1st air meet"
+    "event": "SF has it's 1st air meet"
   },
   {
     "date": "1914-01-05",
@@ -501,7 +501,7 @@ var todayinhistory = [
   },
   {
     "date": "1936-01-06",
-    "event": "Barbara Hanley became Canada\\'s 1st woman mayor (Webbwood Ontario)"
+    "event": "Barbara Hanley became Canada's 1st woman mayor (Webbwood Ontario)"
   },
   {
     "date": "1941-01-06",
@@ -509,7 +509,7 @@ var todayinhistory = [
   },
   {
     "date": "1942-01-06",
-    "event": "1st around world flight by Pan Am \\\"Pacific Clipper\\"
+    "event": "1st around world flight by Pan Am \"Pacific Clipper\""
   },
   {
     "date": "1951-01-06",
@@ -557,7 +557,7 @@ var todayinhistory = [
   },
   {
     "date": "1929-01-07",
-    "event": "Tarzan\\\" one of the 1st adventure comic strips appears"
+    "event": "\"Tarzan\" one of the 1st adventure comic strips appears"
   },
   {
     "date": "1963-01-07",
@@ -577,7 +577,7 @@ var todayinhistory = [
   },
   {
     "date": "1982-01-07",
-    "event": "Islander\\'s Bryan Trottier\\'s 10th career hat trick"
+    "event": "Islander's Bryan Trottier's 10th career hat trick"
   },
   {
     "date": "1336-01-08",
@@ -633,7 +633,7 @@ var todayinhistory = [
   },
   {
     "date": "1980-01-08",
-    "event": "Islander Glenn Resch\\'s 20th shut-out opponent - Canucks 3-0"
+    "event": "Islander Glenn Resch's 20th shut-out opponent - Canucks 3-0"
   },
   {
     "date": "1788-01-09",
@@ -657,11 +657,11 @@ var todayinhistory = [
   },
   {
     "date": "1843-01-09",
-    "event": "Caroline Herschel \\\"1st lady of astronomy \\\" dies at 98 in Germany"
+    "event": "Caroline Herschel \"1st lady of astronomy \" dies at 98 in Germany"
   },
   {
     "date": "1847-01-09",
-    "event": "1st SF paper \\'California Star\\' published"
+    "event": "1st SF paper 'California Star' published"
   },
   {
     "date": "1848-01-09",
@@ -713,7 +713,7 @@ var todayinhistory = [
   },
   {
     "date": "1776-01-10",
-    "event": "Thomas Paine\\'s \\\"Common Sense\\\" published"
+    "event": "Thomas Paine's \"Common Sense\" published"
   },
   {
     "date": "1806-01-10",
@@ -761,7 +761,7 @@ var todayinhistory = [
   },
   {
     "date": "1949-01-10",
-    "event": "1st Jewish family show - The Goldberg\\'s begin"
+    "event": "1st Jewish family show - The Goldberg's begin"
   },
   {
     "date": "1951-01-10",
@@ -773,7 +773,7 @@ var todayinhistory = [
   },
   {
     "date": "1969-01-10",
-    "event": "USSR\\'s Venera 6 launched for parachute landing on Venus"
+    "event": "USSR's Venera 6 launched for parachute landing on Venus"
   },
   {
     "date": "1970-01-10",
@@ -913,7 +913,7 @@ var todayinhistory = [
   },
   {
     "date": "1969-01-13",
-    "event": "Beatles release \\\"Yellow Submarine\\\" album"
+    "event": "Beatles release \"Yellow Submarine\" album"
   },
   {
     "date": "1971-01-13",
@@ -925,7 +925,7 @@ var todayinhistory = [
   },
   {
     "date": "1981-01-13",
-    "event": "Islander\\'s Mike Bossy\\'s 15th career hat trick - 4 goals"
+    "event": "Islander's Mike Bossy's 15th career hat trick - 4 goals"
   },
   {
     "date": "1985-01-13",
@@ -993,7 +993,7 @@ var todayinhistory = [
   },
   {
     "date": "1943-01-15",
-    "event": "World\\'s largest office building Pentagon completed"
+    "event": "World's largest office building Pentagon completed"
   },
   {
     "date": "1967-01-15",
@@ -1041,7 +1041,7 @@ var todayinhistory = [
   },
   {
     "date": "1887-01-16",
-    "event": "Cliff House damaged when schooner \\\"Parallel\\\"\\'s powder cargo explodes"
+    "event": "Cliff House damaged when schooner \"Parallel\"'s powder cargo explodes"
   },
   {
     "date": "1909-01-16",
@@ -1065,11 +1065,11 @@ var todayinhistory = [
   },
   {
     "date": "1973-01-16",
-    "event": "USSR\\'s Lunakhod begins radio-controlled exploration of moon"
+    "event": "USSR's Lunakhod begins radio-controlled exploration of moon"
   },
   {
     "date": "1977-01-16",
-    "event": "Cap\\'s H Monahan scored on 2nd penalty shot against Islanders"
+    "event": "Cap's H Monahan scored on 2nd penalty shot against Islanders"
   },
   {
     "date": "1978-01-16",
@@ -1089,7 +1089,7 @@ var todayinhistory = [
   },
   {
     "date": "1773-01-17",
-    "event": "Capt James Cook becomes 1st to cross Antarctic Circle (66ø 33\\' S)"
+    "event": "Capt James Cook becomes 1st to cross Antarctic Circle (66ø 33' S)"
   },
   {
     "date": "1852-01-17",
@@ -1125,7 +1125,7 @@ var todayinhistory = [
   },
   {
     "date": "1950-01-17",
-    "event": "Great Brink\\'s robbery in Boston $28 million"
+    "event": "Great Brink's robbery in Boston $28 million"
   },
   {
     "date": "1957-01-17",
@@ -1149,7 +1149,7 @@ var todayinhistory = [
   },
   {
     "date": "1979-01-17",
-    "event": "Islanders didn\\'t get a shot off in one period against the Rangers"
+    "event": "Islanders didn't get a shot off in one period against the Rangers"
   },
   {
     "date": "1644-01-18",
@@ -1217,7 +1217,7 @@ var todayinhistory = [
   },
   {
     "date": "1747-01-19",
-    "event": "Johann Bode founder of \\\"Bode\\'s Law \\\" dies"
+    "event": "Johann Bode founder of \"Bode's Law \" dies"
   },
   {
     "date": "1770-01-19",
@@ -1253,7 +1253,7 @@ var todayinhistory = [
   },
   {
     "date": "1866-01-20",
-    "event": "Prim\\'s Insurrection in Spain ends"
+    "event": "Prim's Insurrection in Spain ends"
   },
   {
     "date": "1872-01-20",
@@ -1269,7 +1269,7 @@ var todayinhistory = [
   },
   {
     "date": "1929-01-20",
-    "event": "1st feature talking motion picture taken outdoors \\\"In Old Arizona\\"
+    "event": "1st feature talking motion picture taken outdoors \"In Old Arizona\""
   },
   {
     "date": "1937-01-20",
@@ -1281,7 +1281,7 @@ var todayinhistory = [
   },
   {
     "date": "1964-01-20",
-    "event": "Meet The Beatles\\\" album released in US"
+    "event": "\"Meet The Beatles\" album released in US"
   },
   {
     "date": "1981-01-20",
@@ -1289,7 +1289,7 @@ var todayinhistory = [
   },
   {
     "date": "1981-01-20",
-    "event": "Islander Glenn Resch\\'s 25th & last shut-out opponent - Flames 5-0"
+    "event": "Islander Glenn Resch's 25th & last shut-out opponent - Flames 5-0"
   },
   {
     "date": "1981-01-20",
@@ -1433,7 +1433,7 @@ var todayinhistory = [
   },
   {
     "date": "1848-01-24",
-    "event": "James Marshall finds gold in Sutter\\'s Mill in Coloma Calif"
+    "event": "James Marshall finds gold in Sutter's Mill in Coloma Calif"
   },
   {
     "date": "1861-01-24",
@@ -1441,7 +1441,7 @@ var todayinhistory = [
   },
   {
     "date": "1899-01-24",
-    "event": "Rubber heel patented by Humphrey O\\'Sullivan"
+    "event": "Rubber heel patented by Humphrey O'Sullivan"
   },
   {
     "date": "1935-01-24",
@@ -1457,7 +1457,7 @@ var todayinhistory = [
   },
   {
     "date": "1982-01-24",
-    "event": "SF 49\\'ers win their 1st Super Bowl 26-21"
+    "event": "SF 49'ers win their 1st Super Bowl 26-21"
   },
   {
     "date": "1985-01-24",
@@ -1501,7 +1501,7 @@ var todayinhistory = [
   },
   {
     "date": "1961-01-25",
-    "event": "Walt Disney\\'s \\\"101 Dalmations\\\" is released"
+    "event": "Walt Disney's \"101 Dalmations\" is released"
   },
   {
     "date": "1964-01-25",
@@ -1509,11 +1509,11 @@ var todayinhistory = [
   },
   {
     "date": "1975-01-25",
-    "event": "10th hat trick in Islander history - Denis Potvin\\'s 1st"
+    "event": "10th hat trick in Islander history - Denis Potvin's 1st"
   },
   {
     "date": "1697-01-26",
-    "event": "Isaac Newton receives Jean Bernoulli\\'s 6 month time limit - solves problem before going to bed that same night"
+    "event": "Isaac Newton receives Jean Bernoulli's 6 month time limit - solves problem before going to bed that same night"
   },
   {
     "date": "1788-01-26",
@@ -1541,7 +1541,7 @@ var todayinhistory = [
   },
   {
     "date": "1905-01-26",
-    "event": "World\\'s largest diamond found Cullinan diamond"
+    "event": "World's largest diamond found Cullinan diamond"
   },
   {
     "date": "1946-01-26",
@@ -1557,11 +1557,11 @@ var todayinhistory = [
   },
   {
     "date": "1961-01-26",
-    "event": "1st woman `personal physician to President\\' - JG Travell"
+    "event": "1st woman `personal physician to President' - JG Travell"
   },
   {
     "date": "1976-01-26",
-    "event": "Israel opens \\\"Good Fence\\\" to Lebanon"
+    "event": "Israel opens \"Good Fence\" to Lebanon"
   },
   {
     "date": "1979-01-26",
@@ -1577,7 +1577,7 @@ var todayinhistory = [
   },
   {
     "date": "1984-01-26",
-    "event": "Nordiques\\' Michel Goulet scored on 9th penalty shot against Islanders"
+    "event": "Nordiques' Michel Goulet scored on 9th penalty shot against Islanders"
   },
   {
     "date": "1986-01-26",
@@ -1617,7 +1617,7 @@ var todayinhistory = [
   },
   {
     "date": "1964-01-27",
-    "event": "Introducing the Beatles\\\" album released in US"
+    "event": "\"Introducing the Beatles\" album released in US"
   },
   {
     "date": "1964-01-27",
@@ -1625,7 +1625,7 @@ var todayinhistory = [
   },
   {
     "date": "1965-01-27",
-    "event": "Groundbreaking for \\'Dragon Gateway\\' at Grant Avenue"
+    "event": "Groundbreaking for 'Dragon Gateway' at Grant Avenue"
   },
   {
     "date": "1967-01-27",
@@ -1637,7 +1637,7 @@ var todayinhistory = [
   },
   {
     "date": "1971-01-27",
-    "event": "Montgomery St Station last link in BART \\'holed thru\\"
+    "event": "Montgomery St Station last link in BART 'holed thru"
   },
   {
     "date": "1973-01-27",
@@ -1665,7 +1665,7 @@ var todayinhistory = [
   },
   {
     "date": "1807-01-28",
-    "event": "London\\'s Pall Mall is 1st st lit by gaslight"
+    "event": "London's Pall Mall is 1st st lit by gaslight"
   },
   {
     "date": "1821-01-28",
@@ -1709,7 +1709,7 @@ var todayinhistory = [
   },
   {
     "date": "1956-01-28",
-    "event": "Elvis Presley\\'s 1st TV appearance (Dorsey Bros Stage Show)"
+    "event": "Elvis Presley's 1st TV appearance (Dorsey Bros Stage Show)"
   },
   {
     "date": "1958-01-28",
@@ -1721,7 +1721,7 @@ var todayinhistory = [
   },
   {
     "date": "1978-01-28",
-    "event": "Ranger\\'s Don Murdoch failed on 4th penalty shot against Islanders"
+    "event": "Ranger's Don Murdoch failed on 4th penalty shot against Islanders"
   },
   {
     "date": "1986-01-28",
@@ -1769,7 +1769,7 @@ var todayinhistory = [
   },
   {
     "date": "1959-01-29",
-    "event": "Walt Disney\\'s \\\"Sleeping Beauty\\\" is released"
+    "event": "Walt Disney's \"Sleeping Beauty\" is released"
   },
   {
     "date": "1984-01-29",
@@ -1789,7 +1789,7 @@ var todayinhistory = [
   },
   {
     "date": "1774-01-30",
-    "event": "Capt Cook reaches 71ø 10\\' S 1820 km from S pole (record)"
+    "event": "Capt Cook reaches 71ø 10' S 1820 km from S pole (record)"
   },
   {
     "date": "1847-01-30",
@@ -1801,7 +1801,7 @@ var todayinhistory = [
   },
   {
     "date": "1862-01-30",
-    "event": "US Navy\\'s 1st ironclad warship \\\"Monitor\\\" launched"
+    "event": "US Navy's 1st ironclad warship \"Monitor\" launched"
   },
   {
     "date": "1889-01-30",
@@ -1841,7 +1841,7 @@ var todayinhistory = [
   },
   {
     "date": "1851-01-31",
-    "event": "SF Orphan\\'s Asylum 1st in Calif founded"
+    "event": "SF Orphan's Asylum 1st in Calif founded"
   },
   {
     "date": "1862-01-31",
@@ -1889,7 +1889,7 @@ var todayinhistory = [
   },
   {
     "date": "1968-01-31",
-    "event": "Record high barometric pressure (1083.8 mb 32\\\") at Agata USSR"
+    "event": "Record high barometric pressure (1083.8 mb 32\") at Agata USSR"
   },
   {
     "date": "1971-01-31",
@@ -1913,7 +1913,7 @@ var todayinhistory = [
   },
   {
     "date": "1865-02-01",
-    "event": "Sherman\\'s march through SC"
+    "event": "Sherman's march through SC"
   },
   {
     "date": "1867-02-01",
@@ -1941,7 +1941,7 @@ var todayinhistory = [
   },
   {
     "date": "1960-02-01",
-    "event": "4 students stage 1st civil rights sit-in - at Greensboro Woolworth\\'s"
+    "event": "4 students stage 1st civil rights sit-in - at Greensboro Woolworth's"
   },
   {
     "date": "1966-02-01",
@@ -2001,7 +2001,7 @@ var todayinhistory = [
   },
   {
     "date": "1864-02-03",
-    "event": "Sherman\\'s march through Mississippi"
+    "event": "Sherman's march through Mississippi"
   },
   {
     "date": "1869-02-03",
@@ -2013,7 +2013,7 @@ var todayinhistory = [
   },
   {
     "date": "1945-02-03",
-    "event": "Walt Disney\\'s \\\"The Three Caballeros\\\" released"
+    "event": "Walt Disney's \"The Three Caballeros\" released"
   },
   {
     "date": "1945-02-03",
@@ -2065,7 +2065,7 @@ var todayinhistory = [
   },
   {
     "date": "1948-02-04",
-    "event": "Ceylon (now Sri Lanka) gains independence from Britain (Nat\\'l Day)"
+    "event": "Ceylon (now Sri Lanka) gains independence from Britain (Nat'l Day)"
   },
   {
     "date": "1957-02-04",
@@ -2081,7 +2081,7 @@ var todayinhistory = [
   },
   {
     "date": "1973-02-04",
-    "event": "Reshef - Israel\\'s missile boat - is unveiled"
+    "event": "Reshef - Israel's missile boat - is unveiled"
   },
   {
     "date": "1974-02-04",
@@ -2089,7 +2089,7 @@ var todayinhistory = [
   },
   {
     "date": "1984-02-04",
-    "event": "Backstage Magic\\\" opens at CommuniCore"
+    "event": "\"Backstage Magic\" opens at CommuniCore"
   },
   {
     "date": "1985-02-04",
@@ -2113,11 +2113,11 @@ var todayinhistory = [
   },
   {
     "date": "1937-02-05",
-    "event": "FDR proposes enlarging Supreme Court - plan failed \\\"court packing\\"
+    "event": "FDR proposes enlarging Supreme Court - plan failed, court packing"
   },
   {
     "date": "1953-02-05",
-    "event": "Walt Disney\\'s \\\"Peter Pan\\\" released"
+    "event": "Walt Disney's \"Peter Pan\" released"
   },
   {
     "date": "1963-02-05",
@@ -2129,7 +2129,7 @@ var todayinhistory = [
   },
   {
     "date": "1974-02-05",
-    "event": "US Mariner 10 returns 1st close-up photos of Venus\\'s cloud structure"
+    "event": "US Mariner 10 returns 1st close-up photos of Venus's cloud structure"
   },
   {
     "date": "1979-02-05",
@@ -2201,7 +2201,7 @@ var todayinhistory = [
   },
   {
     "date": "1940-02-07",
-    "event": "Walt Disney\\'s \\\"Pinocchio\\\" released"
+    "event": "Walt Disney's \"Pinocchio\" released"
   },
   {
     "date": "1965-02-07",
@@ -2217,7 +2217,7 @@ var todayinhistory = [
   },
   {
     "date": "1976-02-07",
-    "event": "World\\'s largest telescope (600 cm) begins operation in USSR"
+    "event": "World's largest telescope (600 cm) begins operation in USSR"
   },
   {
     "date": "1977-02-07",
@@ -2229,7 +2229,7 @@ var todayinhistory = [
   },
   {
     "date": "1986-02-07",
-    "event": "Haitians overthrow dictator - \\\"Baby Doc\\\" Duvalier"
+    "event": "Haitians overthrow dictator - \"Baby Doc\" Duvalier"
   },
   {
     "date": "1587-02-08",
@@ -2269,7 +2269,7 @@ var todayinhistory = [
   },
   {
     "date": "1957-02-08",
-    "event": "SF Public Library\\'s bookmobile initiated in front of City Hall"
+    "event": "SF Public Library's bookmobile initiated in front of City Hall"
   },
   {
     "date": "1969-02-08",
@@ -2277,7 +2277,7 @@ var todayinhistory = [
   },
   {
     "date": "1974-02-08",
-    "event": "Skylab 4\\'s astronauts land"
+    "event": "Skylab 4's astronauts land"
   },
   {
     "date": "1975-02-08",
@@ -2341,7 +2341,7 @@ var todayinhistory = [
   },
   {
     "date": "1986-02-09",
-    "event": "Halley\\'s Comet reaches perihelion (closest approach to sun)"
+    "event": "Halley's Comet reaches perihelion (closest approach to sun)"
   },
   {
     "date": "1720-02-10",
@@ -2365,7 +2365,7 @@ var todayinhistory = [
   },
   {
     "date": "1942-02-10",
-    "event": "Glenn Miller\\'s Chattanooga Choo Choo goes gold"
+    "event": "Glenn Miller's Chattanooga Choo Choo goes gold"
   },
   {
     "date": "1967-02-10",
@@ -2385,7 +2385,7 @@ var todayinhistory = [
   },
   {
     "date": "1650-02-11",
-    "event": "Rene Descartes - \\\"I think therefore I am\\\" - dies"
+    "event": "Rene Descartes - \"I think therefore I am\" - dies"
   },
   {
     "date": "1854-02-11",
@@ -2393,11 +2393,11 @@ var todayinhistory = [
   },
   {
     "date": "1868-02-11",
-    "event": "Leon Foucault discovers 1st physical proof of earth\\'s rotation - dies"
+    "event": "Leon Foucault discovers 1st physical proof of earth's rotation - dies"
   },
   {
     "date": "1929-02-11",
-    "event": "Vatican City (world\\'s Smallest Country) is made an enclave of Rome"
+    "event": "Vatican City (world's Smallest Country) is made an enclave of Rome"
   },
   {
     "date": "1936-02-11",
@@ -2449,7 +2449,7 @@ var todayinhistory = [
   },
   {
     "date": "1924-02-12",
-    "event": "Rhapsody In Blue\\\" premiers in Carnegie Hall"
+    "event": "\"Rhapsody In Blue\" premiers in Carnegie Hall"
   },
   {
     "date": "1934-02-12",
@@ -2477,7 +2477,7 @@ var todayinhistory = [
   },
   {
     "date": "1678-02-13",
-    "event": "Tycho Brahe 1st sketches \\\"Tychonic system\\\" idea of solar system"
+    "event": "Tycho Brahe 1st sketches \"Tychonic system\" idea of solar system"
   },
   {
     "date": "1741-02-13",
@@ -2485,7 +2485,7 @@ var todayinhistory = [
   },
   {
     "date": "1867-02-13",
-    "event": "Blue Danube\\\" waltz premiers in Vienna"
+    "event": "\"Blue Danube\" waltz premiers in Vienna"
   },
   {
     "date": "1937-02-13",
@@ -2509,11 +2509,11 @@ var todayinhistory = [
   },
   {
     "date": "1982-02-13",
-    "event": "Islander\\'s Bryan Trottier scores five goals against the Flyers"
+    "event": "Islander's Bryan Trottier scores five goals against the Flyers"
   },
   {
     "date": "1753-02-14",
-    "event": "Valentine\\'s Day"
+    "event": "Valentine's Day"
   },
   {
     "date": "1859-02-14",
@@ -2533,11 +2533,11 @@ var todayinhistory = [
   },
   {
     "date": "1921-02-14",
-    "event": "Skeezix of \\\"Gasoline Alley\\\" discovered on Wallet\\'s doorstep"
+    "event": "Skeezix of \"Gasoline Alley\" discovered on Wallet's doorstep"
   },
   {
     "date": "1929-02-14",
-    "event": "St Valentine\\'s Day Massacre in Chicago - 7 gangsters killed"
+    "event": "St Valentine's Day Massacre in Chicago - 7 gangsters killed"
   },
   {
     "date": "1950-02-14",
@@ -2601,7 +2601,7 @@ var todayinhistory = [
   },
   {
     "date": "1950-02-15",
-    "event": "Walt Disney\\'s \\\"Cinderella\\\" released"
+    "event": "Walt Disney's \"Cinderella\" released"
   },
   {
     "date": "1954-02-15",
@@ -2857,7 +2857,7 @@ var todayinhistory = [
   },
   {
     "date": "1753-03-01",
-    "event": "St. David\\'s Day"
+    "event": "St. David's Day"
   },
   {
     "date": "1781-03-01",
@@ -2889,7 +2889,7 @@ var todayinhistory = [
   },
   {
     "date": "1872-03-01",
-    "event": "Yellowstone becomes world\\'s 1st national park"
+    "event": "Yellowstone becomes world's 1st national park"
   },
   {
     "date": "1879-03-01",
@@ -2973,7 +2973,7 @@ var todayinhistory = [
   },
   {
     "date": "1901-03-02",
-    "event": "Hawaii\\'s 1st telegraph co opens"
+    "event": "Hawaii's 1st telegraph co opens"
   },
   {
     "date": "1917-03-02",
@@ -3017,7 +3017,7 @@ var todayinhistory = [
   },
   {
     "date": "1976-03-02",
-    "event": "Walt Disney World\\'s 50-millionth guest"
+    "event": "Walt Disney World's 50-millionth guest"
   },
   {
     "date": "1978-03-02",
@@ -3093,7 +3093,7 @@ var todayinhistory = [
   },
   {
     "date": "1923-03-03",
-    "event": "Time mag\\'s 1st issue"
+    "event": "Time mag's 1st issue"
   },
   {
     "date": "1931-03-03",
@@ -3121,7 +3121,7 @@ var todayinhistory = [
   },
   {
     "date": "1974-03-03",
-    "event": "Despite Billy Harris\\' hat trick Islanders lose 3-4 Making Islander record when scoring a hat trick - 5-1-0"
+    "event": "Despite Billy Harris' hat trick Islanders lose 3-4 Making Islander record when scoring a hat trick - 5-1-0"
   },
   {
     "date": "1977-03-03",
@@ -3129,11 +3129,11 @@ var todayinhistory = [
   },
   {
     "date": "1981-03-03",
-    "event": "Isle\\'s Mike Bossy 9th & final hat trick of season - 4 goals"
+    "event": "Isle's Mike Bossy 9th & final hat trick of season - 4 goals"
   },
   {
     "date": "1984-03-03",
-    "event": "Isles score 11 goals-Lafontaine\\'s 1st hat trick-Maple Leafs"
+    "event": "Isles score 11 goals-Lafontaine's 1st hat trick-Maple Leafs"
   },
   {
     "date": "1985-03-03",
@@ -3161,7 +3161,7 @@ var todayinhistory = [
   },
   {
     "date": "1793-03-04",
-    "event": "Washington\\'s 2nd inaugration - shortest speech 133 words"
+    "event": "Washington's 2nd inaugration - shortest speech 133 words"
   },
   {
     "date": "1801-03-04",
@@ -3177,7 +3177,7 @@ var todayinhistory = [
   },
   {
     "date": "1861-03-04",
-    "event": "Confederate States adopt \\\"Stars & Bars\\\" flag"
+    "event": "Confederate States adopt \"Stars & Bars\" flag"
   },
   {
     "date": "1863-03-04",
@@ -3197,7 +3197,7 @@ var todayinhistory = [
   },
   {
     "date": "1933-03-04",
-    "event": "FDR inaugurated - says \\\"We have nothing to fear but fear itself.\\"
+    "event": "FDR inaugurated - says \"We have nothing to fear but fear itself.\""
   },
   {
     "date": "1934-03-04",
@@ -3229,7 +3229,7 @@ var todayinhistory = [
   },
   {
     "date": "1979-03-04",
-    "event": "US Voyager I photo reveals Jupiter\\'s rings"
+    "event": "US Voyager I photo reveals Jupiter's rings"
   },
   {
     "date": "1980-03-04",
@@ -3241,7 +3241,7 @@ var todayinhistory = [
   },
   {
     "date": "1616-03-05",
-    "event": "Corpernicus\\' DE REVOLUTIONIBUS placed on Catholic Forbidden index"
+    "event": "Corpernicus' DE REVOLUTIONIBUS placed on Catholic Forbidden index"
   },
   {
     "date": "1770-03-05",
@@ -3265,7 +3265,7 @@ var todayinhistory = [
   },
   {
     "date": "1946-03-05",
-    "event": "Winston Churchill\\'s \\\"Iron Curtain\\\" speech"
+    "event": "Winston Churchill's \"Iron Curtain\" speech"
   },
   {
     "date": "1953-03-05",
@@ -3281,7 +3281,7 @@ var todayinhistory = [
   },
   {
     "date": "1979-03-05",
-    "event": "Voyager I\\'s closest approach to Jupiter"
+    "event": "Voyager I's closest approach to Jupiter"
   },
   {
     "date": "1665-03-06",
@@ -3301,7 +3301,7 @@ var todayinhistory = [
   },
   {
     "date": "1930-03-06",
-    "event": "Bkln\\'s Clarence Birdseye developes quick freezing food method"
+    "event": "Bkln's Clarence Birdseye developes quick freezing food method"
   },
   {
     "date": "1957-03-06",
@@ -3313,7 +3313,7 @@ var todayinhistory = [
   },
   {
     "date": "1986-03-06",
-    "event": "Soviet Vega 1 probe passes within 10 -000 km of Halley\\'s comet"
+    "event": "Soviet Vega 1 probe passes within 10 -000 km of Halley's comet"
   },
   {
     "date": "0322-03-07",
@@ -3401,11 +3401,11 @@ var todayinhistory = [
   },
   {
     "date": "1978-03-07",
-    "event": "Canuck\\'s Ron Sedlbauer fails on 5th penalty shot against Islanders"
+    "event": "Canuck's Ron Sedlbauer fails on 5th penalty shot against Islanders"
   },
   {
     "date": "1981-03-07",
-    "event": "Walter Cronkite\\'s final CBS anchor appearance"
+    "event": "Walter Cronkite's final CBS anchor appearance"
   },
   {
     "date": "1986-03-07",
@@ -3425,7 +3425,7 @@ var todayinhistory = [
   },
   {
     "date": "1945-03-08",
-    "event": "Intl Women\\'s Day"
+    "event": "Intl Women's Day"
   },
   {
     "date": "1946-03-08",
@@ -3437,7 +3437,7 @@ var todayinhistory = [
   },
   {
     "date": "1959-03-08",
-    "event": "Groucho - Chico & Harpo\\'s final TV appearance together"
+    "event": "Groucho - Chico & Harpo's final TV appearance together"
   },
   {
     "date": "1963-03-08",
@@ -3473,7 +3473,7 @@ var todayinhistory = [
   },
   {
     "date": "1862-03-09",
-    "event": "Monitor (Union) & \\\"Merrimack\\\" (Rebel) battle in Hampton Roads"
+    "event": "Monitor (Union) & \"Merrimack\" (Rebel) battle in Hampton Roads"
   },
   {
     "date": "1954-03-09",
@@ -3485,11 +3485,11 @@ var todayinhistory = [
   },
   {
     "date": "1976-03-09",
-    "event": "Islander Glenn Resch\\'s 10th shut-out opponent - Blues 4-0"
+    "event": "Islander Glenn Resch's 10th shut-out opponent - Blues 4-0"
   },
   {
     "date": "1979-03-09",
-    "event": "1st extraterrestrial volcano discovered (Jupiter\\'s satellite Io)"
+    "event": "1st extraterrestrial volcano discovered (Jupiter's satellite Io)"
   },
   {
     "date": "1847-03-10",
@@ -3533,7 +3533,7 @@ var todayinhistory = [
   },
   {
     "date": "1847-03-11",
-    "event": "John Chapman `Johnny Appleseed\\' dies in Allen County - Ind"
+    "event": "John Chapman `Johnny Appleseed' dies in Allen County - Ind"
   },
   {
     "date": "1861-03-11",
@@ -3541,7 +3541,7 @@ var todayinhistory = [
   },
   {
     "date": "1865-03-11",
-    "event": "Gen Sherman\\'s Union forces occupies Fayetteville - NC"
+    "event": "Gen Sherman's Union forces occupies Fayetteville - NC"
   },
   {
     "date": "1867-03-11",
@@ -3577,7 +3577,7 @@ var todayinhistory = [
   },
   {
     "date": "1958-03-11",
-    "event": "Charles Van Doren finally loses on TV\\'s 21"
+    "event": "Charles Van Doren finally loses on TV's 21"
   },
   {
     "date": "1960-03-11",
@@ -3601,7 +3601,7 @@ var todayinhistory = [
   },
   {
     "date": "1737-03-12",
-    "event": "Galileo\\'s body moved to Church of Santa Croce in Florence - Italy"
+    "event": "Galileo's body moved to Church of Santa Croce in Florence - Italy"
   },
   {
     "date": "1849-03-12",
@@ -3621,7 +3621,7 @@ var todayinhistory = [
   },
   {
     "date": "1888-03-12",
-    "event": "Great blizzard of \\'88 kill 400 in NE US"
+    "event": "Great blizzard of '88 kill 400 in NE US"
   },
   {
     "date": "1903-03-12",
@@ -3645,7 +3645,7 @@ var todayinhistory = [
   },
   {
     "date": "1936-03-12",
-    "event": "FDR\\'s 1st \\\"Fireside Chat\\"
+    "event": "FDR's 1st \"Fireside Chat\""
   },
   {
     "date": "1938-03-12",
@@ -3701,7 +3701,7 @@ var todayinhistory = [
   },
   {
     "date": "1981-03-12",
-    "event": "Walter R T Witschey installs world\\'s largest sundial - Richmond - VA"
+    "event": "Walter R T Witschey installs world's largest sundial - Richmond - VA"
   },
   {
     "date": "1986-03-12",
@@ -3717,7 +3717,7 @@ var todayinhistory = [
   },
   {
     "date": "1781-03-13",
-    "event": "Sir William Herschel sees \\\"comet\\\" (really Uranus)"
+    "event": "Sir William Herschel sees \"comet\" (really Uranus)"
   },
   {
     "date": "1852-03-13",
@@ -3789,7 +3789,7 @@ var todayinhistory = [
   },
   {
     "date": "1979-03-13",
-    "event": "Isle\\'s Mike Bossy\\'s 5th career hat trick"
+    "event": "Isle's Mike Bossy's 5th career hat trick"
   },
   {
     "date": "1985-03-13",
@@ -3809,7 +3809,7 @@ var todayinhistory = [
   },
   {
     "date": "1743-03-14",
-    "event": "1st American town meeting (Boston\\'s Faneuil Hall)"
+    "event": "1st American town meeting (Boston's Faneuil Hall)"
   },
   {
     "date": "1794-03-14",
@@ -3869,7 +3869,7 @@ var todayinhistory = [
   },
   {
     "date": "1967-03-14",
-    "event": "JFK\\'s body moved from temporary grave to a permanent memorial"
+    "event": "JFK's body moved from temporary grave to a permanent memorial"
   },
   {
     "date": "1975-03-14",
@@ -3885,7 +3885,7 @@ var todayinhistory = [
   },
   {
     "date": "1986-03-14",
-    "event": "European Space Agency\\'s Giotto flies by Halley\\'s Comet (540 km)"
+    "event": "European Space Agency's Giotto flies by Halley's Comet (540 km)"
   },
   {
     "date": "0044-03-15",
@@ -3945,7 +3945,7 @@ var todayinhistory = [
   },
   {
     "date": "1979-03-15",
-    "event": "Isle\\'s Bryan Trottier\\'s 5th career hat trick"
+    "event": "Isle's Bryan Trottier's 5th career hat trick"
   },
   {
     "date": "1986-03-15",
@@ -3965,7 +3965,7 @@ var todayinhistory = [
   },
   {
     "date": "1827-03-16",
-    "event": "1st US black newspaper - Freedom\\'s Journal (NYC)"
+    "event": "1st US black newspaper - Freedom's Journal (NYC)"
   },
   {
     "date": "1916-03-16",
@@ -4009,7 +4009,7 @@ var todayinhistory = [
   },
   {
     "date": "1753-03-17",
-    "event": "1st official St. Patrick\\'s Day"
+    "event": "1st official St. Patrick's Day"
   },
   {
     "date": "1776-03-17",
@@ -4029,7 +4029,7 @@ var todayinhistory = [
   },
   {
     "date": "1906-03-17",
-    "event": "Pres Theodore Roosevelt used term \\\"muckrake\\"
+    "event": "Pres Theodore Roosevelt used term \"muckrake\""
   },
   {
     "date": "1910-03-17",
@@ -4097,7 +4097,7 @@ var todayinhistory = [
   },
   {
     "date": "1881-03-18",
-    "event": "Barnum & Bailey\\'s Greatest Show on Earth opens in MSG"
+    "event": "Barnum & Bailey's Greatest Show on Earth opens in MSG"
   },
   {
     "date": "1892-03-18",
@@ -4109,7 +4109,7 @@ var todayinhistory = [
   },
   {
     "date": "1922-03-18",
-    "event": "Mohandas K Gandhi sentenced to 6 years\\' imprisonment"
+    "event": "Mohandas K Gandhi sentenced to 6 years' imprisonment"
   },
   {
     "date": "1931-03-18",
@@ -4201,7 +4201,7 @@ var todayinhistory = [
   },
   {
     "date": "1951-03-19",
-    "event": "Herman Wouk\\'s Caine Mutiny published"
+    "event": "Herman Wouk's Caine Mutiny published"
   },
   {
     "date": "1953-03-19",
@@ -4253,7 +4253,7 @@ var todayinhistory = [
   },
   {
     "date": "1852-03-20",
-    "event": "Harriet Beecher Stowe\\'s `Uncle Tom\\'s Cabin -\\' published"
+    "event": "Harriet Beecher Stowe's `Uncle Tom's Cabin -' published"
   },
   {
     "date": "1886-03-20",
@@ -4269,7 +4269,7 @@ var todayinhistory = [
   },
   {
     "date": "1942-03-20",
-    "event": "Gen MacArthur vowed - \\\"I shall return\\"
+    "event": "Gen MacArthur vowed - \"I shall return\""
   },
   {
     "date": "1948-03-20",
@@ -4285,7 +4285,7 @@ var todayinhistory = [
   },
   {
     "date": "1963-03-20",
-    "event": "1st \\\"Pop Art\\\" exhibition in NYC"
+    "event": "1st \"Pop Art\" exhibition in NYC"
   },
   {
     "date": "1969-03-20",
@@ -4297,7 +4297,7 @@ var todayinhistory = [
   },
   {
     "date": "1978-03-20",
-    "event": "Flyers\\' Rick MacLeash scored on 6th penalty shot against Islanders"
+    "event": "Flyers' Rick MacLeash scored on 6th penalty shot against Islanders"
   },
   {
     "date": "1980-03-20",
@@ -4313,7 +4313,7 @@ var todayinhistory = [
   },
   {
     "date": "1844-03-21",
-    "event": "Bah \\'¡ New Year"
+    "event": "Bah '¡ New Year"
   },
   {
     "date": "1851-03-21",
@@ -4429,7 +4429,7 @@ var todayinhistory = [
   },
   {
     "date": "1967-03-22",
-    "event": "Cassius Clay aka Muhammad Ali\\'s 1st MSG fight"
+    "event": "Cassius Clay aka Muhammad Ali's 1st MSG fight"
   },
   {
     "date": "1968-03-22",
@@ -4481,7 +4481,7 @@ var todayinhistory = [
   },
   {
     "date": "1743-03-23",
-    "event": "George Frideric Handel\\'s oratorio `Messiah\\' London premiere"
+    "event": "George Frideric Handel's oratorio `Messiah' London premiere"
   },
   {
     "date": "1752-03-23",
@@ -4553,7 +4553,7 @@ var todayinhistory = [
   },
   {
     "date": "1982-03-23",
-    "event": "Isle\\'s Mike Bossy\\'s 20th career hat trick - 4 goals"
+    "event": "Isle's Mike Bossy's 20th career hat trick - 4 goals"
   },
   {
     "date": "1983-03-23",
@@ -4585,7 +4585,7 @@ var todayinhistory = [
   },
   {
     "date": "1936-03-24",
-    "event": "Red Wings beat Montreal Maroons in 16 mins & 30 seconds of 9th period. 176 minute games is hockey\\'s longest"
+    "event": "Red Wings beat Montreal Maroons in 16 mins & 30 seconds of 9th period. 176 minute games is hockey's longest"
   },
   {
     "date": "1944-03-24",
@@ -4613,7 +4613,7 @@ var todayinhistory = [
   },
   {
     "date": "1976-03-24",
-    "event": "Argentine pres Isabel Peron deposed by country\\'s milt"
+    "event": "Argentine pres Isabel Peron deposed by country's milt"
   },
   {
     "date": "1980-03-24",
@@ -4633,7 +4633,7 @@ var todayinhistory = [
   },
   {
     "date": "1655-03-25",
-    "event": "Christiaan Huygens discovers Titan - (Saturn\\'s largest satelite)"
+    "event": "Christiaan Huygens discovers Titan - (Saturn's largest satelite)"
   },
   {
     "date": "1753-03-25",
@@ -4713,7 +4713,7 @@ var todayinhistory = [
   },
   {
     "date": "1958-03-26",
-    "event": "Army launched US\\'s 3rd successful satellite Explorer III"
+    "event": "Army launched US's 3rd successful satellite Explorer III"
   },
   {
     "date": "1962-03-26",
@@ -4805,7 +4805,7 @@ var todayinhistory = [
   },
   {
     "date": "1977-03-27",
-    "event": "582 die in aviation\\'s worst disaster KLM 747-Pan Am 747 crash"
+    "event": "582 die in aviation's worst disaster KLM 747-Pan Am 747 crash"
   },
   {
     "date": "1977-03-27",
@@ -4913,7 +4913,7 @@ var todayinhistory = [
   },
   {
     "date": "1974-03-29",
-    "event": "Mariner 10\\'s 1st fly-by of Mercury - returns photos"
+    "event": "Mariner 10's 1st fly-by of Mercury - returns photos"
   },
   {
     "date": "1975-03-29",
@@ -4933,7 +4933,7 @@ var todayinhistory = [
   },
   {
     "date": "1867-03-30",
-    "event": "US purchases Alaska for $7 -200 -000 (Seward\\'s Folly)"
+    "event": "US purchases Alaska for $7 -200 -000 (Seward's Folly)"
   },
   {
     "date": "1870-03-30",
@@ -4965,7 +4965,7 @@ var todayinhistory = [
   },
   {
     "date": "1961-03-30",
-    "event": "P.J Melotte - discovered Jupiter\\'s 8th satellite Pasiphae - dies"
+    "event": "P.J Melotte - discovered Jupiter's 8th satellite Pasiphae - dies"
   },
   {
     "date": "1964-03-30",
@@ -5041,7 +5041,7 @@ var todayinhistory = [
   },
   {
     "date": "1933-03-31",
-    "event": "1st newspaper published on pine pulp paper - \\\"Soperton News\\\" (Ga)"
+    "event": "1st newspaper published on pine pulp paper - \"Soperton News\" (Ga)"
   },
   {
     "date": "1933-03-31",
@@ -5097,7 +5097,7 @@ var todayinhistory = [
   },
   {
     "date": "1778-04-01",
-    "event": "Oliver Pollock - a New Orleans Businessman - creates the \\\"$\\\"."
+    "event": "Oliver Pollock - a New Orleans Businessman - creates the \"$\"."
   },
   {
     "date": "1850-04-01",
@@ -5181,7 +5181,7 @@ var todayinhistory = [
   },
   {
     "date": "1974-04-08",
-    "event": "Hammerin\\' Hank Aaron hits 715th home run - beats Babe Ruth\\'s record."
+    "event": "Hammerin' Hank Aaron hits 715th home run - beats Babe Ruth's record."
   },
   {
     "date": "1865-04-09",
@@ -5205,7 +5205,7 @@ var todayinhistory = [
   },
   {
     "date": "1871-04-10",
-    "event": "William Hammond Hall\\'s maps & surveys of Golden Gate Park officially accepted."
+    "event": "William Hammond Hall's maps & surveys of Golden Gate Park officially accepted."
   },
   {
     "date": "1878-04-10",
@@ -5225,7 +5225,7 @@ var todayinhistory = [
   },
   {
     "date": "1895-04-11",
-    "event": "Anaheim completes it\\'s new electric light system."
+    "event": "Anaheim completes it's new electric light system."
   },
   {
     "date": "1947-04-11",
@@ -5273,7 +5273,7 @@ var todayinhistory = [
   },
   {
     "date": "1828-04-14",
-    "event": "1st edition of Noah Webster\\'s dictionary is published."
+    "event": "1st edition of Noah Webster's dictionary is published."
   },
   {
     "date": "1860-04-14",
@@ -5281,11 +5281,11 @@ var todayinhistory = [
   },
   {
     "date": "1865-04-14",
-    "event": "Abraham Lincoln assasinated in Ford\\'s Theater."
+    "event": "Abraham Lincoln assasinated in Ford's Theater."
   },
   {
     "date": "1900-04-14",
-    "event": "Veteran\\'s Hospital at Fort Miley established."
+    "event": "Veteran's Hospital at Fort Miley established."
   },
   {
     "date": "1928-04-14",
@@ -5313,11 +5313,11 @@ var todayinhistory = [
   },
   {
     "date": "1928-04-15",
-    "event": "Alioto\\'s on Fisherman\\'s Wharf is founded."
+    "event": "Alioto's on Fisherman's Wharf is founded."
   },
   {
     "date": "1955-04-15",
-    "event": "Ray Kroc starts the McDonald\\'s chain of fast food restaurants."
+    "event": "Ray Kroc starts the McDonald's chain of fast food restaurants."
   },
   {
     "date": "1866-04-16",
@@ -5365,7 +5365,7 @@ var todayinhistory = [
   },
   {
     "date": "1934-04-18",
-    "event": "1st \\\"Washateria\\\" (laundromat) is opened - in Fort Worth - Texas"
+    "event": "1st \"Washateria\" (laundromat) is opened - in Fort Worth - Texas"
   },
   {
     "date": "1936-04-18",
@@ -5373,11 +5373,11 @@ var todayinhistory = [
   },
   {
     "date": "1968-04-18",
-    "event": "San Francisco\\'s Old Hall of Justice demolished."
+    "event": "San Francisco's Old Hall of Justice demolished."
   },
   {
     "date": "1775-04-19",
-    "event": "at Lexington Common - the shot \\'heard round the world\\'."
+    "event": "at Lexington Common - the shot 'heard round the world'."
   },
   {
     "date": "1852-04-19",
@@ -5485,7 +5485,7 @@ var todayinhistory = [
   },
   {
     "date": "1897-04-27",
-    "event": "Grant\\'s Tomb (famed of song & legend) is dedicated."
+    "event": "Grant's Tomb (famed of song & legend) is dedicated."
   },
   {
     "date": "1937-04-27",
@@ -5537,7 +5537,7 @@ var todayinhistory = [
   },
   {
     "date": "1939-04-30",
-    "event": "NBC makes 1st US demo of TV at opening of NY World\\'s Fair."
+    "event": "NBC makes 1st US demo of TV at opening of NY World's Fair."
   },
   {
     "date": "1006-05-01",
@@ -5553,7 +5553,7 @@ var todayinhistory = [
   },
   {
     "date": "1840-05-01",
-    "event": "1st adhesive postage stamps (\\\"Penny Blacks\\\" from England) issued"
+    "event": "1st adhesive postage stamps (\"Penny Blacks\" from England) issued"
   },
   {
     "date": "1841-05-01",
@@ -5589,7 +5589,7 @@ var todayinhistory = [
   },
   {
     "date": "1920-05-01",
-    "event": "Babe Ruth\\'s 1st Yankee HR & 50th of career - out of Polo Grounds"
+    "event": "Babe Ruth's 1st Yankee HR & 50th of career - out of Polo Grounds"
   },
   {
     "date": "1926-05-01",
@@ -5609,7 +5609,7 @@ var todayinhistory = [
   },
   {
     "date": "1932-05-01",
-    "event": "Charles Lindbergh\\'s baby kidnapped"
+    "event": "Charles Lindbergh's baby kidnapped"
   },
   {
     "date": "1947-05-01",
@@ -5617,7 +5617,7 @@ var todayinhistory = [
   },
   {
     "date": "1948-05-01",
-    "event": "Dem People\\'s Rep of Korea (N Korea) established"
+    "event": "Dem People's Rep of Korea (N Korea) established"
   },
   {
     "date": "1949-05-01",
@@ -5625,15 +5625,15 @@ var todayinhistory = [
   },
   {
     "date": "1951-05-01",
-    "event": "Mickey Mantle\\'s 1st HR"
+    "event": "Mickey Mantle's 1st HR"
   },
   {
     "date": "1955-05-01",
-    "event": "Bobby Feller\\'s 15th 1-hit or less game"
+    "event": "Bobby Feller's 15th 1-hit or less game"
   },
   {
     "date": "1960-05-01",
-    "event": "Russia shoots down Francis Gary Powers\\' US spy plane"
+    "event": "Russia shoots down Francis Gary Powers' US spy plane"
   },
   {
     "date": "1961-05-01",
@@ -5733,7 +5733,7 @@ var todayinhistory = [
   },
   {
     "date": "1984-05-02",
-    "event": "Mattingly\\'s single broke up Lamarr Hoyt\\'s perfect game bid"
+    "event": "Mattingly's single broke up Lamarr Hoyt's perfect game bid"
   },
   {
     "date": "1986-05-02",
@@ -5749,7 +5749,7 @@ var todayinhistory = [
   },
   {
     "date": "1715-05-03",
-    "event": "Edmund Halley observes total eclipse phenomenon \\\"Baily\\'s Beads\\"
+    "event": "Edmund Halley observes total eclipse phenomenon \"Baily's Beads\""
   },
   {
     "date": "1765-05-03",
@@ -5773,7 +5773,7 @@ var todayinhistory = [
   },
   {
     "date": "1919-05-03",
-    "event": "America\\'s 1st passenger flight (NY-Atlantic City)"
+    "event": "America's 1st passenger flight (NY-Atlantic City)"
   },
   {
     "date": "1922-05-03",
@@ -5797,7 +5797,7 @@ var todayinhistory = [
   },
   {
     "date": "1965-05-03",
-    "event": "3rd Mayor\\'s Trophy Game - Mets beat Yanks 2-1 in 10"
+    "event": "3rd Mayor's Trophy Game - Mets beat Yanks 2-1 in 10"
   },
   {
     "date": "1971-05-03",
@@ -5833,7 +5833,7 @@ var todayinhistory = [
   },
   {
     "date": "1866-05-04",
-    "event": "Woodward\\'s Gardens opens to public"
+    "event": "Woodward's Gardens opens to public"
   },
   {
     "date": "1871-05-04",
@@ -5889,7 +5889,7 @@ var todayinhistory = [
   },
   {
     "date": "1867-05-05",
-    "event": "Battle of Puebla-Mexicans defeat Maximilian\\'s forces (Cinco de Mayo)"
+    "event": "Battle of Puebla-Mexicans defeat Maximilian's forces (Cinco de Mayo)"
   },
   {
     "date": "1891-05-05",
@@ -5945,7 +5945,7 @@ var todayinhistory = [
   },
   {
     "date": "1981-05-05",
-    "event": "16th & final Mayor\\'s Trophy Game - Mets beat Yanks 4-1 & hold 8-7 edge"
+    "event": "16th & final Mayor's Trophy Game - Mets beat Yanks 4-1 & hold 8-7 edge"
   },
   {
     "date": "1983-05-05",
@@ -5961,7 +5961,7 @@ var todayinhistory = [
   },
   {
     "date": "1794-05-06",
-    "event": "Haiti - under Toussaint L\\'Ouverture - revolts against France"
+    "event": "Haiti - under Toussaint L'Ouverture - revolts against France"
   },
   {
     "date": "1840-05-06",
@@ -5973,7 +5973,7 @@ var todayinhistory = [
   },
   {
     "date": "1851-05-06",
-    "event": "Dr John Farrie Patents a \\\"refrigeration machine\\"
+    "event": "Dr John Farrie Patents a refrigeration machine"
   },
   {
     "date": "1860-05-06",
@@ -6005,7 +6005,7 @@ var todayinhistory = [
   },
   {
     "date": "1953-05-06",
-    "event": "Bobo Holloman\\'s 1st major league start - a no-hitter"
+    "event": "Bobo Holloman's 1st major league start - a no-hitter"
   },
   {
     "date": "1954-05-06",
@@ -6033,7 +6033,7 @@ var todayinhistory = [
   },
   {
     "date": "1824-05-07",
-    "event": "Beethoven\\'s 9th Symphony performed for 1st time"
+    "event": "Beethoven's 9th Symphony performed for 1st time"
   },
   {
     "date": "1915-05-07",
@@ -6045,7 +6045,7 @@ var todayinhistory = [
   },
   {
     "date": "1934-05-07",
-    "event": "World\\'s largest pearl (6.4 kg) found at Palawan - Philippines"
+    "event": "World's largest pearl (6.4 kg) found at Palawan - Philippines"
   },
   {
     "date": "1941-05-07",
@@ -6065,7 +6065,7 @@ var todayinhistory = [
   },
   {
     "date": "1959-05-07",
-    "event": "93 -103 largest baseball crowd (LA Coliseum) see Dodgers\\' Sandy Koufax beat Yankees in exhibition 6-2"
+    "event": "93 -103 largest baseball crowd (LA Coliseum) see Dodgers' Sandy Koufax beat Yankees in exhibition 6-2"
   },
   {
     "date": "1963-05-07",
@@ -6121,11 +6121,11 @@ var todayinhistory = [
   },
   {
     "date": "1951-05-08",
-    "event": "Dacron men\\'s suits introduced"
+    "event": "Dacron men's suits introduced"
   },
   {
     "date": "1954-05-08",
-    "event": "1st shot-put over 60 feet - Parry O\\'Brien - Los Angeles - Ca"
+    "event": "1st shot-put over 60 feet - Parry O'Brien - Los Angeles - Ca"
   },
   {
     "date": "1958-05-08",
@@ -6145,7 +6145,7 @@ var todayinhistory = [
   },
   {
     "date": "1970-05-08",
-    "event": "Beatles release \\\"Let it Be\\\" album"
+    "event": "Beatles release \"Let it Be\" album"
   },
   {
     "date": "1970-05-08",
@@ -6181,7 +6181,7 @@ var todayinhistory = [
   },
   {
     "date": "1754-05-09",
-    "event": "1st newspaper cartoon in America Divided snake `Join or die\\"
+    "event": "1st newspaper cartoon in America Divided snake `Join or die"
   },
   {
     "date": "1882-05-09",
@@ -6213,7 +6213,7 @@ var todayinhistory = [
   },
   {
     "date": "1946-05-09",
-    "event": "1st Variety show - NBC\\'s Hour Glass premiers"
+    "event": "1st Variety show - NBC's Hour Glass premiers"
   },
   {
     "date": "1950-05-09",
@@ -6225,7 +6225,7 @@ var todayinhistory = [
   },
   {
     "date": "1961-05-09",
-    "event": "FCC Chairman Newton N Minow criticizes TV as a `vast wasteland\\"
+    "event": "FCC Chairman Newton N Minow criticizes TV as a `vast wasteland"
   },
   {
     "date": "1974-05-09",
@@ -6289,7 +6289,7 @@ var todayinhistory = [
   },
   {
     "date": "1973-05-10",
-    "event": "9th Mayor\\'s Trophy Game - Mets beat Yanks 8-4"
+    "event": "9th Mayor's Trophy Game - Mets beat Yanks 8-4"
   },
   {
     "date": "1979-05-10",
@@ -6333,7 +6333,7 @@ var todayinhistory = [
   },
   {
     "date": "1916-05-11",
-    "event": "Einstein\\'s Theory of General Relativity presented"
+    "event": "Einstein's Theory of General Relativity presented"
   },
   {
     "date": "1919-05-11",
@@ -6385,7 +6385,7 @@ var todayinhistory = [
   },
   {
     "date": "1930-05-12",
-    "event": "Chicago\\'s Adler Planetarium opens - 1st in US"
+    "event": "Chicago's Adler Planetarium opens - 1st in US"
   },
   {
     "date": "1940-05-12",
@@ -6489,11 +6489,11 @@ var todayinhistory = [
   },
   {
     "date": "1935-05-14",
-    "event": "LA\\'s Griffith Planetarium opens - 3rd in US"
+    "event": "LA's Griffith Planetarium opens - 3rd in US"
   },
   {
     "date": "1942-05-14",
-    "event": "US Women\\'s Army Auxiliary Corps (WAAC) founded"
+    "event": "US Women's Army Auxiliary Corps (WAAC) founded"
   },
   {
     "date": "1948-05-14",
@@ -6505,7 +6505,7 @@ var todayinhistory = [
   },
   {
     "date": "1967-05-14",
-    "event": "Mickey Mantle\\'s 500th HR off Oriole\\'s Stu Miller"
+    "event": "Mickey Mantle's 500th HR off Oriole's Stu Miller"
   },
   {
     "date": "1973-05-14",
@@ -6537,7 +6537,7 @@ var todayinhistory = [
   },
   {
     "date": "1836-05-15",
-    "event": "Francis Baily observes \\\"Baily\\'s Beads\\\" during annular solar eclipse"
+    "event": "Francis Baily observes \"Baily's Beads\" during annular solar eclipse"
   },
   {
     "date": "1856-05-15",
@@ -6597,7 +6597,7 @@ var todayinhistory = [
   },
   {
     "date": "1975-05-15",
-    "event": "11th Mayor\\'s Trophy Game - Yanks beat Mets 9-4"
+    "event": "11th Mayor's Trophy Game - Yanks beat Mets 9-4"
   },
   {
     "date": "1980-05-15",
@@ -6681,7 +6681,7 @@ var todayinhistory = [
   },
   {
     "date": "1975-05-16",
-    "event": "Japanese Junko Tabei became 1st woman to reach Mt Everest\\'s summit"
+    "event": "Japanese Junko Tabei became 1st woman to reach Mt Everest's summit"
   },
   {
     "date": "1982-05-16",
@@ -6729,7 +6729,7 @@ var todayinhistory = [
   },
   {
     "date": "1938-05-17",
-    "event": "Radio quiz show `Information Please!\\' debuts on NBC Blue Network"
+    "event": "Radio quiz show `Information Please!' debuts on NBC Blue Network"
   },
   {
     "date": "1939-05-17",
@@ -6741,7 +6741,7 @@ var todayinhistory = [
   },
   {
     "date": "1954-05-17",
-    "event": "Supreme Court unanimously rules on Brown v Topeka Board of Ed reversed 1896 `separate but equal\\' Plessy Vs Ferguson decision"
+    "event": "Supreme Court unanimously rules on Brown v Topeka Board of Ed reversed 1896 `separate but equal' Plessy Vs Ferguson decision"
   },
   {
     "date": "1960-05-17",
@@ -6789,7 +6789,7 @@ var todayinhistory = [
   },
   {
     "date": "1910-05-18",
-    "event": "Passage of Earth through tail of Halley\\'s Comet causes near-panic"
+    "event": "Passage of Earth through tail of Halley's Comet causes near-panic"
   },
   {
     "date": "1917-05-18",
@@ -6861,7 +6861,7 @@ var todayinhistory = [
   },
   {
     "date": "1830-05-20",
-    "event": "1st railroad timetable published in newspaper -`Baltimore American\\"
+    "event": "1st railroad timetable published in newspaper -`Baltimore American"
   },
   {
     "date": "1845-05-20",
@@ -6909,7 +6909,7 @@ var todayinhistory = [
   },
   {
     "date": "1961-05-20",
-    "event": "White mob attacks `Freedom Riders\\' in Montgomery - Alabama"
+    "event": "White mob attacks `Freedom Riders' in Montgomery - Alabama"
   },
   {
     "date": "1972-05-20",
@@ -6965,7 +6965,7 @@ var todayinhistory = [
   },
   {
     "date": "1904-05-21",
-    "event": "FIFA - soccer\\'s intl governing body - is formed"
+    "event": "FIFA - soccer's intl governing body - is formed"
   },
   {
     "date": "1922-05-21",
@@ -7033,11 +7033,11 @@ var todayinhistory = [
   },
   {
     "date": "1939-05-22",
-    "event": "Hitler & Mussolini sign `Pact of Steel\\"
+    "event": "Hitler & Mussolini sign `Pact of Steel"
   },
   {
     "date": "1946-05-22",
-    "event": "Yankees turn triple play & defeat Tigers\\' 5-3"
+    "event": "Yankees turn triple play & defeat Tigers' 5-3"
   },
   {
     "date": "1947-05-22",
@@ -7057,7 +7057,7 @@ var todayinhistory = [
   },
   {
     "date": "1963-05-22",
-    "event": "Mickey Mantle hits a ball off Yankee Stadium\\'s facade"
+    "event": "Mickey Mantle hits a ball off Yankee Stadium's facade"
   },
   {
     "date": "1967-05-22",
@@ -7105,7 +7105,7 @@ var todayinhistory = [
   },
   {
     "date": "1844-05-23",
-    "event": "Decl of Bab (Bah \\'¡ festival)"
+    "event": "Decl of Bab (Bah '¡ festival)"
   },
   {
     "date": "1853-05-23",
@@ -7117,7 +7117,7 @@ var todayinhistory = [
   },
   {
     "date": "1873-05-23",
-    "event": "Canada\\'s North West Mounted Police force was established"
+    "event": "Canada's North West Mounted Police force was established"
   },
   {
     "date": "1898-05-23",
@@ -7197,7 +7197,7 @@ var todayinhistory = [
   },
   {
     "date": "1844-05-24",
-    "event": "Samual FB Morse taps out \\\"What Hath God Wrought\\"
+    "event": "Samual FB Morse taps out \"What Hath God Wrought\""
   },
   {
     "date": "1866-05-24",
@@ -7229,7 +7229,7 @@ var todayinhistory = [
   },
   {
     "date": "1936-05-24",
-    "event": "Tony Lazerri 2 grand slams (11 RBIs) Ben Chapman sets record by reaching 1st 7 times safely Yanks beat A\\'s 25-2"
+    "event": "Tony Lazerri 2 grand slams (11 RBIs) Ben Chapman sets record by reaching 1st 7 times safely Yanks beat A's 25-2"
   },
   {
     "date": "1941-05-24",
@@ -7273,7 +7273,7 @@ var todayinhistory = [
   },
   {
     "date": "1810-05-25",
-    "event": "Argentina declares independence from Napoleonic Spain (Nat\\'l Day)"
+    "event": "Argentina declares independence from Napoleonic Spain (Nat'l Day)"
   },
   {
     "date": "1825-05-25",
@@ -7373,7 +7373,7 @@ var todayinhistory = [
   },
   {
     "date": "1928-05-26",
-    "event": "A\\'s commit 7 errors & lose to Yanks 7-4"
+    "event": "A's commit 7 errors & lose to Yanks 7-4"
   },
   {
     "date": "1937-05-26",
@@ -7445,7 +7445,7 @@ var todayinhistory = [
   },
   {
     "date": "1933-05-27",
-    "event": "Walt Disney\\'s \\\"3 Little Pigs\\\" released"
+    "event": "Walt Disney's \"3 Little Pigs\" released"
   },
   {
     "date": "1933-05-27",
@@ -7457,7 +7457,7 @@ var todayinhistory = [
   },
   {
     "date": "1935-05-27",
-    "event": "Supreme Court declares FDR\\'s Natl Recovery Act unconstitutional"
+    "event": "Supreme Court declares FDR's Natl Recovery Act unconstitutional"
   },
   {
     "date": "1936-05-27",
@@ -7481,7 +7481,7 @@ var todayinhistory = [
   },
   {
     "date": "1968-05-27",
-    "event": "6th Mayor\\'s Trophy Game - Mets beat Yanks 4-3"
+    "event": "6th Mayor's Trophy Game - Mets beat Yanks 4-3"
   },
   {
     "date": "1969-05-27",
@@ -7489,7 +7489,7 @@ var todayinhistory = [
   },
   {
     "date": "1975-05-27",
-    "event": "Paul McCartney releases \\\"Venus & Mars\\"
+    "event": "Paul McCartney releases \"Venus & Mars\""
   },
   {
     "date": "1985-05-27",
@@ -7521,7 +7521,7 @@ var todayinhistory = [
   },
   {
     "date": "1929-05-28",
-    "event": "1st all color talking picture \\\"On With The Show\\\" exhibited - NYC"
+    "event": "1st all color talking picture \"On With The Show\" exhibited - NYC"
   },
   {
     "date": "1946-05-28",
@@ -7529,7 +7529,7 @@ var todayinhistory = [
   },
   {
     "date": "1953-05-28",
-    "event": "Premier of 1st animated 3-D cartoon in Technicolor - \\\"Melody\\"
+    "event": "Premier of 1st animated 3-D cartoon in Technicolor - \"Melody\""
   },
   {
     "date": "1959-05-28",
@@ -7573,7 +7573,7 @@ var todayinhistory = [
   },
   {
     "date": "1892-05-29",
-    "event": "Death of prophet Baha\\'Ullah (Ascension of Baha\\'Ullah)"
+    "event": "Death of prophet Baha'Ullah (Ascension of Baha'Ullah)"
   },
   {
     "date": "1916-05-29",
@@ -7581,7 +7581,7 @@ var todayinhistory = [
   },
   {
     "date": "1919-05-29",
-    "event": "Einstein\\'s light-bending prediction is confirmed by Arthur Eddington"
+    "event": "Einstein's light-bending prediction is confirmed by Arthur Eddington"
   },
   {
     "date": "1951-05-29",
@@ -7617,7 +7617,7 @@ var todayinhistory = [
   },
   {
     "date": "1814-05-30",
-    "event": "1st Treaty of Paris - after Napoleon\\'s 1st abdication"
+    "event": "1st Treaty of Paris - after Napoleon's 1st abdication"
   },
   {
     "date": "1854-05-30",
@@ -7633,7 +7633,7 @@ var todayinhistory = [
   },
   {
     "date": "1920-05-30",
-    "event": "Joan d\\'Arc Day"
+    "event": "Joan d'Arc Day"
   },
   {
     "date": "1932-05-30",
@@ -7645,7 +7645,7 @@ var todayinhistory = [
   },
   {
     "date": "1937-05-30",
-    "event": "Pitcher Carl Hubbell\\'s 24th consecutive victory"
+    "event": "Pitcher Carl Hubbell's 24th consecutive victory"
   },
   {
     "date": "1938-05-30",
@@ -7669,15 +7669,15 @@ var todayinhistory = [
   },
   {
     "date": "1972-05-30",
-    "event": "3 Jap PFL terrorists kills 24 - wound 72 at Tel Aviv\\'s Lydda airport"
+    "event": "3 Jap PFL terrorists kills 24 - wound 72 at Tel Aviv's Lydda airport"
   },
   {
     "date": "1974-05-30",
-    "event": "10th Mayor\\'s Trophy Game - Yanks beat Mets 9-4"
+    "event": "10th Mayor's Trophy Game - Yanks beat Mets 9-4"
   },
   {
     "date": "1980-05-30",
-    "event": "Turner\\'s painting \\\"Juliet & Her Nurse\\\" sells for $6.4 million"
+    "event": "Turner's painting \"Juliet & Her Nurse\" sells for $6.4 million"
   },
   {
     "date": "1982-05-30",
@@ -7741,7 +7741,7 @@ var todayinhistory = [
   },
   {
     "date": "1956-05-31",
-    "event": "Mickey Mantle HR just misses clearing Yankee Stadium\\'s roof"
+    "event": "Mickey Mantle HR just misses clearing Yankee Stadium's roof"
   },
   {
     "date": "1961-05-31",
@@ -7777,7 +7777,7 @@ var todayinhistory = [
   },
   {
     "date": "1813-06-01",
-    "event": "Capt John Lawrence utters Navy motto \\'Don\\'t give up the ship\\"
+    "event": "Capt John Lawrence utters Navy motto 'Don't give up the ship"
   },
   {
     "date": "1845-06-01",
@@ -7809,7 +7809,7 @@ var todayinhistory = [
   },
   {
     "date": "1933-06-01",
-    "event": "Century of Progress world\\'s fair opens in Chicago"
+    "event": "Century of Progress world's fair opens in Chicago"
   },
   {
     "date": "1935-06-01",
@@ -7841,11 +7841,11 @@ var todayinhistory = [
   },
   {
     "date": "1967-06-01",
-    "event": "Sgt. Pepper\\'s Lonely Hearts Club Band - by the Beatles - is released"
+    "event": "Sgt. Pepper's Lonely Hearts Club Band - by the Beatles - is released"
   },
   {
     "date": "1967-06-01",
-    "event": "Beatles release \\\"Sgt Pepper\\'s Lonely Hearts Club Band\\"
+    "event": "Beatles release \"Sgt Pepper's Lonely Hearts Club Band\""
   },
   {
     "date": "1970-06-01",
@@ -7853,7 +7853,7 @@ var todayinhistory = [
   },
   {
     "date": "1971-06-01",
-    "event": "Ed Sullivan\\'s final show"
+    "event": "Ed Sullivan's final show"
   },
   {
     "date": "1984-06-01",
@@ -7869,7 +7869,7 @@ var todayinhistory = [
   },
   {
     "date": "1858-06-02",
-    "event": "Donati Comet 1st seen named after it\\'s discoverer"
+    "event": "Donati Comet 1st seen named after it's discoverer"
   },
   {
     "date": "1866-06-02",
@@ -7877,11 +7877,11 @@ var todayinhistory = [
   },
   {
     "date": "1873-06-02",
-    "event": "Ground broken on Clay Street for world\\'s 1st cable railroad"
+    "event": "Ground broken on Clay Street for world's 1st cable railroad"
   },
   {
     "date": "1873-06-02",
-    "event": "ground broken on Clay Street for world\\'s 1st cable railroad"
+    "event": "ground broken on Clay Street for world's 1st cable railroad"
   },
   {
     "date": "1883-06-02",
@@ -7949,7 +7949,7 @@ var todayinhistory = [
   },
   {
     "date": "1621-06-03",
-    "event": "Dutch West India Company receives charter for \\\"New Netherlands\\"
+    "event": "Dutch West India Company receives charter for \"New Netherlands\""
   },
   {
     "date": "1770-06-03",
@@ -7969,11 +7969,11 @@ var todayinhistory = [
   },
   {
     "date": "1932-06-03",
-    "event": "Lou Gehrig hits 4 consecutive HRs Yanks beat A\\'s 20-13"
+    "event": "Lou Gehrig hits 4 consecutive HRs Yanks beat A's 20-13"
   },
   {
     "date": "1933-06-03",
-    "event": "A\\'s score 11 runs in 2nd - Yanks score 10 in 5th & win 17-11"
+    "event": "A's score 11 runs in 2nd - Yanks score 10 in 5th & win 17-11"
   },
   {
     "date": "1934-06-03",
@@ -7981,7 +7981,7 @@ var todayinhistory = [
   },
   {
     "date": "1935-06-03",
-    "event": "Atlantic crossing record French \\\"Normandie\\\": 1077 hours"
+    "event": "Atlantic crossing record French \"Normandie\": 1077 hours"
   },
   {
     "date": "1937-06-03",
@@ -7989,7 +7989,7 @@ var todayinhistory = [
   },
   {
     "date": "1942-06-03",
-    "event": "Battle of Midway begins; Japan\\'s 1st major defeat in WW II"
+    "event": "Battle of Midway begins; Japan's 1st major defeat in WW II"
   },
   {
     "date": "1948-06-03",
@@ -7997,11 +7997,11 @@ var todayinhistory = [
   },
   {
     "date": "1949-06-03",
-    "event": "Dragnet\\'s 1st broadcast on radio (KFI in LA)"
+    "event": "Dragnet's 1st broadcast on radio (KFI in LA)"
   },
   {
     "date": "1957-06-03",
-    "event": "Howard Cosell\\'s 1st TV show"
+    "event": "Howard Cosell's 1st TV show"
   },
   {
     "date": "1959-06-03",
@@ -8061,7 +8061,7 @@ var todayinhistory = [
   },
   {
     "date": "1812-06-04",
-    "event": "La Territory officially renamed \\\"Missouri Territory\\"
+    "event": "La Territory officially renamed \"Missouri Territory\""
   },
   {
     "date": "1850-06-04",
@@ -8089,7 +8089,7 @@ var todayinhistory = [
   },
   {
     "date": "1944-06-04",
-    "event": "Rome liberated from Mussolini\\'s Fascist armies"
+    "event": "Rome liberated from Mussolini's Fascist armies"
   },
   {
     "date": "1946-06-04",
@@ -8121,7 +8121,7 @@ var todayinhistory = [
   },
   {
     "date": "1985-06-04",
-    "event": "Supreme Court strikes down Alabama \\\"moment of silence\\\" law"
+    "event": "Supreme Court strikes down Alabama \"moment of silence\" law"
   },
   {
     "date": "1986-06-04",
@@ -8149,7 +8149,7 @@ var todayinhistory = [
   },
   {
     "date": "1855-06-05",
-    "event": "Anti-foreign anti-Roman Catholic Know-Nothing Party\\'s 1st convention"
+    "event": "Anti-foreign anti-Roman Catholic Know-Nothing Party's 1st convention"
   },
   {
     "date": "1875-06-05",
@@ -8185,7 +8185,7 @@ var todayinhistory = [
   },
   {
     "date": "1947-06-05",
-    "event": "Sec of State George C Marshall outlines `The Marshall Plan\\"
+    "event": "Sec of State George C Marshall outlines `The Marshall Plan"
   },
   {
     "date": "1967-06-05",
@@ -8313,7 +8313,7 @@ var todayinhistory = [
   },
   {
     "date": "1966-06-06",
-    "event": "Gemini 9 completes 45 orbits after rendezvous with \\'angry alligator\\"
+    "event": "Gemini 9 completes 45 orbits after rendezvous with 'angry alligator"
   },
   {
     "date": "1967-06-06",
@@ -8341,7 +8341,7 @@ var todayinhistory = [
   },
   {
     "date": "1984-06-06",
-    "event": "1 -200 die in Sikh \\\"Golden Temple\\\" uprising India"
+    "event": "1 -200 die in Sikh \"Golden Temple\" uprising India"
   },
   {
     "date": "1985-06-06",
@@ -8493,7 +8493,7 @@ var todayinhistory = [
   },
   {
     "date": "1918-06-08",
-    "event": "Nova Aquila - brightest nova since Kepler\\'s nova of 1604 - discovered"
+    "event": "Nova Aquila - brightest nova since Kepler's nova of 1604 - discovered"
   },
   {
     "date": "1927-06-08",
@@ -8509,7 +8509,7 @@ var todayinhistory = [
   },
   {
     "date": "1959-06-08",
-    "event": "1st official `missile mail\\' landed Jacksonville Fla"
+    "event": "1st official `missile mail' landed Jacksonville Fla"
   },
   {
     "date": "1966-06-08",
@@ -8573,7 +8573,7 @@ var todayinhistory = [
   },
   {
     "date": "1898-06-09",
-    "event": "China leases Hong Kong\\'s New Territories to Britain for 99 years"
+    "event": "China leases Hong Kong's New Territories to Britain for 99 years"
   },
   {
     "date": "1931-06-09",
@@ -8589,7 +8589,7 @@ var todayinhistory = [
   },
   {
     "date": "1959-06-09",
-    "event": "1st ballistic missile sub launched \\\"George Washington\\"
+    "event": "1st ballistic missile sub launched \"George Washington\""
   },
   {
     "date": "1963-06-09",
@@ -8633,7 +8633,7 @@ var todayinhistory = [
   },
   {
     "date": "1580-06-10",
-    "event": "Lu¡s Vaz de Camoes - Portugal\\'s national poet - dies"
+    "event": "Lu¡s Vaz de Camoes - Portugal's national poet - dies"
   },
   {
     "date": "1639-06-10",
@@ -8657,7 +8657,7 @@ var todayinhistory = [
   },
   {
     "date": "1865-06-10",
-    "event": "Wagner\\'s \\\"Tristan und Isolde\\\" 1st performance Munich Germany"
+    "event": "Wagner's \"Tristan und Isolde\" 1st performance Munich Germany"
   },
   {
     "date": "1869-06-10",
@@ -8733,11 +8733,11 @@ var todayinhistory = [
   },
   {
     "date": "1967-06-10",
-    "event": "Israel Syria Jordan Iraq Egypt end \\\"6-Day War\\\" with UN help"
+    "event": "Israel Syria Jordan Iraq Egypt end \"6-Day War\" with UN help"
   },
   {
     "date": "1977-06-10",
-    "event": "Apple Computer ships its 1st Apple II. Also James Earl Ray (Martin Luther King\\'s killer) escapes from prison"
+    "event": "Apple Computer ships its 1st Apple II. Also James Earl Ray (Martin Luther King's killer) escapes from prison"
   },
   {
     "date": "1978-06-10",
@@ -8765,7 +8765,7 @@ var todayinhistory = [
   },
   {
     "date": "1864-06-11",
-    "event": "300\\' of Meigg\\'s Wharf washed away in storm"
+    "event": "300' of Meigg's Wharf washed away in storm"
   },
   {
     "date": "1895-06-11",
@@ -8781,7 +8781,7 @@ var todayinhistory = [
   },
   {
     "date": "1937-06-11",
-    "event": "Marx Brothers\\' \\\"A Day At The Races\\\" released"
+    "event": "Marx Brothers' \"A Day At The Races\" released"
   },
   {
     "date": "1942-06-11",
@@ -8817,7 +8817,7 @@ var todayinhistory = [
   },
   {
     "date": "1982-06-11",
-    "event": "Larry Holmes defeats Gerry Cooney retains WBC heavyweight crown / Israel & Syria stop fighting in Lebanon / Movie \\\"E T\\\" released"
+    "event": "Larry Holmes defeats Gerry Cooney retains WBC heavyweight crown / Israel & Syria stop fighting in Lebanon / Movie \"E T\" released"
   },
   {
     "date": "1665-06-12",
@@ -8833,7 +8833,7 @@ var todayinhistory = [
   },
   {
     "date": "1812-06-12",
-    "event": "Napoleon\\'s invasion of Russia begins"
+    "event": "Napoleon's invasion of Russia begins"
   },
   {
     "date": "1838-06-12",
@@ -8877,7 +8877,7 @@ var todayinhistory = [
   },
   {
     "date": "1937-06-12",
-    "event": "USSR executes 8 army leaders as Stalin\\'s purge continued"
+    "event": "USSR executes 8 army leaders as Stalin's purge continued"
   },
   {
     "date": "1939-06-12",
@@ -8909,7 +8909,7 @@ var todayinhistory = [
   },
   {
     "date": "1972-06-12",
-    "event": "John Lennon\\'s political \\\"Sometime in NYC\\\" released including \\\"Woman is the Nigger of the World\\\" \\\"Attica State\\\" & \\\"Luck of the Irish\\"
+    "event": "John Lennon's political \"Sometime in NYC\" released including \"Woman is the Nigger of the World\" \"Attica State\" & \"Luck of the Irish"
   },
   {
     "date": "1973-06-12",
@@ -8941,7 +8941,7 @@ var todayinhistory = [
   },
   {
     "date": "1373-06-13",
-    "event": "Anglo-Portuguese Treaty of Alliance (world\\'s oldest) signed"
+    "event": "Anglo-Portuguese Treaty of Alliance (world's oldest) signed"
   },
   {
     "date": "1611-06-13",
@@ -8965,7 +8965,7 @@ var todayinhistory = [
   },
   {
     "date": "1900-06-13",
-    "event": "China\\'s Boxer Rebellion against foreigners & Christians"
+    "event": "China's Boxer Rebellion against foreigners & Christians"
   },
   {
     "date": "1913-06-13",
@@ -8973,7 +8973,7 @@ var todayinhistory = [
   },
   {
     "date": "1921-06-13",
-    "event": "Yanks\\' pitcher Babe Ruth hits 2 HRs beating Tigers 11-8"
+    "event": "Yanks' pitcher Babe Ruth hits 2 HRs beating Tigers 11-8"
   },
   {
     "date": "1924-06-13",
@@ -9001,7 +9001,7 @@ var todayinhistory = [
   },
   {
     "date": "1948-06-13",
-    "event": "Babe Ruth\\'s #3 is retired"
+    "event": "Babe Ruth's #3 is retired"
   },
   {
     "date": "1963-06-13",
@@ -9029,7 +9029,7 @@ var todayinhistory = [
   },
   {
     "date": "1980-06-13",
-    "event": "Rep John Jenrette Jr (D-SC) indicted in \\\"Abscam\\\" investigation"
+    "event": "Rep John Jenrette Jr (D-SC) indicted in \"Abscam\" investigation"
   },
   {
     "date": "1981-06-13",
@@ -9089,7 +9089,7 @@ var todayinhistory = [
   },
   {
     "date": "1876-06-14",
-    "event": "California St Cable Car RR Co gets it\\'s franchise"
+    "event": "California St Cable Car RR Co gets it's franchise"
   },
   {
     "date": "1900-06-14",
@@ -9125,7 +9125,7 @@ var todayinhistory = [
   },
   {
     "date": "1942-06-14",
-    "event": "Walt Disney\\'s \\\"Bambi\\\" is released"
+    "event": "Walt Disney's \"Bambi\" is released"
   },
   {
     "date": "1944-06-14",
@@ -9149,7 +9149,7 @@ var todayinhistory = [
   },
   {
     "date": "1954-06-14",
-    "event": "Pres Eisenhower signs order adding words `under God\\' to the Pledge"
+    "event": "Pres Eisenhower signs order adding words `under God' to the Pledge"
   },
   {
     "date": "1963-06-14",
@@ -9165,7 +9165,7 @@ var todayinhistory = [
   },
   {
     "date": "1976-06-14",
-    "event": "12th Mayor\\'s Trophy Game Yanks beat Mets 8-4"
+    "event": "12th Mayor's Trophy Game Yanks beat Mets 8-4"
   },
   {
     "date": "1976-06-14",
@@ -9185,7 +9185,7 @@ var todayinhistory = [
   },
   {
     "date": "1985-06-14",
-    "event": "Lebanese Shiite Moslem gunmen hijack TWA 847 after Athens\\' takeoff"
+    "event": "Lebanese Shiite Moslem gunmen hijack TWA 847 after Athens' takeoff"
   },
   {
     "date": "1986-06-14",
@@ -9221,7 +9221,7 @@ var todayinhistory = [
   },
   {
     "date": "1752-06-15",
-    "event": "Ben Franklin\\'s kite is struck by lightning-What a shock"
+    "event": "Ben Franklin's kite is struck by lightning-What a shock"
   },
   {
     "date": "1775-06-15",
@@ -9229,7 +9229,7 @@ var todayinhistory = [
   },
   {
     "date": "1785-06-15",
-    "event": "2 French balloonists die in world\\'s 1st fatal aviation accident"
+    "event": "2 French balloonists die in world's 1st fatal aviation accident"
   },
   {
     "date": "1804-06-15",
@@ -9253,11 +9253,11 @@ var todayinhistory = [
   },
   {
     "date": "1864-06-15",
-    "event": "Robert E Lee\\'s home area (Arlington Va) turned into a milt cemetery"
+    "event": "Robert E Lee's home area (Arlington Va) turned into a milt cemetery"
   },
   {
     "date": "1878-06-15",
-    "event": "1st attempt at motion pictures (used 12 cameras taking 1 picture) done to see if all 4 of a horse\\'s hooves leave the ground"
+    "event": "1st attempt at motion pictures (used 12 cameras taking 1 picture) done to see if all 4 of a horse's hooves leave the ground"
   },
   {
     "date": "1902-06-15",
@@ -9309,7 +9309,7 @@ var todayinhistory = [
   },
   {
     "date": "1977-06-15",
-    "event": "Spain\\'s 1st free elections since 1936"
+    "event": "Spain's 1st free elections since 1936"
   },
   {
     "date": "1978-06-15",
@@ -9333,11 +9333,11 @@ var todayinhistory = [
   },
   {
     "date": "1775-06-16",
-    "event": "Battle of Bunker Hill (actually Breed\\'s Hill)"
+    "event": "Battle of Bunker Hill (actually Breed's Hill)"
   },
   {
     "date": "1832-06-16",
-    "event": "Battle of Kellogg\\'s Grove - Ill"
+    "event": "Battle of Kellogg's Grove - Ill"
   },
   {
     "date": "1858-06-16",
@@ -9345,7 +9345,7 @@ var todayinhistory = [
   },
   {
     "date": "1883-06-16",
-    "event": "1st baseball \\\"Ladies\\' Day\\\" (NY Gothams vs Cleveland Spiders)"
+    "event": "1st baseball \"Ladies' Day\" (NY Gothams vs Cleveland Spiders)"
   },
   {
     "date": "1903-06-16",
@@ -9357,7 +9357,7 @@ var todayinhistory = [
   },
   {
     "date": "1904-06-16",
-    "event": "Bloomsday (date of events in James Joyce\\'s Ulysses)"
+    "event": "Bloomsday (date of events in James Joyce's Ulysses)"
   },
   {
     "date": "1919-06-16",
@@ -9373,7 +9373,7 @@ var todayinhistory = [
   },
   {
     "date": "1937-06-16",
-    "event": "Marx Brothers\\' \\\"A Day At The Races\\\" opens in LA"
+    "event": "Marx Brothers' \"A Day At The Races\" opens in LA"
   },
   {
     "date": "1941-06-16",
@@ -9385,7 +9385,7 @@ var todayinhistory = [
   },
   {
     "date": "1947-06-16",
-    "event": "1st network news - Dumont\\'s \\\"News from Washington\\"
+    "event": "1st network news - Dumont's \"News from Washington\""
   },
   {
     "date": "1949-06-16",
@@ -9421,7 +9421,7 @@ var todayinhistory = [
   },
   {
     "date": "1977-06-16",
-    "event": "Ron Guidry\\'s 1st complete game 7-0 over KC Royals. Also Wernher von Braun dies at 65 from smoking"
+    "event": "Ron Guidry's 1st complete game 7-0 over KC Royals. Also Wernher von Braun dies at 65 from smoking"
   },
   {
     "date": "1978-06-16",
@@ -9445,7 +9445,7 @@ var todayinhistory = [
   },
   {
     "date": "1775-06-17",
-    "event": "Battle of Bunker Hill (actually it was Breed\\'s Hill)"
+    "event": "Battle of Bunker Hill (actually it was Breed's Hill)"
   },
   {
     "date": "1789-06-17",
@@ -9461,11 +9461,11 @@ var todayinhistory = [
   },
   {
     "date": "1885-06-17",
-    "event": "Statue of Liberty arrived in NYC aboard French ship `Isere\\"
+    "event": "Statue of Liberty arrived in NYC aboard French ship `Isere"
   },
   {
     "date": "1937-06-17",
-    "event": "Marx Brothers\\' \\\"A Day At The Races\\\" opens in NY"
+    "event": "Marx Brothers' \"A Day At The Races\" opens in NY"
   },
   {
     "date": "1940-06-17",
@@ -9497,7 +9497,7 @@ var todayinhistory = [
   },
   {
     "date": "1963-06-17",
-    "event": "Supreme Court strikes down Lord\\'s Prayer recitation"
+    "event": "Supreme Court strikes down Lord's Prayer recitation"
   },
   {
     "date": "1971-06-17",
@@ -9513,7 +9513,7 @@ var todayinhistory = [
   },
   {
     "date": "1982-06-17",
-    "event": "President Galtieri resigns in Argentina. Also Ronald Reagan\\'s \\\"evil empire\\\" speech"
+    "event": "President Galtieri resigns in Argentina. Also Ronald Reagan's \"evil empire\" speech"
   },
   {
     "date": "1985-06-17",
@@ -9549,7 +9549,7 @@ var todayinhistory = [
   },
   {
     "date": "1872-06-18",
-    "event": "Woman\\'s Sufferage Convention held at Merchantile Liberty Hall"
+    "event": "Woman's Sufferage Convention held at Merchantile Liberty Hall"
   },
   {
     "date": "1873-06-18",
@@ -9577,7 +9577,7 @@ var todayinhistory = [
   },
   {
     "date": "1940-06-18",
-    "event": "Winston Churchill urged perseverance so that future generations would remember that \\\"this was their finest hour\\"
+    "event": "Winston Churchill urged perseverance so that future generations would remember that \"this was their finest hour\""
   },
   {
     "date": "1945-06-18",
@@ -9609,7 +9609,7 @@ var todayinhistory = [
   },
   {
     "date": "1977-06-18",
-    "event": "Space Shuttle test model \\\"Enterprise\\\" carries a crew aloft for 1st time - It was fixed to a modified Boeing 747"
+    "event": "Space Shuttle test model \"Enterprise\" carries a crew aloft for 1st time - It was fixed to a modified Boeing 747"
   },
   {
     "date": "1979-06-18",
@@ -9617,7 +9617,7 @@ var todayinhistory = [
   },
   {
     "date": "1981-06-18",
-    "event": "Supreme Court Justice Potter Stewart retires (replaced by Sandra Day O\\'Connor 1st woman on high court)"
+    "event": "Supreme Court Justice Potter Stewart retires (replaced by Sandra Day O'Connor 1st woman on high court)"
   },
   {
     "date": "1982-06-18",
@@ -9645,7 +9645,7 @@ var todayinhistory = [
   },
   {
     "date": "1778-06-19",
-    "event": "Washington\\'s troops finally leave Valley Forge"
+    "event": "Washington's troops finally leave Valley Forge"
   },
   {
     "date": "1812-06-19",
@@ -9673,7 +9673,7 @@ var todayinhistory = [
   },
   {
     "date": "1910-06-19",
-    "event": "Father\\'s Day celebrated for 1st time in Spokane Wash"
+    "event": "Father's Day celebrated for 1st time in Spokane Wash"
   },
   {
     "date": "1917-06-19",
@@ -9685,7 +9685,7 @@ var todayinhistory = [
   },
   {
     "date": "1932-06-19",
-    "event": "1st concert given in SF\\'s Stern Grove"
+    "event": "1st concert given in SF's Stern Grove"
   },
   {
     "date": "1934-06-19",
@@ -9713,7 +9713,7 @@ var todayinhistory = [
   },
   {
     "date": "1961-06-19",
-    "event": "US Supreme Court struck down a provision in Md\\'s constitution requiring state office holders to belief in existence of God"
+    "event": "US Supreme Court struck down a provision in Md's constitution requiring state office holders to belief in existence of God"
   },
   {
     "date": "1963-06-19",
@@ -9753,7 +9753,7 @@ var todayinhistory = [
   },
   {
     "date": "1981-06-19",
-    "event": "European Space Agency\\'s Ariane carries two satellites into orbit"
+    "event": "European Space Agency's Ariane carries two satellites into orbit"
   },
   {
     "date": "1986-06-19",
@@ -9765,7 +9765,7 @@ var todayinhistory = [
   },
   {
     "date": "1987-06-19",
-    "event": "Wee Willie Keeler\\'s 44 game hitting streak ends"
+    "event": "Wee Willie Keeler's 44 game hitting streak ends"
   },
   {
     "date": "1632-06-20",
@@ -9781,7 +9781,7 @@ var todayinhistory = [
   },
   {
     "date": "1782-06-20",
-    "event": "Congress approves Great Seal of US & the Eagle as it\\'s symbol"
+    "event": "Congress approves Great Seal of US & the Eagle as it's symbol"
   },
   {
     "date": "1791-06-20",
@@ -9825,7 +9825,7 @@ var todayinhistory = [
   },
   {
     "date": "1947-06-20",
-    "event": "Gangster Benjamin `Buggsy\\' Siegel shot dead in Beverly Hills Cal"
+    "event": "Gangster Benjamin `Buggsy' Siegel shot dead in Beverly Hills Cal"
   },
   {
     "date": "1947-06-20",
@@ -9837,19 +9837,19 @@ var todayinhistory = [
   },
   {
     "date": "1950-06-20",
-    "event": "Joe Dimaggio\\'s 2000th hit - Yanks beat Indians 8-2"
+    "event": "Joe Dimaggio's 2000th hit - Yanks beat Indians 8-2"
   },
   {
     "date": "1963-06-20",
-    "event": "US & USSR agree to set up \\\"Hot Line\\"
+    "event": "US & USSR agree to set up \"Hot Line\""
   },
   {
     "date": "1963-06-20",
-    "event": "1st Mayor\\'s Trophy Game Mets beat Yanks 6-2"
+    "event": "1st Mayor's Trophy Game Mets beat Yanks 6-2"
   },
   {
     "date": "1966-06-20",
-    "event": "Georges Lemaitre - originator of \\\"big bang\\\" theory - dies at 71"
+    "event": "Georges Lemaitre - originator of \"big bang\" theory - dies at 71"
   },
   {
     "date": "1967-06-20",
@@ -9869,7 +9869,7 @@ var todayinhistory = [
   },
   {
     "date": "1982-06-20",
-    "event": "It\\'s National Bald Eagle Day"
+    "event": "It's National Bald Eagle Day"
   },
   {
     "date": "1982-06-20",
@@ -9889,7 +9889,7 @@ var todayinhistory = [
   },
   {
     "date": "1633-06-21",
-    "event": "Galileo Galilei is forced by Inquisition to \\\"abjure - curse - & detest\\\" his Copernican heliocentric views"
+    "event": "Galileo Galilei is forced by Inquisition to \"abjure - curse - & detest\" his Copernican heliocentric views"
   },
   {
     "date": "1788-06-21",
@@ -9929,7 +9929,7 @@ var todayinhistory = [
   },
   {
     "date": "1938-06-21",
-    "event": "Baseball\\'s Pinky Higgins gets 12th straight hit"
+    "event": "Baseball's Pinky Higgins gets 12th straight hit"
   },
   {
     "date": "1939-06-21",
@@ -9945,7 +9945,7 @@ var todayinhistory = [
   },
   {
     "date": "1948-06-21",
-    "event": "Dr Peter Goldmark of CBS demonstrated \\'long playing record\\"
+    "event": "Dr Peter Goldmark of CBS demonstrated 'long playing record"
   },
   {
     "date": "1948-06-21",
@@ -10069,7 +10069,7 @@ var todayinhistory = [
   },
   {
     "date": "1944-06-22",
-    "event": "FDR signs \\\"GI Bill of Rights\\\" (Servicemen\\'s Readjustment Act)"
+    "event": "FDR signs \"GI Bill of Rights\" (Servicemen's Readjustment Act)"
   },
   {
     "date": "1954-06-22",
@@ -10077,7 +10077,7 @@ var todayinhistory = [
   },
   {
     "date": "1957-06-22",
-    "event": "KC stops using streetcars in it\\'s transit system"
+    "event": "KC stops using streetcars in it's transit system"
   },
   {
     "date": "1970-06-22",
@@ -10085,11 +10085,11 @@ var todayinhistory = [
   },
   {
     "date": "1973-06-22",
-    "event": "Skylab 2\\'s astronauts land"
+    "event": "Skylab 2's astronauts land"
   },
   {
     "date": "1977-06-22",
-    "event": "Walt Disney\\'s \\\"The Rescuers\\\" is released"
+    "event": "Walt Disney's \"The Rescuers\" is released"
   },
   {
     "date": "1977-06-22",
@@ -10097,7 +10097,7 @@ var todayinhistory = [
   },
   {
     "date": "1978-06-22",
-    "event": "Pluto\\'s moon Charon discovered by James Christy"
+    "event": "Pluto's moon Charon discovered by James Christy"
   },
   {
     "date": "1979-06-22",
@@ -10133,7 +10133,7 @@ var todayinhistory = [
   },
   {
     "date": "1683-06-23",
-    "event": "William Penn signs friendship treaty with Lenni Lenape indians in Penn; only treaty \\\"not sworn to - nor broken\\"
+    "event": "William Penn signs friendship treaty with Lenni Lenape indians in Penn; only treaty \"not sworn to - nor broken\""
   },
   {
     "date": "1757-06-23",
@@ -10149,7 +10149,7 @@ var todayinhistory = [
   },
   {
     "date": "1915-06-23",
-    "event": "Yanks get record 16 walks & 3 wild pitches beat A\\'s Bruno Hass - 15-0"
+    "event": "Yanks get record 16 walks & 3 wild pitches beat A's Bruno Hass - 15-0"
   },
   {
     "date": "1927-06-23",
@@ -10173,7 +10173,7 @@ var todayinhistory = [
   },
   {
     "date": "1955-06-23",
-    "event": "Walt Disney\\'s \\\"Lady And The Tramp\\\" is released"
+    "event": "Walt Disney's \"Lady And The Tramp\" is released"
   },
   {
     "date": "1967-06-23",
@@ -10197,7 +10197,7 @@ var todayinhistory = [
   },
   {
     "date": "1977-06-23",
-    "event": "13th Mayor\\'s Trophy Game - Mets beat Yanks 6-4"
+    "event": "13th Mayor's Trophy Game - Mets beat Yanks 6-4"
   },
   {
     "date": "1981-06-23",
@@ -10209,7 +10209,7 @@ var todayinhistory = [
   },
   {
     "date": "1986-06-23",
-    "event": "Tip O\\'Neill refuses to let Reagan address House"
+    "event": "Tip O'Neill refuses to let Reagan address House"
   },
   {
     "date": "1314-06-24",
@@ -10233,7 +10233,7 @@ var todayinhistory = [
   },
   {
     "date": "1647-06-24",
-    "event": "Lord Baltimore\\'s niece ejected requesting vote at Maryland Council"
+    "event": "Lord Baltimore's niece ejected requesting vote at Maryland Council"
   },
   {
     "date": "1662-06-24",
@@ -10325,7 +10325,7 @@ var todayinhistory = [
   },
   {
     "date": "1986-06-24",
-    "event": "US Senate approves \\\"tax reform\\"
+    "event": "US Senate approves tax reform"
   },
   {
     "date": "1178-06-25",
@@ -10393,7 +10393,7 @@ var todayinhistory = [
   },
   {
     "date": "1951-06-25",
-    "event": "1st color TV broadcast - CBS\\' Arthur Godfrey from NYC to 4 cities"
+    "event": "1st color TV broadcast - CBS' Arthur Godfrey from NYC to 4 cities"
   },
   {
     "date": "1953-06-25",
@@ -10405,11 +10405,11 @@ var todayinhistory = [
   },
   {
     "date": "1961-06-25",
-    "event": "Yankee\\'s Roger Maris hits his 40th of 61 HRs"
+    "event": "Yankee's Roger Maris hits his 40th of 61 HRs"
   },
   {
     "date": "1962-06-25",
-    "event": "Yankee Jack Reed\\'s 22nd inning HR wins a 7 hour game"
+    "event": "Yankee Jack Reed's 22nd inning HR wins a 7 hour game"
   },
   {
     "date": "1962-06-25",
@@ -10461,7 +10461,7 @@ var todayinhistory = [
   },
   {
     "date": "1876-06-26",
-    "event": "Custer\\'s Last Stand"
+    "event": "Custer's Last Stand"
   },
   {
     "date": "1900-06-26",
@@ -10513,11 +10513,11 @@ var todayinhistory = [
   },
   {
     "date": "1963-06-26",
-    "event": "Kennedy visits W Berlin `Ich bin ein Berliner (I am a Berliner)\\"
+    "event": "Kennedy visits W Berlin `Ich bin ein Berliner (I am a Berliner)"
   },
   {
     "date": "1964-06-26",
-    "event": "Beatles release \\\"A Hard Day\\'s Night\\\" album"
+    "event": "Beatles release \"A Hard Day's Night\" album"
   },
   {
     "date": "1968-06-26",
@@ -10581,7 +10581,7 @@ var todayinhistory = [
   },
   {
     "date": "1942-06-27",
-    "event": "FBI captures 8 Nazi saboteurs from a sub off NY\\'s Long Island"
+    "event": "FBI captures 8 Nazi saboteurs from a sub off NY's Long Island"
   },
   {
     "date": "1944-06-27",
@@ -10605,7 +10605,7 @@ var todayinhistory = [
   },
   {
     "date": "1960-06-27",
-    "event": "Chlorophyll \\\"A\\\" synthesized Cambridge Mass"
+    "event": "Chlorophyll \"A\" synthesized Cambridge Mass"
   },
   {
     "date": "1962-06-27",
@@ -10621,11 +10621,11 @@ var todayinhistory = [
   },
   {
     "date": "1966-06-27",
-    "event": "4th Mayor\\'s Trophy Game Yanks beat Mets 5-2"
+    "event": "4th Mayor's Trophy Game Yanks beat Mets 5-2"
   },
   {
     "date": "1973-06-27",
-    "event": "John W Dean tells Watergate Committee about Nixon\\'s `enemies list\\"
+    "event": "John W Dean tells Watergate Committee about Nixon's `enemies list"
   },
   {
     "date": "1977-06-27",
@@ -10665,7 +10665,7 @@ var todayinhistory = [
   },
   {
     "date": "1778-06-28",
-    "event": "Mary Ludwig Hayes \\\"Molly Pitcher\\\" helped American patriots"
+    "event": "Mary Ludwig Hayes \"Molly Pitcher\" helped American patriots"
   },
   {
     "date": "1778-06-28",
@@ -10681,11 +10681,11 @@ var todayinhistory = [
   },
   {
     "date": "1838-06-28",
-    "event": "Britain\\'s Queen Victoria crowned in Westminster Abbey"
+    "event": "Britain's Queen Victoria crowned in Westminster Abbey"
   },
   {
     "date": "1861-06-28",
-    "event": "Leipzig Obs discovers short-period (6.2 yrs) comet d\\'Arrest"
+    "event": "Leipzig Obs discovers short-period (6.2 yrs) comet d'Arrest"
   },
   {
     "date": "1889-06-28",
@@ -10717,7 +10717,7 @@ var todayinhistory = [
   },
   {
     "date": "1939-06-28",
-    "event": "Yanks hit 13 HRs sweep A\\'s 23-2 & 10-0"
+    "event": "Yanks hit 13 HRs sweep A's 23-2 & 10-0"
   },
   {
     "date": "1939-06-28",
@@ -10753,7 +10753,7 @@ var todayinhistory = [
   },
   {
     "date": "1982-06-28",
-    "event": "Prince Chuck & Lady Di name their baby \\\"William\\"
+    "event": "Prince Chuck & Lady Di name their baby \"William\""
   },
   {
     "date": "1983-06-28",
@@ -10817,7 +10817,7 @@ var todayinhistory = [
   },
   {
     "date": "1941-06-29",
-    "event": "DiMaggio extends hitting streak to 42 breaking Sisler\\'s record"
+    "event": "DiMaggio extends hitting streak to 42 breaking Sisler's record"
   },
   {
     "date": "1946-06-29",
@@ -10873,7 +10873,7 @@ var todayinhistory = [
   },
   {
     "date": "1972-06-29",
-    "event": "Supreme Court-death penalty usually was `cruel & unusual punishment\\"
+    "event": "Supreme Court-death penalty usually was `cruel & unusual punishment"
   },
   {
     "date": "1976-06-29",
@@ -10893,7 +10893,7 @@ var todayinhistory = [
   },
   {
     "date": "1987-06-29",
-    "event": "Yanks blow 11-4 lead but trailing 14-11 Dave Winfield\\'s 8th inning Grand Slammer beats Toronto 15-14 Mattingly also Grand slams"
+    "event": "Yanks blow 11-4 lead but trailing 14-11 Dave Winfield's 8th inning Grand Slammer beats Toronto 15-14 Mattingly also Grand slams"
   },
   {
     "date": "1794-06-30",
@@ -10933,7 +10933,7 @@ var todayinhistory = [
   },
   {
     "date": "1914-06-30",
-    "event": "Mahatma Gandhi\\'s 1st arrest campaign for Indian rights in S Africa"
+    "event": "Mahatma Gandhi's 1st arrest campaign for Indian rights in S Africa"
   },
   {
     "date": "1923-06-30",
@@ -10977,7 +10977,7 @@ var todayinhistory = [
   },
   {
     "date": "1954-06-30",
-    "event": "Yank pitcher Tom Morgan ties record by hitting 3 batters in 1 inning. This was also Bobby Brown\\'s last game he retired to become a Dr."
+    "event": "Yank pitcher Tom Morgan ties record by hitting 3 batters in 1 inning. This was also Bobby Brown's last game he retired to become a Dr."
   },
   {
     "date": "1960-06-30",
@@ -10985,7 +10985,7 @@ var todayinhistory = [
   },
   {
     "date": "1962-06-30",
-    "event": "Pope Paul VI crowned in St Peter\\'s Square"
+    "event": "Pope Paul VI crowned in St Peter's Square"
   },
   {
     "date": "1971-06-30",
@@ -11001,7 +11001,7 @@ var todayinhistory = [
   },
   {
     "date": "1977-06-30",
-    "event": "Jimmy Carter cans B-1A bomber later \\\"B-1\\'s the B-52\\"
+    "event": "Jimmy Carter cans B-1A bomber later \"B-1's the B-52\""
   },
   {
     "date": "1977-06-30",
@@ -11029,7 +11029,7 @@ var todayinhistory = [
   },
   {
     "date": "1690-07-01",
-    "event": "Army of England\\'s Protestant King William III defeats former Roman Catholic king James II in the Battle of the Boyne in Ireland"
+    "event": "Army of England's Protestant King William III defeats former Roman Catholic king James II in the Battle of the Boyne in Ireland"
   },
   {
     "date": "1776-07-01",
@@ -11065,7 +11065,7 @@ var todayinhistory = [
   },
   {
     "date": "1863-07-01",
-    "event": "Battle of Gettysburg Pa.; Lee\\'s northward advance halted."
+    "event": "Battle of Gettysburg Pa.; Lee's northward advance halted."
   },
   {
     "date": "1867-07-01",
@@ -11085,7 +11085,7 @@ var todayinhistory = [
   },
   {
     "date": "1916-07-01",
-    "event": "Eisenhower married Mary ``Mamie\\'\\' Geneva Doud in Denver Colo"
+    "event": "Eisenhower married Mary ``Mamie'' Geneva Doud in Denver Colo"
   },
   {
     "date": "1919-07-01",
@@ -11101,7 +11101,7 @@ var todayinhistory = [
   },
   {
     "date": "1941-07-01",
-    "event": "DiMaggio ties Willie Keeler\\'s 44 game hitting streak"
+    "event": "DiMaggio ties Willie Keeler's 44 game hitting streak"
   },
   {
     "date": "1943-07-01",
@@ -11133,7 +11133,7 @@ var todayinhistory = [
   },
   {
     "date": "1963-07-01",
-    "event": "Beatles record \\\"She Loves You\\"
+    "event": "Beatles record \"She Loves You\""
   },
   {
     "date": "1966-07-01",
@@ -11165,7 +11165,7 @@ var todayinhistory = [
   },
   {
     "date": "1977-07-01",
-    "event": "Virginia Wade beats Betty Stove for Wimbeldon\\'s woman\\'s singles"
+    "event": "Virginia Wade beats Betty Stove for Wimbeldon's woman's singles"
   },
   {
     "date": "1982-07-01",
@@ -11177,7 +11177,7 @@ var todayinhistory = [
   },
   {
     "date": "1987-07-01",
-    "event": "NYC radio station WFAN-AM becomes the 1st 24 hour all sports radio replacing WHN\\'s country music WYNY-FM adopts country music format"
+    "event": "NYC radio station WFAN-AM becomes the 1st 24 hour all sports radio replacing WHN's country music WYNY-FM adopts country music format"
   },
   {
     "date": "1566-07-02",
@@ -11193,7 +11193,7 @@ var todayinhistory = [
   },
   {
     "date": "1776-07-02",
-    "event": "Continental Congress passes resolution saying `these United Colonies Care & of right ought to be Free & Independent States\\"
+    "event": "Continental Congress passes resolution saying `these United Colonies Care & of right ought to be Free & Independent States"
   },
   {
     "date": "1858-07-02",
@@ -11229,7 +11229,7 @@ var todayinhistory = [
   },
   {
     "date": "1941-07-02",
-    "event": "DiMaggio breaks Willie Keeler\\'s 44 game hitting streak"
+    "event": "DiMaggio breaks Willie Keeler's 44 game hitting streak"
   },
   {
     "date": "1955-07-02",
@@ -11261,7 +11261,7 @@ var todayinhistory = [
   },
   {
     "date": "1977-07-02",
-    "event": "Sweden\\'s Bjorn Borg won Wimbeldon men\\'s singles over Jimmy Connors"
+    "event": "Sweden's Bjorn Borg won Wimbeldon men's singles over Jimmy Connors"
   },
   {
     "date": "1978-07-02",
@@ -11273,7 +11273,7 @@ var todayinhistory = [
   },
   {
     "date": "1985-07-02",
-    "event": "Proto launched on its way to Halley\\'s Comet"
+    "event": "Proto launched on its way to Halley's Comet"
   },
   {
     "date": "1986-07-02",
@@ -11329,7 +11329,7 @@ var todayinhistory = [
   },
   {
     "date": "1939-07-03",
-    "event": "Lou Gehrig day Gehrig makes \\'luckiest man\\' speech"
+    "event": "Lou Gehrig day Gehrig makes 'luckiest man' speech"
   },
   {
     "date": "1950-07-03",
@@ -11473,7 +11473,7 @@ var todayinhistory = [
   },
   {
     "date": "1959-07-04",
-    "event": "America\\'s new 49-star flag honoring Alaska statehood unfurled"
+    "event": "America's new 49-star flag honoring Alaska statehood unfurled"
   },
   {
     "date": "1960-07-04",
@@ -11481,7 +11481,7 @@ var todayinhistory = [
   },
   {
     "date": "1960-07-04",
-    "event": "America\\'s new 50-star flag honoring Hawaiian statehood unfurled"
+    "event": "America's new 50-star flag honoring Hawaiian statehood unfurled"
   },
   {
     "date": "1965-07-04",
@@ -11517,7 +11517,7 @@ var todayinhistory = [
   },
   {
     "date": "1985-07-04",
-    "event": "Tinker Bell\\'s nightly flight begins"
+    "event": "Tinker Bell's nightly flight begins"
   },
   {
     "date": "1987-07-04",
@@ -11529,7 +11529,7 @@ var todayinhistory = [
   },
   {
     "date": "1687-07-05",
-    "event": "Isaac Newton\\'s PRINCIPIA is published by Royal Society in England."
+    "event": "Isaac Newton's PRINCIPIA is published by Royal Society in England."
   },
   {
     "date": "1753-07-05",
@@ -11569,7 +11569,7 @@ var todayinhistory = [
   },
   {
     "date": "1938-07-05",
-    "event": "Herb Caen\\'s 1st column in SF Chronicle"
+    "event": "Herb Caen's 1st column in SF Chronicle"
   },
   {
     "date": "1940-07-05",
@@ -11581,7 +11581,7 @@ var todayinhistory = [
   },
   {
     "date": "1946-07-05",
-    "event": "Louis Reard\\'s Bikini swimsuit design debuts at a fashion show Paris"
+    "event": "Louis Reard's Bikini swimsuit design debuts at a fashion show Paris"
   },
   {
     "date": "1947-07-05",
@@ -11621,7 +11621,7 @@ var todayinhistory = [
   },
   {
     "date": "1984-07-05",
-    "event": "Supreme Court weakens 70-year-old `exclusionary rule\\'-evidence seized with defective court warrants can now be used in criminal trials"
+    "event": "Supreme Court weakens 70-year-old `exclusionary rule'-evidence seized with defective court warrants can now be used in criminal trials"
   },
   {
     "date": "1986-07-05",
@@ -11637,7 +11637,7 @@ var todayinhistory = [
   },
   {
     "date": "1687-07-06",
-    "event": "Newton publishes \\'Principia\\"
+    "event": "Newton publishes 'Principia"
   },
   {
     "date": "1699-07-06",
@@ -11685,7 +11685,7 @@ var todayinhistory = [
   },
   {
     "date": "1964-07-06",
-    "event": "Malawi (then Nyasaland) gains independence from Britain (Nat\\'l Day)."
+    "event": "Malawi (then Nyasaland) gains independence from Britain (Nat'l Day)."
   },
   {
     "date": "1975-07-06",
@@ -11741,7 +11741,7 @@ var todayinhistory = [
   },
   {
     "date": "1949-07-07",
-    "event": "Dragnet\\' premiers on NBC radio. A TV series in 1951 & in 1967"
+    "event": "Dragnet' premiers on NBC radio. A TV series in 1951 & in 1967"
   },
   {
     "date": "1958-07-07",
@@ -11769,7 +11769,7 @@ var todayinhistory = [
   },
   {
     "date": "1980-07-07",
-    "event": "Az Judge Sandra Day O\\'Connor 1 female nominated on Supreme Court"
+    "event": "Az Judge Sandra Day O'Connor 1 female nominated on Supreme Court"
   },
   {
     "date": "1986-07-07",
@@ -11813,7 +11813,7 @@ var todayinhistory = [
   },
   {
     "date": "1889-07-08",
-    "event": "Vol 1 # 1 of \\\"The Wall Street Journal\\\" published"
+    "event": "Vol 1 # 1 of \"The Wall Street Journal\" published"
   },
   {
     "date": "1891-07-08",
@@ -11821,7 +11821,7 @@ var todayinhistory = [
   },
   {
     "date": "1896-07-08",
-    "event": "William Jennings Bryan \\'cross of gold\\' speech at Dem convention"
+    "event": "William Jennings Bryan 'cross of gold' speech at Dem convention"
   },
   {
     "date": "1897-07-08",
@@ -11833,7 +11833,7 @@ var todayinhistory = [
   },
   {
     "date": "1907-07-08",
-    "event": "Florenz Ziegfeld staged 1st `Follies\\' on NY Theater roof"
+    "event": "Florenz Ziegfeld staged 1st `Follies' on NY Theater roof"
   },
   {
     "date": "1909-07-08",
@@ -11865,7 +11865,7 @@ var todayinhistory = [
   },
   {
     "date": "1975-07-08",
-    "event": "Pres Ford announced he\\'d seek Republican nomination for pres"
+    "event": "Pres Ford announced he'd seek Republican nomination for pres"
   },
   {
     "date": "1977-07-08",
@@ -11877,15 +11877,15 @@ var todayinhistory = [
   },
   {
     "date": "1540-07-09",
-    "event": "England\\'s King Henry VIII 6-month marriage to Anne of Cleves annulled"
+    "event": "England's King Henry VIII 6-month marriage to Anne of Cleves annulled"
   },
   {
     "date": "1595-07-09",
-    "event": "Johannes Kepler discovers inscribed perfect geometric solid \\\"construction of universe.\\"
+    "event": "Johannes Kepler discovers inscribed perfect geometric solid \"construction of universe.\""
   },
   {
     "date": "1776-07-09",
-    "event": "Dec of Ind read aloud to Gen. Washington\\'s troops in NY"
+    "event": "Dec of Ind read aloud to Gen. Washington's troops in NY"
   },
   {
     "date": "1816-07-09",
@@ -11897,7 +11897,7 @@ var todayinhistory = [
   },
   {
     "date": "1850-07-09",
-    "event": "Bab (Bah \\'¡ prophet) executed in Tabriz Iran."
+    "event": "Bab (Bah '¡ prophet) executed in Tabriz Iran."
   },
   {
     "date": "1850-07-09",
@@ -11941,7 +11941,7 @@ var todayinhistory = [
   },
   {
     "date": "1980-07-09",
-    "event": "Walt Disney\\'s \\\"The Fox & The Hound\\\" is released"
+    "event": "Walt Disney's \"The Fox & The Hound\" is released"
   },
   {
     "date": "1832-07-10",
@@ -11953,7 +11953,7 @@ var todayinhistory = [
   },
   {
     "date": "1850-07-10",
-    "event": "VP Fillmore becomes pres following Zachary Taylor\\'s death"
+    "event": "VP Fillmore becomes pres following Zachary Taylor's death"
   },
   {
     "date": "1890-07-10",
@@ -11973,7 +11973,7 @@ var todayinhistory = [
   },
   {
     "date": "1925-07-10",
-    "event": "USSR\\'s official news agency TASS established"
+    "event": "USSR's official news agency TASS established"
   },
   {
     "date": "1932-07-10",
@@ -12029,11 +12029,11 @@ var todayinhistory = [
   },
   {
     "date": "1985-07-10",
-    "event": "French agents sink Greenpeace\\'s Rainbow Warrior in New Zealand."
+    "event": "French agents sink Greenpeace's Rainbow Warrior in New Zealand."
   },
   {
     "date": "1533-07-11",
-    "event": "Pope Clement VII excommunicated England\\'s King Henry VIII"
+    "event": "Pope Clement VII excommunicated England's King Henry VIII"
   },
   {
     "date": "1798-07-11",
@@ -12105,7 +12105,7 @@ var todayinhistory = [
   },
   {
     "date": "1985-07-11",
-    "event": "Astros\\' Nolan Ryan 1st to strike out 4000 (Mets\\' Danny Heep)"
+    "event": "Astros' Nolan Ryan 1st to strike out 4000 (Mets' Danny Heep)"
   },
   {
     "date": "1986-07-11",
@@ -12113,11 +12113,11 @@ var todayinhistory = [
   },
   {
     "date": "1543-07-12",
-    "event": "England\\'s King Henry VIII weds Catherine Parr (6th & last wife)."
+    "event": "England's King Henry VIII weds Catherine Parr (6th & last wife)."
   },
   {
     "date": "1689-07-12",
-    "event": "Orangeman\\'s Day-Battle of Boyne Protestant victory in Ireland"
+    "event": "Orangeman's Day-Battle of Boyne Protestant victory in Ireland"
   },
   {
     "date": "1812-07-12",
@@ -12157,7 +12157,7 @@ var todayinhistory = [
   },
   {
     "date": "1960-07-12",
-    "event": "USSR\\'s Sputnik 5 launched with 2 dogs."
+    "event": "USSR's Sputnik 5 launched with 2 dogs."
   },
   {
     "date": "1962-07-12",
@@ -12165,11 +12165,11 @@ var todayinhistory = [
   },
   {
     "date": "1967-07-12",
-    "event": "5th Mayor\\'s Trophy Game Mets beat Yanks 4-0"
+    "event": "5th Mayor's Trophy Game Mets beat Yanks 4-0"
   },
   {
     "date": "1975-07-12",
-    "event": "Sao Tom‚ e Pr¡ncipe gains independence from Portugal (Nat\\'l Day)."
+    "event": "Sao Tom‚ e Pr¡ncipe gains independence from Portugal (Nat'l Day)."
   },
   {
     "date": "1977-07-12",
@@ -12193,7 +12193,7 @@ var todayinhistory = [
   },
   {
     "date": "1985-07-12",
-    "event": "Drs discover a cancerous growth in Pres Reagan\\'s large intestine"
+    "event": "Drs discover a cancerous growth in Pres Reagan's large intestine"
   },
   {
     "date": "1762-07-13",
@@ -12213,7 +12213,7 @@ var todayinhistory = [
   },
   {
     "date": "1865-07-13",
-    "event": "Horace Greeley advises his readers to \\\"Go west\\"
+    "event": "Horace Greeley advises his readers to \"Go west\""
   },
   {
     "date": "1898-07-13",
@@ -12233,7 +12233,7 @@ var todayinhistory = [
   },
   {
     "date": "1973-07-13",
-    "event": "Bobby Murcer\\'s 3 homers accounted for all RBIs beating KC 5-0"
+    "event": "Bobby Murcer's 3 homers accounted for all RBIs beating KC 5-0"
   },
   {
     "date": "1977-07-13",
@@ -12257,7 +12257,7 @@ var todayinhistory = [
   },
   {
     "date": "1798-07-14",
-    "event": "Sedition Act prohibits \\\"false scandalous & malicious\\\" writing against US govt"
+    "event": "Sedition Act prohibits \"false scandalous & malicious\" writing against US govt"
   },
   {
     "date": "1850-07-14",
@@ -12305,11 +12305,11 @@ var todayinhistory = [
   },
   {
     "date": "1961-07-14",
-    "event": "Astro\\'s Eddie Matthews hits HR #500"
+    "event": "Astro's Eddie Matthews hits HR #500"
   },
   {
     "date": "1962-07-14",
-    "event": "Brave\\'s Hank Aaron hits HR #500"
+    "event": "Brave's Hank Aaron hits HR #500"
   },
   {
     "date": "1965-07-14",
@@ -12353,7 +12353,7 @@ var todayinhistory = [
   },
   {
     "date": "1867-07-15",
-    "event": "SF Merchant\\'s Exchange opens"
+    "event": "SF Merchant's Exchange opens"
   },
   {
     "date": "1870-07-15",
@@ -12365,7 +12365,7 @@ var todayinhistory = [
   },
   {
     "date": "1918-07-15",
-    "event": "St. Vladimir\\'s Day"
+    "event": "St. Vladimir's Day"
   },
   {
     "date": "1920-07-15",
@@ -12401,7 +12401,7 @@ var todayinhistory = [
   },
   {
     "date": "1960-07-15",
-    "event": "Orioles\\' Brooks Robinson goes 5 for 5 including the cycle"
+    "event": "Orioles' Brooks Robinson goes 5 for 5 including the cycle"
   },
   {
     "date": "1975-07-15",
@@ -12465,7 +12465,7 @@ var todayinhistory = [
   },
   {
     "date": "1841-07-17",
-    "event": "British humor magazine `Punch\\' 1st published."
+    "event": "British humor magazine `Punch' 1st published."
   },
   {
     "date": "1850-07-17",
@@ -12481,7 +12481,7 @@ var todayinhistory = [
   },
   {
     "date": "1917-07-17",
-    "event": "British royal family adopts the name `Windsor.\\"
+    "event": "British royal family adopts the name `Windsor."
   },
   {
     "date": "1919-07-17",
@@ -12493,7 +12493,7 @@ var todayinhistory = [
   },
   {
     "date": "1935-07-17",
-    "event": "Variety\\'s famous headline `Sticks Nix Hick Pix.\\"
+    "event": "Variety's famous headline `Sticks Nix Hick Pix."
   },
   {
     "date": "1938-07-17",
@@ -12501,7 +12501,7 @@ var todayinhistory = [
   },
   {
     "date": "1941-07-17",
-    "event": "Joe DiMaggio\\'s 56 game hitting streak ends"
+    "event": "Joe DiMaggio's 56 game hitting streak ends"
   },
   {
     "date": "1945-07-17",
@@ -12549,11 +12549,11 @@ var todayinhistory = [
   },
   {
     "date": "1981-07-17",
-    "event": "Lobby Walkways at KC\\'s Hyatt Regency collapse kill 114 injure 200"
+    "event": "Lobby Walkways at KC's Hyatt Regency collapse kill 114 injure 200"
   },
   {
     "date": "1981-07-17",
-    "event": "Humbar Estuary Bridge UK world\\'s longest span (1.4 km) is opened."
+    "event": "Humbar Estuary Bridge UK world's longest span (1.4 km) is opened."
   },
   {
     "date": "1984-07-17",
@@ -12561,11 +12561,11 @@ var todayinhistory = [
   },
   {
     "date": "0064-07-18",
-    "event": "Great Fire of Rome begins (Nero didn\\'t fiddle)"
+    "event": "Great Fire of Rome begins (Nero didn't fiddle)"
   },
   {
     "date": "1536-07-18",
-    "event": "Pope\\'s authority declared void in England."
+    "event": "Pope's authority declared void in England."
   },
   {
     "date": "1872-07-18",
@@ -12573,11 +12573,11 @@ var todayinhistory = [
   },
   {
     "date": "1927-07-18",
-    "event": "Ty Cobb\\'s 4000th career hit"
+    "event": "Ty Cobb's 4000th career hit"
   },
   {
     "date": "1931-07-18",
-    "event": "1st air-conditioned ship launched - \\\"Mariposa\\"
+    "event": "1st air-conditioned ship launched - \"Mariposa\""
   },
   {
     "date": "1932-07-18",
@@ -12589,7 +12589,7 @@ var todayinhistory = [
   },
   {
     "date": "1938-07-18",
-    "event": "Douglas `Wrong Way\\' Corrigan arrives in Ireland-left NY for Calif"
+    "event": "Douglas `Wrong Way' Corrigan arrives in Ireland-left NY for Calif"
   },
   {
     "date": "1940-07-18",
@@ -12637,7 +12637,7 @@ var todayinhistory = [
   },
   {
     "date": "1984-07-18",
-    "event": "Walter F. Mondale wins Democratic presidential nomination in SF. Also Gunman opens fire at McDonald\\'s in San Ysidro Cal killing 21"
+    "event": "Walter F. Mondale wins Democratic presidential nomination in SF. Also Gunman opens fire at McDonald's in San Ysidro Cal killing 21"
   },
   {
     "date": "1984-07-18",
@@ -12645,7 +12645,7 @@ var todayinhistory = [
   },
   {
     "date": "1986-07-18",
-    "event": "Videotapes released showing Titanic\\'s sunken remains"
+    "event": "Videotapes released showing Titanic's sunken remains"
   },
   {
     "date": "1987-07-18",
@@ -12653,7 +12653,7 @@ var todayinhistory = [
   },
   {
     "date": "1848-07-19",
-    "event": "1st Women\\'s Rights Convention Seneca Falls NY"
+    "event": "1st Women's Rights Convention Seneca Falls NY"
   },
   {
     "date": "1877-07-19",
@@ -12733,7 +12733,7 @@ var todayinhistory = [
   },
   {
     "date": "1923-07-20",
-    "event": "Yanks hit into a triple play but beat A\\'s 9-2"
+    "event": "Yanks hit into a triple play but beat A's 9-2"
   },
   {
     "date": "1941-07-20",
@@ -12745,7 +12745,7 @@ var todayinhistory = [
   },
   {
     "date": "1949-07-20",
-    "event": "Israel\\'s 19 month war of independence ends"
+    "event": "Israel's 19 month war of independence ends"
   },
   {
     "date": "1956-07-20",
@@ -12797,7 +12797,7 @@ var todayinhistory = [
   },
   {
     "date": "1873-07-21",
-    "event": "World\\'s 1st train robbery by Jesse James"
+    "event": "World's 1st train robbery by Jesse James"
   },
   {
     "date": "1898-07-21",
@@ -12857,7 +12857,7 @@ var todayinhistory = [
   },
   {
     "date": "1976-07-21",
-    "event": "Legionnaire\\'s Disease kills 29 in Phila"
+    "event": "Legionnaire's Disease kills 29 in Phila"
   },
   {
     "date": "1984-07-21",
@@ -12909,7 +12909,7 @@ var todayinhistory = [
   },
   {
     "date": "1803-07-23",
-    "event": "Robert Emmett\\'s insurrection in Dublin."
+    "event": "Robert Emmett's insurrection in Dublin."
   },
   {
     "date": "1829-07-23",
@@ -12949,7 +12949,7 @@ var todayinhistory = [
   },
   {
     "date": "1968-07-23",
-    "event": "PLO\\'s 1st hijacking of an EL AL plane"
+    "event": "PLO's 1st hijacking of an EL AL plane"
   },
   {
     "date": "1972-07-23",
@@ -12961,7 +12961,7 @@ var todayinhistory = [
   },
   {
     "date": "1673-07-24",
-    "event": "Edmund Halley enters Queen\\'s College Oxford as an undergraduate."
+    "event": "Edmund Halley enters Queen's College Oxford as an undergraduate."
   },
   {
     "date": "1701-07-24",
@@ -13005,11 +13005,11 @@ var todayinhistory = [
   },
   {
     "date": "1959-07-24",
-    "event": "VP Nixon argued with Khrushchev known as the `Kitchen Debate\\"
+    "event": "VP Nixon argued with Khrushchev known as the `Kitchen Debate"
   },
   {
     "date": "1967-07-24",
-    "event": "Charles de Gaulle says \\'Vive le Quebec libre! Long live free Quebec!\\"
+    "event": "Charles de Gaulle says 'Vive le Quebec libre! Long live free Quebec!"
   },
   {
     "date": "1969-07-24",
@@ -13021,11 +13021,11 @@ var todayinhistory = [
   },
   {
     "date": "1978-07-24",
-    "event": "Billy Martin resigns as Yankee manager after \\'the one is a born liar the other a convicted one\\' comment about Steinbrenner & Jackson"
+    "event": "Billy Martin resigns as Yankee manager after 'the one is a born liar the other a convicted one' comment about Steinbrenner & Jackson"
   },
   {
     "date": "1593-07-25",
-    "event": "France\\'s King Henri IV a Protestant converted to Roman Catholicism."
+    "event": "France's King Henri IV a Protestant converted to Roman Catholicism."
   },
   {
     "date": "1729-07-25",
@@ -13033,7 +13033,7 @@ var todayinhistory = [
   },
   {
     "date": "1814-07-25",
-    "event": "Battle of Niagara Falls (Lundy\\'s Lane); Americans defeat British."
+    "event": "Battle of Niagara Falls (Lundy's Lane); Americans defeat British."
   },
   {
     "date": "1866-07-25",
@@ -13053,7 +13053,7 @@ var todayinhistory = [
   },
   {
     "date": "1920-07-25",
-    "event": "Red Sox turn a triple play but Ruth\\'s 35 HR leads Yanks 8-2 win"
+    "event": "Red Sox turn a triple play but Ruth's 35 HR leads Yanks 8-2 win"
   },
   {
     "date": "1943-07-25",
@@ -13153,7 +13153,7 @@ var todayinhistory = [
   },
   {
     "date": "1945-07-26",
-    "event": "Churchill resigns as Britain\\'s prime minister"
+    "event": "Churchill resigns as Britain's prime minister"
   },
   {
     "date": "1947-07-26",
@@ -13161,11 +13161,11 @@ var todayinhistory = [
   },
   {
     "date": "1948-07-26",
-    "event": "1st black host of a network show - CBS\\' Bob Howard Show"
+    "event": "1st black host of a network show - CBS' Bob Howard Show"
   },
   {
     "date": "1952-07-26",
-    "event": "Argentina\\'s 1st lady Eva Peron dies in Buenos Aires at 33"
+    "event": "Argentina's 1st lady Eva Peron dies in Buenos Aires at 33"
   },
   {
     "date": "1952-07-26",
@@ -13205,7 +13205,7 @@ var todayinhistory = [
   },
   {
     "date": "1965-07-26",
-    "event": "Republic of Maldives gains independence from Britain (Nat\\'l Day)."
+    "event": "Republic of Maldives gains independence from Britain (Nat'l Day)."
   },
   {
     "date": "1967-07-26",
@@ -13221,7 +13221,7 @@ var todayinhistory = [
   },
   {
     "date": "1974-07-26",
-    "event": "USSR\\'s Soyuz failed to dock with Salyut 3."
+    "event": "USSR's Soyuz failed to dock with Salyut 3."
   },
   {
     "date": "1975-07-26",
@@ -13229,7 +13229,7 @@ var todayinhistory = [
   },
   {
     "date": "1982-07-26",
-    "event": "Canada\\'s Anik D1 comsat launched by US delta rocket."
+    "event": "Canada's Anik D1 comsat launched by US delta rocket."
   },
   {
     "date": "1984-07-26",
@@ -13305,7 +13305,7 @@ var todayinhistory = [
   },
   {
     "date": "1862-07-28",
-    "event": "Confederate forces defeated at More\\'s Hill Mo."
+    "event": "Confederate forces defeated at More's Hill Mo."
   },
   {
     "date": "1866-07-28",
@@ -13333,7 +13333,7 @@ var todayinhistory = [
   },
   {
     "date": "1931-07-28",
-    "event": "Congress makes \\\"The Star-Spangled Banner\\\" our 2nd National Anthem"
+    "event": "Congress makes \"The Star-Spangled Banner\" our 2nd National Anthem"
   },
   {
     "date": "1932-07-28",
@@ -13349,7 +13349,7 @@ var todayinhistory = [
   },
   {
     "date": "1951-07-28",
-    "event": "Walt Disney\\'s \\\"Alice In Wonderland\\\" released"
+    "event": "Walt Disney's \"Alice In Wonderland\" released"
   },
   {
     "date": "1964-07-28",
@@ -13365,7 +13365,7 @@ var todayinhistory = [
   },
   {
     "date": "1973-07-28",
-    "event": "Skylab 3\\'s astronauts are launched"
+    "event": "Skylab 3's astronauts are launched"
   },
   {
     "date": "1976-07-28",
@@ -13377,7 +13377,7 @@ var todayinhistory = [
   },
   {
     "date": "1978-07-28",
-    "event": "At Old Timer\\'s Game it is announced Martin will again manage Yankees"
+    "event": "At Old Timer's Game it is announced Martin will again manage Yankees"
   },
   {
     "date": "1824-07-29",
@@ -13413,7 +13413,7 @@ var todayinhistory = [
   },
   {
     "date": "1928-07-29",
-    "event": "Walt Disney\\'s \\\"Steamboat Willie\\\" is released"
+    "event": "Walt Disney's \"Steamboat Willie\" is released"
   },
   {
     "date": "1952-07-29",
@@ -13425,7 +13425,7 @@ var todayinhistory = [
   },
   {
     "date": "1957-07-29",
-    "event": "Jack Paar\\'s Tonight show premiers"
+    "event": "Jack Paar's Tonight show premiers"
   },
   {
     "date": "1958-07-29",
@@ -13465,7 +13465,7 @@ var todayinhistory = [
   },
   {
     "date": "1956-07-30",
-    "event": "Motto of US \\\"In God We Trust\\\" authorized"
+    "event": "Motto of US \"In God We Trust\" authorized"
   },
   {
     "date": "1971-07-30",
@@ -13517,7 +13517,7 @@ var todayinhistory = [
   },
   {
     "date": "1938-07-31",
-    "event": "Yanks suspend Jake Powell after he said on Chicago radio \\'he\\'d hit every colored person in Chicago over the head with a club\\"
+    "event": "Yanks suspend Jake Powell after he said on Chicago radio 'he'd hit every colored person in Chicago over the head with a club"
   },
   {
     "date": "1948-07-31",
@@ -13533,7 +13533,7 @@ var todayinhistory = [
   },
   {
     "date": "1970-07-31",
-    "event": "Chet Huntley retires from NBC ending \\'Huntley-Brinkley Report\\"
+    "event": "Chet Huntley retires from NBC ending 'Huntley-Brinkley Report"
   },
   {
     "date": "1972-07-31",
@@ -13561,11 +13561,11 @@ var todayinhistory = [
   },
   {
     "date": "1984-07-31",
-    "event": "US men\\'s gymnastics team won team gold medal at LA Summer Olympics"
+    "event": "US men's gymnastics team won team gold medal at LA Summer Olympics"
   },
   {
     "date": "1291-08-01",
-    "event": "Everlasting League forms basis of Swiss Confederation (Nat\\'l Day)"
+    "event": "Everlasting League forms basis of Swiss Confederation (Nat'l Day)"
   },
   {
     "date": "1584-08-01",
@@ -13637,7 +13637,7 @@ var todayinhistory = [
   },
   {
     "date": "1953-08-01",
-    "event": "Cal introduces it\\'s Sales Tax (for Education)"
+    "event": "Cal introduces it's Sales Tax (for Education)"
   },
   {
     "date": "1957-08-01",
@@ -13713,7 +13713,7 @@ var todayinhistory = [
   },
   {
     "date": "1965-08-02",
-    "event": "Morley Safer\\'s sends 1st Vietnam report indicating we are losing"
+    "event": "Morley Safer's sends 1st Vietnam report indicating we are losing"
   },
   {
     "date": "1975-08-02",
@@ -13729,7 +13729,7 @@ var todayinhistory = [
   },
   {
     "date": "1492-08-03",
-    "event": "Columbus sets sail from Palos Spain for \\\"Indies.\\"
+    "event": "Columbus sets sail from Palos Spain for \"Indies.\""
   },
   {
     "date": "1596-08-03",
@@ -13829,7 +13829,7 @@ var todayinhistory = [
   },
   {
     "date": "1861-08-05",
-    "event": "US levies it\\'s 1st Income Tax (3% of incomes over $800)"
+    "event": "US levies it's 1st Income Tax (3% of incomes over $800)"
   },
   {
     "date": "1864-08-05",
@@ -13873,7 +13873,7 @@ var todayinhistory = [
   },
   {
     "date": "1966-08-05",
-    "event": "Beatles release \\\"Revolver\\\" album"
+    "event": "Beatles release \"Revolver\" album"
   },
   {
     "date": "1969-08-05",
@@ -13901,7 +13901,7 @@ var todayinhistory = [
   },
   {
     "date": "1926-08-06",
-    "event": "NY\\'s Gertrude Ederle becomes 1st woman to swim the English Channel"
+    "event": "NY's Gertrude Ederle becomes 1st woman to swim the English Channel"
   },
   {
     "date": "1934-08-06",
@@ -13909,11 +13909,11 @@ var todayinhistory = [
   },
   {
     "date": "1937-08-06",
-    "event": "Indians overturn Yankees\\' 7-6 win by a protest"
+    "event": "Indians overturn Yankees' 7-6 win by a protest"
   },
   {
     "date": "1945-08-06",
-    "event": "Hiroshima Peace Day-atom bomb dropped on Hiroshima by the \\'Enola Gay\\"
+    "event": "Hiroshima Peace Day-atom bomb dropped on Hiroshima by the 'Enola Gay"
   },
   {
     "date": "1946-08-06",
@@ -13929,7 +13929,7 @@ var todayinhistory = [
   },
   {
     "date": "1965-08-06",
-    "event": "Beatles release \\\"Help\\\" album"
+    "event": "Beatles release \"Help\" album"
   },
   {
     "date": "1965-08-06",
@@ -13985,7 +13985,7 @@ var todayinhistory = [
   },
   {
     "date": "1934-08-07",
-    "event": "US Court of Appeals upheld lower court ruling striking down govt\\'s attempt to ban the controversial James Joyce novel `Ulysses\\"
+    "event": "US Court of Appeals upheld lower court ruling striking down govt's attempt to ban the controversial James Joyce novel `Ulysses"
   },
   {
     "date": "1942-08-07",
@@ -14049,11 +14049,11 @@ var todayinhistory = [
   },
   {
     "date": "1579-08-08",
-    "event": "Cornerstone is laid for Tycho Brahe\\'s Uraniborg observatory"
+    "event": "Cornerstone is laid for Tycho Brahe's Uraniborg observatory"
   },
   {
     "date": "1609-08-08",
-    "event": "Venetian senate examines Galileo Galilei\\'s telescope"
+    "event": "Venetian senate examines Galileo Galilei's telescope"
   },
   {
     "date": "1709-08-08",
@@ -14137,7 +14137,7 @@ var todayinhistory = [
   },
   {
     "date": "1854-08-09",
-    "event": "Henry David Thoreau published `Walden\\"
+    "event": "Henry David Thoreau published `Walden"
   },
   {
     "date": "1902-08-09",
@@ -14149,7 +14149,7 @@ var todayinhistory = [
   },
   {
     "date": "1930-08-09",
-    "event": "Betty Boop debutes in Max Fleischer\\'s animated cartoon Dizzy Dishes."
+    "event": "Betty Boop debutes in Max Fleischer's animated cartoon Dizzy Dishes."
   },
   {
     "date": "1936-08-09",
@@ -14233,7 +14233,7 @@ var todayinhistory = [
   },
   {
     "date": "1981-08-10",
-    "event": "Pete Rose tops Stan Musial\\'s NL record of 3630 hits"
+    "event": "Pete Rose tops Stan Musial's NL record of 3630 hits"
   },
   {
     "date": "1986-08-10",
@@ -14241,11 +14241,11 @@ var todayinhistory = [
   },
   {
     "date": "1835-08-11",
-    "event": "George B Airy begins 46-year reign as England\\'s Astronomer Royal"
+    "event": "George B Airy begins 46-year reign as England's Astronomer Royal"
   },
   {
     "date": "1877-08-11",
-    "event": "Asaph Hall discovers Mars\\' moon Deimos"
+    "event": "Asaph Hall discovers Mars' moon Deimos"
   },
   {
     "date": "1888-08-11",
@@ -14317,7 +14317,7 @@ var todayinhistory = [
   },
   {
     "date": "1934-08-12",
-    "event": "Babe Ruth\\'s final game at Fenway Park 41 766 on hand"
+    "event": "Babe Ruth's final game at Fenway Park 41 766 on hand"
   },
   {
     "date": "1936-08-12",
@@ -14369,7 +14369,7 @@ var todayinhistory = [
   },
   {
     "date": "1985-08-12",
-    "event": "World\\'s worst single aircraft disaster-Japan Boeing 747 (520 die)"
+    "event": "World's worst single aircraft disaster-Japan Boeing 747 (520 die)"
   },
   {
     "date": "1642-08-13",
@@ -14397,7 +14397,7 @@ var todayinhistory = [
   },
   {
     "date": "1939-08-13",
-    "event": "Yankees set AL shutout margin with 21-0 victory over the A\\'s"
+    "event": "Yankees set AL shutout margin with 21-0 victory over the A's"
   },
   {
     "date": "1960-08-13",
@@ -14409,7 +14409,7 @@ var todayinhistory = [
   },
   {
     "date": "3114-08-13",
-    "event": "BC The Mayan \\\"long count\\\" calendar system begins"
+    "event": "BC The Mayan \"long count\" calendar system begins"
   },
   {
     "date": "0410-08-14",
@@ -14537,7 +14537,7 @@ var todayinhistory = [
   },
   {
     "date": "1939-08-15",
-    "event": "The Wizard of Oz premiers at Grauman\\'s Chinese Theater Hollywood"
+    "event": "The Wizard of Oz premiers at Grauman's Chinese Theater Hollywood"
   },
   {
     "date": "1945-08-15",
@@ -14553,11 +14553,11 @@ var todayinhistory = [
   },
   {
     "date": "1960-08-15",
-    "event": "Congo (Brazzaville) gains independence from France (Nat\\'l Day)"
+    "event": "Congo (Brazzaville) gains independence from France (Nat'l Day)"
   },
   {
     "date": "1965-08-15",
-    "event": "Beatle\\'s Shea Stadium concert"
+    "event": "Beatle's Shea Stadium concert"
   },
   {
     "date": "1969-08-15",
@@ -14625,7 +14625,7 @@ var todayinhistory = [
   },
   {
     "date": "1920-08-16",
-    "event": "Yanks Carl Mays\\' pitch hits Indian Ray Chapman in the head. Chapman dies the next day the only major league fatality"
+    "event": "Yanks Carl Mays' pitch hits Indian Ray Chapman in the head. Chapman dies the next day the only major league fatality"
   },
   {
     "date": "1948-08-16",
@@ -14673,7 +14673,7 @@ var todayinhistory = [
   },
   {
     "date": "1807-08-17",
-    "event": "Robert Fulton\\'s steamboat Clermont begins 1st trip up Hudson River"
+    "event": "Robert Fulton's steamboat Clermont begins 1st trip up Hudson River"
   },
   {
     "date": "1846-08-17",
@@ -14689,7 +14689,7 @@ var todayinhistory = [
   },
   {
     "date": "1877-08-17",
-    "event": "Asaph Hall discovers Mars\\' moon Phobos"
+    "event": "Asaph Hall discovers Mars' moon Phobos"
   },
   {
     "date": "1896-08-17",
@@ -14697,7 +14697,7 @@ var todayinhistory = [
   },
   {
     "date": "1908-08-17",
-    "event": "Bank of Italy opens it\\'s new HQ at Clay & Montgomery"
+    "event": "Bank of Italy opens it's new HQ at Clay & Montgomery"
   },
   {
     "date": "1915-08-17",
@@ -14705,7 +14705,7 @@ var todayinhistory = [
   },
   {
     "date": "1939-08-17",
-    "event": "The Wizard of Oz opens at Loew\\'s Capitol Theater in NY"
+    "event": "The Wizard of Oz opens at Loew's Capitol Theater in NY"
   },
   {
     "date": "1940-08-17",
@@ -14733,7 +14733,7 @@ var todayinhistory = [
   },
   {
     "date": "1950-08-17",
-    "event": "Indonesia gains it\\'s independence"
+    "event": "Indonesia gains it's independence"
   },
   {
     "date": "1960-08-17",
@@ -14821,7 +14821,7 @@ var todayinhistory = [
   },
   {
     "date": "1976-08-18",
-    "event": "USSR\\'s Luna 24 softlands on the Moon"
+    "event": "USSR's Luna 24 softlands on the Moon"
   },
   {
     "date": "1982-08-18",
@@ -14829,7 +14829,7 @@ var todayinhistory = [
   },
   {
     "date": "1986-08-18",
-    "event": "Crockett\\'s Tavern opens in Fort Wilderness"
+    "event": "Crockett's Tavern opens in Fort Wilderness"
   },
   {
     "date": "1826-08-19",
@@ -14881,11 +14881,11 @@ var todayinhistory = [
   },
   {
     "date": "1920-08-20",
-    "event": "US\\'s 1st coml radio 8MK later WWJ Detroit began daily broadcasting"
+    "event": "US's 1st coml radio 8MK later WWJ Detroit began daily broadcasting"
   },
   {
     "date": "1930-08-20",
-    "event": "Dumont\\'s 1st TV Broadcast for home reception NY city"
+    "event": "Dumont's 1st TV Broadcast for home reception NY city"
   },
   {
     "date": "1940-08-20",
@@ -14893,7 +14893,7 @@ var todayinhistory = [
   },
   {
     "date": "1940-08-20",
-    "event": "British PM Churchill said of the Royal Air Force `Never in the field of human conflict was so much owed by so many to so few.\\"
+    "event": "British PM Churchill said of the Royal Air Force `Never in the field of human conflict was so much owed by so many to so few."
   },
   {
     "date": "1942-08-20",
@@ -14937,7 +14937,7 @@ var todayinhistory = [
   },
   {
     "date": "1980-08-20",
-    "event": "UN Security Council votes 14-0 US abstains condemning Israel\\'s declaration that all of Jersualem was its capital."
+    "event": "UN Security Council votes 14-0 US abstains condemning Israel's declaration that all of Jersualem was its capital."
   },
   {
     "date": "1986-08-20",
@@ -15021,7 +15021,7 @@ var todayinhistory = [
   },
   {
     "date": "1787-08-22",
-    "event": "John Fitch\\'s steamboat completes its tests years before Fulton"
+    "event": "John Fitch's steamboat completes its tests years before Fulton"
   },
   {
     "date": "1851-08-22",
@@ -15041,7 +15041,7 @@ var todayinhistory = [
   },
   {
     "date": "1963-08-22",
-    "event": "NASA\\'s X-15 attains altitude of 67 miles"
+    "event": "NASA's X-15 attains altitude of 67 miles"
   },
   {
     "date": "1963-08-22",
@@ -15081,7 +15081,7 @@ var todayinhistory = [
   },
   {
     "date": "1963-08-23",
-    "event": "Beatles release \\\"She Loves You\\"
+    "event": "Beatles release \"She Loves You\""
   },
   {
     "date": "1966-08-23",
@@ -15113,7 +15113,7 @@ var todayinhistory = [
   },
   {
     "date": "1583-08-24",
-    "event": "St. Bartholomew\\'s Day"
+    "event": "St. Bartholomew's Day"
   },
   {
     "date": "1814-08-24",
@@ -15153,11 +15153,11 @@ var todayinhistory = [
   },
   {
     "date": "1964-08-24",
-    "event": "2nd Mayor\\'s Trophy Game Yanks beat Mets 6-4"
+    "event": "2nd Mayor's Trophy Game Yanks beat Mets 6-4"
   },
   {
     "date": "1972-08-24",
-    "event": "8th Mayor\\'s Trophy Game Yanks beat Mets 2-1"
+    "event": "8th Mayor's Trophy Game Yanks beat Mets 2-1"
   },
   {
     "date": "1976-08-24",
@@ -15217,7 +15217,7 @@ var todayinhistory = [
   },
   {
     "date": "1952-08-25",
-    "event": "Tiger\\'s Virgil Trucks no hits the Yankees"
+    "event": "Tiger's Virgil Trucks no hits the Yankees"
   },
   {
     "date": "1976-08-25",
@@ -15273,7 +15273,7 @@ var todayinhistory = [
   },
   {
     "date": "1920-08-26",
-    "event": "19th amendment passes -- women\\'s suffrage granted (about time!)"
+    "event": "19th amendment passes -- women's suffrage granted (about time!)"
   },
   {
     "date": "1937-08-26",
@@ -15309,7 +15309,7 @@ var todayinhistory = [
   },
   {
     "date": "1973-08-26",
-    "event": "Women\\'s Equality Day"
+    "event": "Women's Equality Day"
   },
   {
     "date": "1974-08-26",
@@ -15329,7 +15329,7 @@ var todayinhistory = [
   },
   {
     "date": "1981-08-26",
-    "event": "Voyager\\'s closest approach to Saturn enroute to Uranus & Neptune"
+    "event": "Voyager's closest approach to Saturn enroute to Uranus & Neptune"
   },
   {
     "date": "1776-08-27",
@@ -15349,11 +15349,11 @@ var todayinhistory = [
   },
   {
     "date": "1909-08-27",
-    "event": "Jack Chesbro\\'s final game as a Yankee"
+    "event": "Jack Chesbro's final game as a Yankee"
   },
   {
     "date": "1912-08-27",
-    "event": "Edgar Rice Burroughs\\' publishes Tarzan"
+    "event": "Edgar Rice Burroughs' publishes Tarzan"
   },
   {
     "date": "1921-08-27",
@@ -15385,7 +15385,7 @@ var todayinhistory = [
   },
   {
     "date": "1978-08-27",
-    "event": "Yankee Catfish Hunter\\'s 6-2 win gives him a perfect 6-0 in Aug 78"
+    "event": "Yankee Catfish Hunter's 6-2 win gives him a perfect 6-0 in Aug 78"
   },
   {
     "date": "1982-08-27",
@@ -15425,7 +15425,7 @@ var todayinhistory = [
   },
   {
     "date": "1916-08-28",
-    "event": "Italy\\'s declares war against Germany during WW I"
+    "event": "Italy's declares war against Germany during WW I"
   },
   {
     "date": "1917-08-28",
@@ -15453,7 +15453,7 @@ var todayinhistory = [
   },
   {
     "date": "1968-08-28",
-    "event": "Police & anti-war demonstrators clash at Chicago\\'s Democratic National Convention - nominated Hubert H. Humphrey for president"
+    "event": "Police & anti-war demonstrators clash at Chicago's Democratic National Convention - nominated Hubert H. Humphrey for president"
   },
   {
     "date": "1973-08-28",
@@ -15497,7 +15497,7 @@ var todayinhistory = [
   },
   {
     "date": "1786-08-29",
-    "event": "Shay\\'s Rebellion in Springfield Mass"
+    "event": "Shay's Rebellion in Springfield Mass"
   },
   {
     "date": "1864-08-29",
@@ -15529,7 +15529,7 @@ var todayinhistory = [
   },
   {
     "date": "1964-08-29",
-    "event": "Walt Disney\\'s \\\"Mary Poppins\\\" is released"
+    "event": "Walt Disney's \"Mary Poppins\" is released"
   },
   {
     "date": "1965-08-29",
@@ -15549,7 +15549,7 @@ var todayinhistory = [
   },
   {
     "date": "1977-08-29",
-    "event": "Lou Brock - Cardinals - eclipses Ty Cobb\\'s 49-year old career stolen bases record to a total to 893. The Padres won game 4-3."
+    "event": "Lou Brock - Cardinals - eclipses Ty Cobb's 49-year old career stolen bases record to a total to 893. The Padres won game 4-3."
   },
   {
     "date": "1981-08-29",
@@ -15633,7 +15633,7 @@ var todayinhistory = [
   },
   {
     "date": "1980-08-31",
-    "event": "Poland\\'s Solidarity labor union founded"
+    "event": "Poland's Solidarity labor union founded"
   },
   {
     "date": "1159-09-01",
@@ -15669,7 +15669,7 @@ var todayinhistory = [
   },
   {
     "date": "1864-09-01",
-    "event": "Sherman\\'s march through Georgia"
+    "event": "Sherman's march through Georgia"
   },
   {
     "date": "1870-09-01",
@@ -15709,7 +15709,7 @@ var todayinhistory = [
   },
   {
     "date": "1939-09-01",
-    "event": "PHYSICAL REVIEW publishes paper 1st to deal with \\\"black holes.\\"
+    "event": "PHYSICAL REVIEW publishes paper 1st to deal with \"black holes.\""
   },
   {
     "date": "1939-09-01",
@@ -15725,7 +15725,7 @@ var todayinhistory = [
   },
   {
     "date": "1969-09-01",
-    "event": "Col Moammar Gadhafi rose to power deposed Libya\\'s King Idris"
+    "event": "Col Moammar Gadhafi rose to power deposed Libya's King Idris"
   },
   {
     "date": "1969-09-01",
@@ -15765,7 +15765,7 @@ var todayinhistory = [
   },
   {
     "date": "1666-09-02",
-    "event": "Great Fire of London starts; destroys St. Paul\\'s Church"
+    "event": "Great Fire of London starts; destroys St. Paul's Church"
   },
   {
     "date": "1752-09-02",
@@ -15813,7 +15813,7 @@ var todayinhistory = [
   },
   {
     "date": "1957-09-02",
-    "event": "Milwaukee Brave\\'s Frank Torre scores 6 runs in 1 game"
+    "event": "Milwaukee Brave's Frank Torre scores 6 runs in 1 game"
   },
   {
     "date": "1963-09-02",
@@ -15841,11 +15841,11 @@ var todayinhistory = [
   },
   {
     "date": "1906-09-03",
-    "event": "Yanks win second game on a forfeit over A\\'s 2nd forfeit win"
+    "event": "Yanks win second game on a forfeit over A's 2nd forfeit win"
   },
   {
     "date": "1916-09-03",
-    "event": "Allies turned back Germans in World War I\\'s Battle of Verdun"
+    "event": "Allies turned back Germans in World War I's Battle of Verdun"
   },
   {
     "date": "1935-09-03",
@@ -15921,7 +15921,7 @@ var todayinhistory = [
   },
   {
     "date": "1882-09-04",
-    "event": "1st district lit by electricty (NY\\'s Pearl Street Station)"
+    "event": "1st district lit by electricty (NY's Pearl Street Station)"
   },
   {
     "date": "1886-09-04",
@@ -15929,7 +15929,7 @@ var todayinhistory = [
   },
   {
     "date": "1888-09-04",
-    "event": "George Eastman patents 1st roll-film camera & registers \\\"Kodak.\\"
+    "event": "George Eastman patents 1st roll-film camera & registers \"Kodak.\""
   },
   {
     "date": "1911-09-04",
@@ -15981,7 +15981,7 @@ var todayinhistory = [
   },
   {
     "date": "1970-09-04",
-    "event": "George Harrison releases \\\"My Sweet Lord\\\" single"
+    "event": "George Harrison releases \"My Sweet Lord\" single"
   },
   {
     "date": "1972-09-04",
@@ -16057,7 +16057,7 @@ var todayinhistory = [
   },
   {
     "date": "1980-09-05",
-    "event": "World\\'s longest auto tunnel St. Gotthard in Swiss Alps opens."
+    "event": "World's longest auto tunnel St. Gotthard in Swiss Alps opens."
   },
   {
     "date": "1983-09-05",
@@ -16097,7 +16097,7 @@ var todayinhistory = [
   },
   {
     "date": "1883-09-06",
-    "event": "Cub\\'s Burns (extra bases) Williamson & Pfeiffer get 3 hits in 1 inn"
+    "event": "Cub's Burns (extra bases) Williamson & Pfeiffer get 3 hits in 1 inn"
   },
   {
     "date": "1901-09-06",
@@ -16157,7 +16157,7 @@ var todayinhistory = [
   },
   {
     "date": "1907-09-07",
-    "event": "Sutro\\'s ornate Cliff House in SF destroyed by fire."
+    "event": "Sutro's ornate Cliff House in SF destroyed by fire."
   },
   {
     "date": "1948-09-07",
@@ -16213,7 +16213,7 @@ var todayinhistory = [
   },
   {
     "date": "1883-09-08",
-    "event": "Northern Pacific RR\\'s last spike driven at Independence Creek Mont."
+    "event": "Northern Pacific RR's last spike driven at Independence Creek Mont."
   },
   {
     "date": "1920-09-08",
@@ -16265,7 +16265,7 @@ var todayinhistory = [
   },
   {
     "date": "1776-09-09",
-    "event": "Continental Congress authorizes the name \\\"US\\"
+    "event": "Continental Congress authorizes the name \"US\""
   },
   {
     "date": "1839-09-09",
@@ -16285,7 +16285,7 @@ var todayinhistory = [
   },
   {
     "date": "1875-09-09",
-    "event": "Lotta\\'s Fountain (Kearny & Market) dedicated"
+    "event": "Lotta's Fountain (Kearny & Market) dedicated"
   },
   {
     "date": "1880-09-09",
@@ -16345,7 +16345,7 @@ var todayinhistory = [
   },
   {
     "date": "1971-09-09",
-    "event": "John Lennon releases the \\\"Imagine\\\" album"
+    "event": "John Lennon releases the \"Imagine\" album"
   },
   {
     "date": "1975-09-09",
@@ -16393,7 +16393,7 @@ var todayinhistory = [
   },
   {
     "date": "1919-09-10",
-    "event": "Indian\\'s Ray Caldwell no hits Yankees 3-0"
+    "event": "Indian's Ray Caldwell no hits Yankees 3-0"
   },
   {
     "date": "1922-09-10",
@@ -16421,7 +16421,7 @@ var todayinhistory = [
   },
   {
     "date": "1953-09-10",
-    "event": "Swanson sells it\\'s 1st \\\"TV Dinner\\"
+    "event": "Swanson sells it's 1st \"TV Dinner\""
   },
   {
     "date": "1955-09-10",
@@ -16489,7 +16489,7 @@ var todayinhistory = [
   },
   {
     "date": "1853-09-11",
-    "event": "1st electric telegraph in use Merchant\\'s Exchange to Pt Lobos"
+    "event": "1st electric telegraph in use Merchant's Exchange to Pt Lobos"
   },
   {
     "date": "1910-09-11",
@@ -16517,7 +16517,7 @@ var todayinhistory = [
   },
   {
     "date": "1928-09-11",
-    "event": "1st TV drama - WGY\\'s The Queens Messenger"
+    "event": "1st TV drama - WGY's The Queens Messenger"
   },
   {
     "date": "1929-09-11",
@@ -16529,7 +16529,7 @@ var todayinhistory = [
   },
   {
     "date": "1941-09-11",
-    "event": "Charles Lindbergh charges `the British the Jewish and the Roosevelt administration\\' were trying to get the US into WW II"
+    "event": "Charles Lindbergh charges `the British the Jewish and the Roosevelt administration' were trying to get the US into WW II"
   },
   {
     "date": "1944-09-11",
@@ -16573,11 +16573,11 @@ var todayinhistory = [
   },
   {
     "date": "1973-09-11",
-    "event": "Chile\\'s President Salvador Allende deposed in a military coup"
+    "event": "Chile's President Salvador Allende deposed in a military coup"
   },
   {
     "date": "1977-09-11",
-    "event": "TV\\'s Rhoda gets divorced"
+    "event": "TV's Rhoda gets divorced"
   },
   {
     "date": "1985-09-11",
@@ -16673,7 +16673,7 @@ var todayinhistory = [
   },
   {
     "date": "1927-09-13",
-    "event": "Waite Hoyt became the only 20 game winner of the \\'27 Yankees"
+    "event": "Waite Hoyt became the only 20 game winner of the '27 Yankees"
   },
   {
     "date": "1932-09-13",
@@ -16697,7 +16697,7 @@ var todayinhistory = [
   },
   {
     "date": "1965-09-13",
-    "event": "Beatles release \\\"Yesterday\\"
+    "event": "Beatles release \"Yesterday\""
   },
   {
     "date": "1970-09-13",
@@ -16741,7 +16741,7 @@ var todayinhistory = [
   },
   {
     "date": "1814-09-14",
-    "event": "Francis Scott Key inspired to write \\\"The Star-Spangled Banner.\\"
+    "event": "Francis Scott Key inspired to write \"The Star-Spangled Banner.\""
   },
   {
     "date": "1847-09-14",
@@ -16777,7 +16777,7 @@ var todayinhistory = [
   },
   {
     "date": "1951-09-14",
-    "event": "Giant\\'s Bob Niemans 1st 2 at bats are homers"
+    "event": "Giant's Bob Niemans 1st 2 at bats are homers"
   },
   {
     "date": "1956-09-14",
@@ -16797,7 +16797,7 @@ var todayinhistory = [
   },
   {
     "date": "1968-09-14",
-    "event": "USSR\\'s Zond 5 is launched on 1st circum lunar flight"
+    "event": "USSR's Zond 5 is launched on 1st circum lunar flight"
   },
   {
     "date": "1974-09-14",
@@ -16973,7 +16973,7 @@ var todayinhistory = [
   },
   {
     "date": "1945-09-16",
-    "event": "Barometric pressure at 856 mb (25.55\\\") off Okinawa (record low)"
+    "event": "Barometric pressure at 856 mb (25.55\") off Okinawa (record low)"
   },
   {
     "date": "1946-09-16",
@@ -16993,7 +16993,7 @@ var todayinhistory = [
   },
   {
     "date": "1966-09-16",
-    "event": "Metropolitan Opera opens at NY\\'s Lincoln Center"
+    "event": "Metropolitan Opera opens at NY's Lincoln Center"
   },
   {
     "date": "1968-09-16",
@@ -17085,7 +17085,7 @@ var todayinhistory = [
   },
   {
     "date": "1956-09-17",
-    "event": "Yanks clinch pennant #22 on Mantle\\'s 50th homer of the year"
+    "event": "Yanks clinch pennant #22 on Mantle's 50th homer of the year"
   },
   {
     "date": "1963-09-17",
@@ -17185,11 +17185,11 @@ var todayinhistory = [
   },
   {
     "date": "1796-09-19",
-    "event": "George Washington\\'s farewell address as president"
+    "event": "George Washington's farewell address as president"
   },
   {
     "date": "1812-09-19",
-    "event": "Napoleon\\'s retreat from Russia begins"
+    "event": "Napoleon's retreat from Russia begins"
   },
   {
     "date": "1848-09-19",
@@ -17229,7 +17229,7 @@ var todayinhistory = [
   },
   {
     "date": "1983-09-19",
-    "event": "St Christopher-Nevis gains independence from Britain (Nat\\'l Day)"
+    "event": "St Christopher-Nevis gains independence from Britain (Nat'l Day)"
   },
   {
     "date": "1986-09-19",
@@ -17301,7 +17301,7 @@ var todayinhistory = [
   },
   {
     "date": "1970-09-20",
-    "event": "Luna 16 lands on Moon\\'s Mare Fecunditatis drills core sample"
+    "event": "Luna 16 lands on Moon's Mare Fecunditatis drills core sample"
   },
   {
     "date": "1973-09-20",
@@ -17309,11 +17309,11 @@ var todayinhistory = [
   },
   {
     "date": "1980-09-20",
-    "event": "Plaque dedicated in Thurmon Munson\\'s memory at Yankee Stadium"
+    "event": "Plaque dedicated in Thurmon Munson's memory at Yankee Stadium"
   },
   {
     "date": "1985-09-20",
-    "event": "WDW\\'s 200-millonth guest"
+    "event": "WDW's 200-millonth guest"
   },
   {
     "date": "1776-09-21",
@@ -17333,7 +17333,7 @@ var todayinhistory = [
   },
   {
     "date": "1906-09-21",
-    "event": "Yankee 1st baseman Hal Chase\\'s 22 put outs ties the record"
+    "event": "Yankee 1st baseman Hal Chase's 22 put outs ties the record"
   },
   {
     "date": "1929-09-21",
@@ -17345,7 +17345,7 @@ var todayinhistory = [
   },
   {
     "date": "1954-09-21",
-    "event": "the nuclear submarine \\\"Nautilus\\\" is commissioned"
+    "event": "the nuclear submarine \"Nautilus\" is commissioned"
   },
   {
     "date": "1956-09-21",
@@ -17373,7 +17373,7 @@ var todayinhistory = [
   },
   {
     "date": "1971-09-21",
-    "event": "John Lennon & Yoko Ono were Dick Cavett\\'s only guest"
+    "event": "John Lennon & Yoko Ono were Dick Cavett's only guest"
   },
   {
     "date": "1973-09-21",
@@ -17397,7 +17397,7 @@ var todayinhistory = [
   },
   {
     "date": "1981-09-21",
-    "event": "Sandra Day O\\'Conner becomes the 1st female Supreme Court Justice"
+    "event": "Sandra Day O'Conner becomes the 1st female Supreme Court Justice"
   },
   {
     "date": "1982-09-21",
@@ -17441,7 +17441,7 @@ var todayinhistory = [
   },
   {
     "date": "1908-09-22",
-    "event": "Fred \\'Bonehead\\' Merkle misses 2nd base costing NY Giants the pennant"
+    "event": "Fred 'Bonehead' Merkle misses 2nd base costing NY Giants the pennant"
   },
   {
     "date": "1925-09-22",
@@ -17453,7 +17453,7 @@ var todayinhistory = [
   },
   {
     "date": "1927-09-22",
-    "event": "Famous \\\"Long count\\\" fight (Dempsey loses boxing title to Tunney)"
+    "event": "Famous \"Long count\" fight (Dempsey loses boxing title to Tunney)"
   },
   {
     "date": "1944-09-22",
@@ -17489,15 +17489,15 @@ var todayinhistory = [
   },
   {
     "date": "1779-09-23",
-    "event": "Naval engagement \\'Bonhomme Richard\\' defeats \\'HMS Serepis\\"
+    "event": "Naval engagement 'Bonhomme Richard' defeats 'HMS Serepis"
   },
   {
     "date": "1780-09-23",
-    "event": "John Andre reveals Benedict Arnold\\'s plot to betray West Point"
+    "event": "John Andre reveals Benedict Arnold's plot to betray West Point"
   },
   {
     "date": "1846-09-23",
-    "event": "Johann Galle & Heinrich d\\'Arrest find Neptune"
+    "event": "Johann Galle & Heinrich d'Arrest find Neptune"
   },
   {
     "date": "1877-09-23",
@@ -17509,7 +17509,7 @@ var todayinhistory = [
   },
   {
     "date": "1912-09-23",
-    "event": "1st Mack Sennett \\\"Keystone Comedy\\\" movie is released"
+    "event": "1st Mack Sennett \"Keystone Comedy\" movie is released"
   },
   {
     "date": "1926-09-23",
@@ -17529,7 +17529,7 @@ var todayinhistory = [
   },
   {
     "date": "1952-09-23",
-    "event": "Richard Nixon makes his \\\"Checker\\'s\\\" speech"
+    "event": "Richard Nixon makes his \"Checker's\" speech"
   },
   {
     "date": "1961-09-23",
@@ -17537,7 +17537,7 @@ var todayinhistory = [
   },
   {
     "date": "1962-09-23",
-    "event": "ABC\\'s 1st color TV series - The Jetsons"
+    "event": "ABC's 1st color TV series - The Jetsons"
   },
   {
     "date": "1973-09-23",
@@ -17553,7 +17553,7 @@ var todayinhistory = [
   },
   {
     "date": "1977-09-23",
-    "event": "Cheryl Ladd replaces Farrah Fawcett on Charlie\\'s Angels"
+    "event": "Cheryl Ladd replaces Farrah Fawcett on Charlie's Angels"
   },
   {
     "date": "1977-09-23",
@@ -17565,7 +17565,7 @@ var todayinhistory = [
   },
   {
     "date": "1789-09-24",
-    "event": "Congress\\' 1st Judiciary Act for Attorney General & Supreme Court"
+    "event": "Congress' 1st Judiciary Act for Attorney General & Supreme Court"
   },
   {
     "date": "1789-09-24",
@@ -17621,7 +17621,7 @@ var todayinhistory = [
   },
   {
     "date": "1939-09-24",
-    "event": "Ruth\\'s final Yankee Stadium appearance Less than 2500 on hand"
+    "event": "Ruth's final Yankee Stadium appearance Less than 2500 on hand"
   },
   {
     "date": "1941-09-24",
@@ -17669,7 +17669,7 @@ var todayinhistory = [
   },
   {
     "date": "1968-09-24",
-    "event": "That\\'s Life premiers - A Broadway musical type TV show"
+    "event": "That's Life premiers - A Broadway musical type TV show"
   },
   {
     "date": "1968-09-24",
@@ -17677,7 +17677,7 @@ var todayinhistory = [
   },
   {
     "date": "1969-09-24",
-    "event": "Trial of `Chicago 8\\' began"
+    "event": "Trial of `Chicago 8' began"
   },
   {
     "date": "1970-09-24",
@@ -17769,7 +17769,7 @@ var todayinhistory = [
   },
   {
     "date": "1981-09-25",
-    "event": "Sandra Day O\\'Connor sworn in as 1st female supreme court justice"
+    "event": "Sandra Day O'Connor sworn in as 1st female supreme court justice"
   },
   {
     "date": "1982-09-25",
@@ -17801,7 +17801,7 @@ var todayinhistory = [
   },
   {
     "date": "1896-09-26",
-    "event": "John Philip Sousa led band\\'s 1st performance in Plainfield NJ"
+    "event": "John Philip Sousa led band's 1st performance in Plainfield NJ"
   },
   {
     "date": "1914-09-26",
@@ -17853,7 +17853,7 @@ var todayinhistory = [
   },
   {
     "date": "1969-09-26",
-    "event": "Beatles release \\\"Abbey Road\\\" album"
+    "event": "Beatles release \"Abbey Road\" album"
   },
   {
     "date": "1973-09-26",
@@ -17861,7 +17861,7 @@ var todayinhistory = [
   },
   {
     "date": "1977-09-26",
-    "event": "Sir Freddie Laker began cut-rate `Skytrain\\' service London to NY"
+    "event": "Sir Freddie Laker began cut-rate `Skytrain' service London to NY"
   },
   {
     "date": "1980-09-26",
@@ -17869,7 +17869,7 @@ var todayinhistory = [
   },
   {
     "date": "1983-09-26",
-    "event": "Australia II won the America\\'s Cup yacht race"
+    "event": "Australia II won the America's Cup yacht race"
   },
   {
     "date": "1983-09-26",
@@ -17897,7 +17897,7 @@ var todayinhistory = [
   },
   {
     "date": "1881-09-27",
-    "event": "Chicago Cubs beat Troy 10-8 before record small \\\"crowd\\\" of 12"
+    "event": "Chicago Cubs beat Troy 10-8 before record small \"crowd\" of 12"
   },
   {
     "date": "1919-09-27",
@@ -17913,7 +17913,7 @@ var todayinhistory = [
   },
   {
     "date": "1923-09-27",
-    "event": "Lou Gehrig\\'s 1st homer"
+    "event": "Lou Gehrig's 1st homer"
   },
   {
     "date": "1938-09-27",
@@ -17933,7 +17933,7 @@ var todayinhistory = [
   },
   {
     "date": "1954-09-27",
-    "event": "Steve Allen\\'s Tonight Show premiers"
+    "event": "Steve Allen's Tonight Show premiers"
   },
   {
     "date": "1962-09-27",
@@ -17945,7 +17945,7 @@ var todayinhistory = [
   },
   {
     "date": "1968-09-27",
-    "event": "Cardinal\\'s super pitcher Bob Gibson\\'s 13th shutout of the year"
+    "event": "Cardinal's super pitcher Bob Gibson's 13th shutout of the year"
   },
   {
     "date": "1972-09-27",
@@ -17969,7 +17969,7 @@ var todayinhistory = [
   },
   {
     "date": "1858-09-28",
-    "event": "Donati\\'s comet becomes the 1st to be photographed"
+    "event": "Donati's comet becomes the 1st to be photographed"
   },
   {
     "date": "1906-09-28",
@@ -17977,7 +17977,7 @@ var todayinhistory = [
   },
   {
     "date": "1920-09-28",
-    "event": "Baseball\\'s biggest scandal grand jury indicts 8 White Sox for throwing the 1919 World Series with the Cincinnati Reds"
+    "event": "Baseball's biggest scandal grand jury indicts 8 White Sox for throwing the 1919 World Series with the Cincinnati Reds"
   },
   {
     "date": "1923-09-28",
@@ -17997,7 +17997,7 @@ var todayinhistory = [
   },
   {
     "date": "1930-09-28",
-    "event": "Lou Gehrig\\'error ends his errorless streak at 885 consecutive games The winning pitcher was Babe Ruth beating the Red Sox 9-3"
+    "event": "Lou Gehrig'error ends his errorless streak at 885 consecutive games The winning pitcher was Babe Ruth beating the Red Sox 9-3"
   },
   {
     "date": "1941-09-28",
@@ -18093,7 +18093,7 @@ var todayinhistory = [
   },
   {
     "date": "1963-09-29",
-    "event": "Stan Musial\\'s last game gets hit 3 629 & 3 630"
+    "event": "Stan Musial's last game gets hit 3 629 & 3 630"
   },
   {
     "date": "1969-09-29",
@@ -18101,7 +18101,7 @@ var todayinhistory = [
   },
   {
     "date": "1969-09-29",
-    "event": "7th Mayor\\'s Trophy Game Mets beat Yanks 7-6"
+    "event": "7th Mayor's Trophy Game Mets beat Yanks 7-6"
   },
   {
     "date": "1973-09-29",
@@ -18117,7 +18117,7 @@ var todayinhistory = [
   },
   {
     "date": "1452-09-30",
-    "event": "1st book published Johann Guttenberg\\'s Bible"
+    "event": "1st book published Johann Guttenberg's Bible"
   },
   {
     "date": "1659-09-30",
@@ -18161,7 +18161,7 @@ var todayinhistory = [
   },
   {
     "date": "1934-09-30",
-    "event": "Ruth\\'s final game as a Yankee he went 0 for 3"
+    "event": "Ruth's final game as a Yankee he went 0 for 3"
   },
   {
     "date": "1935-09-30",
@@ -18185,7 +18185,7 @@ var todayinhistory = [
   },
   {
     "date": "1945-09-30",
-    "event": "Hank Greenberg\\'s final day HR wins the pennent for the Tigers"
+    "event": "Hank Greenberg's final day HR wins the pennent for the Tigers"
   },
   {
     "date": "1947-09-30",
@@ -18197,7 +18197,7 @@ var todayinhistory = [
   },
   {
     "date": "1960-09-30",
-    "event": "On Howdy Doody\\'s last show Clarabelle finally talks \\\"Goodbye Kids\\"
+    "event": "On Howdy Doody's last show Clarabelle finally talks \"Goodbye Kids\""
   },
   {
     "date": "1966-09-30",
@@ -18209,7 +18209,7 @@ var todayinhistory = [
   },
   {
     "date": "1967-09-30",
-    "event": "USSR\\'s Kosmos 186 & 188 complete the 1st automatic docking"
+    "event": "USSR's Kosmos 186 & 188 complete the 1st automatic docking"
   },
   {
     "date": "1971-09-30",
@@ -18261,7 +18261,7 @@ var todayinhistory = [
   },
   {
     "date": "1908-10-01",
-    "event": "Jack Chesbro\\'s final Yankee victory beats Walter Johnson 2-1"
+    "event": "Jack Chesbro's final Yankee victory beats Walter Johnson 2-1"
   },
   {
     "date": "1908-10-01",
@@ -18277,7 +18277,7 @@ var todayinhistory = [
   },
   {
     "date": "1932-10-01",
-    "event": "Babe Ruth\\'s famous homerun called off of Cubs Charlie Root"
+    "event": "Babe Ruth's famous homerun called off of Cubs Charlie Root"
   },
   {
     "date": "1938-10-01",
@@ -18301,7 +18301,7 @@ var todayinhistory = [
   },
   {
     "date": "1949-10-01",
-    "event": "People\\'s Rep of China proclaimed (National Day)"
+    "event": "People's Rep of China proclaimed (National Day)"
   },
   {
     "date": "1951-10-01",
@@ -18329,7 +18329,7 @@ var todayinhistory = [
   },
   {
     "date": "1962-10-01",
-    "event": "US National Radio Astronomy Obs gets a 300\\' radio telescope"
+    "event": "US National Radio Astronomy Obs gets a 300' radio telescope"
   },
   {
     "date": "1962-10-01",
@@ -18437,7 +18437,7 @@ var todayinhistory = [
   },
   {
     "date": "1950-10-02",
-    "event": "The comic strip \\'Peanuts\\' 1st appears in 9 newspapers"
+    "event": "The comic strip 'Peanuts' 1st appears in 9 newspapers"
   },
   {
     "date": "1955-10-02",
@@ -18453,7 +18453,7 @@ var todayinhistory = [
   },
   {
     "date": "1959-10-02",
-    "event": "Rod Serling\\'s \\\"Twilight Zone\\\" premieres on CBS"
+    "event": "Rod Serling's \"Twilight Zone\" premieres on CBS"
   },
   {
     "date": "1961-10-02",
@@ -18481,7 +18481,7 @@ var todayinhistory = [
   },
   {
     "date": "1978-10-02",
-    "event": "Yanks win 3rd straight AL East beating Red Sox 5-4 in a playoff game. Guidry wins #25 aided by Dent\\'s homer & Pinella\\'s fielding"
+    "event": "Yanks win 3rd straight AL East beating Red Sox 5-4 in a playoff game. Guidry wins #25 aided by Dent's homer & Pinella's fielding"
   },
   {
     "date": "1984-10-02",
@@ -18561,7 +18561,7 @@ var todayinhistory = [
   },
   {
     "date": "1960-10-03",
-    "event": "SF\\'s White House dept store 1st to accept BankAmericard"
+    "event": "SF's White House dept store 1st to accept BankAmericard"
   },
   {
     "date": "1961-10-03",
@@ -18601,7 +18601,7 @@ var todayinhistory = [
   },
   {
     "date": "1916-10-04",
-    "event": "Market Street\\'s \\\"Path of Gold\\\" lit for 1st time"
+    "event": "Market Street's \"Path of Gold\" lit for 1st time"
   },
   {
     "date": "1926-10-04",
@@ -18637,7 +18637,7 @@ var todayinhistory = [
   },
   {
     "date": "1959-10-04",
-    "event": "USSR Luna 3 sent back 1st photos of Moon\\'s far side"
+    "event": "USSR Luna 3 sent back 1st photos of Moon's far side"
   },
   {
     "date": "1960-10-04",
@@ -18645,7 +18645,7 @@ var todayinhistory = [
   },
   {
     "date": "1962-10-04",
-    "event": "Whitey Ford\\'s world series 33 2/3 scoreless inning streak ends"
+    "event": "Whitey Ford's world series 33 2/3 scoreless inning streak ends"
   },
   {
     "date": "1966-10-04",
@@ -18661,7 +18661,7 @@ var todayinhistory = [
   },
   {
     "date": "1976-10-04",
-    "event": "Agriculture Secretary Earl Butz resigns after racial \\'joke\\"
+    "event": "Agriculture Secretary Earl Butz resigns after racial 'joke"
   },
   {
     "date": "1977-10-04",
@@ -18701,7 +18701,7 @@ var todayinhistory = [
   },
   {
     "date": "1906-10-05",
-    "event": "Giant\\'s Henry Matthewson walks 14"
+    "event": "Giant's Henry Matthewson walks 14"
   },
   {
     "date": "1907-10-05",
@@ -18829,7 +18829,7 @@ var todayinhistory = [
   },
   {
     "date": "1978-10-06",
-    "event": "Royals\\' George Brett hits 3 HRs Yanks win championship game 3 6-5"
+    "event": "Royals' George Brett hits 3 HRs Yanks win championship game 3 6-5"
   },
   {
     "date": "1981-10-06",
@@ -18837,7 +18837,7 @@ var todayinhistory = [
   },
   {
     "date": "1983-10-06",
-    "event": "Islander\\'s Mike Bossy\\'s 25th career hat trick"
+    "event": "Islander's Mike Bossy's 25th career hat trick"
   },
   {
     "date": "1571-10-07",
@@ -18925,7 +18925,7 @@ var todayinhistory = [
   },
   {
     "date": "1604-10-08",
-    "event": "The supernova called \\\"Kepler\\'s nova\\\" is 1st sighted."
+    "event": "The supernova called \"Kepler's nova\" is 1st sighted."
   },
   {
     "date": "1840-10-08",
@@ -18945,7 +18945,7 @@ var todayinhistory = [
   },
   {
     "date": "1871-10-08",
-    "event": "Nation\\'s worst forest fire starts in Peshtigo WI. Great Fire destroys over 4ý miles of Chicago"
+    "event": "Nation's worst forest fire starts in Peshtigo WI. Great Fire destroys over 4ý miles of Chicago"
   },
   {
     "date": "1896-10-08",
@@ -18965,7 +18965,7 @@ var todayinhistory = [
   },
   {
     "date": "1934-10-08",
-    "event": "Bruno Hauptmann was indicted for murder of Lindbergh\\'s son"
+    "event": "Bruno Hauptmann was indicted for murder of Lindbergh's son"
   },
   {
     "date": "1935-10-08",
@@ -18985,7 +18985,7 @@ var todayinhistory = [
   },
   {
     "date": "1956-10-08",
-    "event": "Don Larsen\\'s Perfect world series game beats Dodgers 2-0"
+    "event": "Don Larsen's Perfect world series game beats Dodgers 2-0"
   },
   {
     "date": "1957-10-08",
@@ -18997,7 +18997,7 @@ var todayinhistory = [
   },
   {
     "date": "1962-10-08",
-    "event": "N Korea reports 100% election turnout 100% vote for Workers\\' Party."
+    "event": "N Korea reports 100% election turnout 100% vote for Workers' Party."
   },
   {
     "date": "1970-10-08",
@@ -19013,7 +19013,7 @@ var todayinhistory = [
   },
   {
     "date": "1981-10-08",
-    "event": "Pres Reagan greeted predecessors Jimmy Carter Gerald R. Ford and Richard Nixon before sending them to Egypt for Anwar Sadat\\'s funeral"
+    "event": "Pres Reagan greeted predecessors Jimmy Carter Gerald R. Ford and Richard Nixon before sending them to Egypt for Anwar Sadat's funeral"
   },
   {
     "date": "1983-10-08",
@@ -19021,7 +19021,7 @@ var todayinhistory = [
   },
   {
     "date": "1000-10-09",
-    "event": "Leif Ericson discovers \\\"Vinland\\\" (possibly New England)"
+    "event": "Leif Ericson discovers \"Vinland\" (possibly New England)"
   },
   {
     "date": "1635-10-09",
@@ -19053,7 +19053,7 @@ var todayinhistory = [
   },
   {
     "date": "1921-10-09",
-    "event": "Babe Ruth\\'s 1st WS homer Only Sunday game ever pitched by Carl Mays"
+    "event": "Babe Ruth's 1st WS homer Only Sunday game ever pitched by Carl Mays"
   },
   {
     "date": "1928-10-09",
@@ -19077,7 +19077,7 @@ var todayinhistory = [
   },
   {
     "date": "1951-10-09",
-    "event": "Gil McDougald\\'s World Series Grand Slam Yanks beat Giants 13-1"
+    "event": "Gil McDougald's World Series Grand Slam Yanks beat Giants 13-1"
   },
   {
     "date": "1958-10-09",
@@ -19133,7 +19133,7 @@ var todayinhistory = [
   },
   {
     "date": "1846-10-10",
-    "event": "Neptune\\'s moon Triton discovered by William Lassell"
+    "event": "Neptune's moon Triton discovered by William Lassell"
   },
   {
     "date": "1886-10-10",
@@ -19161,7 +19161,7 @@ var todayinhistory = [
   },
   {
     "date": "1935-10-10",
-    "event": "George Gershwin\\'s Porgy & Bess opens in NY"
+    "event": "George Gershwin's Porgy & Bess opens in NY"
   },
   {
     "date": "1937-10-10",
@@ -19169,7 +19169,7 @@ var todayinhistory = [
   },
   {
     "date": "1938-10-10",
-    "event": "Germany completed annexation of Czechoslovakia\\'s Sudetenland."
+    "event": "Germany completed annexation of Czechoslovakia's Sudetenland."
   },
   {
     "date": "1943-10-10",
@@ -19181,7 +19181,7 @@ var todayinhistory = [
   },
   {
     "date": "1956-10-10",
-    "event": "On Skowron\\'s grand slammer Yanks beat Dodgers 9-0 in series game 7"
+    "event": "On Skowron's grand slammer Yanks beat Dodgers 9-0 in series game 7"
   },
   {
     "date": "1957-10-10",
@@ -19221,7 +19221,7 @@ var todayinhistory = [
   },
   {
     "date": "1976-10-10",
-    "event": "NJ Meadowlands\\' Giant\\'s Stadium opens"
+    "event": "NJ Meadowlands' Giant's Stadium opens"
   },
   {
     "date": "1978-10-10",
@@ -19301,7 +19301,7 @@ var todayinhistory = [
   },
   {
     "date": "1975-10-11",
-    "event": "Islander\\'s Bryan Trottier\\'s 1st career hat trick"
+    "event": "Islander's Bryan Trottier's 1st career hat trick"
   },
   {
     "date": "1975-10-11",
@@ -19345,11 +19345,11 @@ var todayinhistory = [
   },
   {
     "date": "1923-10-12",
-    "event": "NY Giant\\'s Casey Stengel Hr beats Yanks 1-0 in the World Series"
+    "event": "NY Giant's Casey Stengel Hr beats Yanks 1-0 in the World Series"
   },
   {
     "date": "1929-10-12",
-    "event": "Cubs blow 8-0 world series lead A\\'s score 10 in 1 inning"
+    "event": "Cubs blow 8-0 world series lead A's score 10 in 1 inning"
   },
   {
     "date": "1933-10-12",
@@ -19413,7 +19413,7 @@ var todayinhistory = [
   },
   {
     "date": "1973-10-12",
-    "event": "Gerald Ford named as Spiro Agnew\\'s successor to vice presidency"
+    "event": "Gerald Ford named as Spiro Agnew's successor to vice presidency"
   },
   {
     "date": "1977-10-12",
@@ -19425,7 +19425,7 @@ var todayinhistory = [
   },
   {
     "date": "1985-10-12",
-    "event": "Int\\'l Physicians for Prevention of Nuclear War receives Nobel Prize."
+    "event": "Int'l Physicians for Prevention of Nuclear War receives Nobel Prize."
   },
   {
     "date": "1601-10-13",
@@ -19445,7 +19445,7 @@ var todayinhistory = [
   },
   {
     "date": "1843-10-13",
-    "event": "B\\'nai B\\'rith founded in NY."
+    "event": "B'nai B'rith founded in NY."
   },
   {
     "date": "1845-10-13",
@@ -19465,7 +19465,7 @@ var todayinhistory = [
   },
   {
     "date": "1960-10-13",
-    "event": "Pirate\\'s Mazeroski\\'s bottom of 9th lead off HR beats Yanks 10-9 in game 7 of World Series"
+    "event": "Pirate's Mazeroski's bottom of 9th lead off HR beats Yanks 10-9 in game 7 of World Series"
   },
   {
     "date": "1964-10-13",
@@ -19525,7 +19525,7 @@ var todayinhistory = [
   },
   {
     "date": "1843-10-14",
-    "event": "British arrest Irish nationalist Daniel O\\'Connell for conspiracy."
+    "event": "British arrest Irish nationalist Daniel O'Connell for conspiracy."
   },
   {
     "date": "1884-10-14",
@@ -19533,7 +19533,7 @@ var todayinhistory = [
   },
   {
     "date": "1905-10-14",
-    "event": "Giant\\'s Christy Mathewson\\'s 3rd straight world series shutout"
+    "event": "Giant's Christy Mathewson's 3rd straight world series shutout"
   },
   {
     "date": "1912-10-14",
@@ -19565,7 +19565,7 @@ var todayinhistory = [
   },
   {
     "date": "1976-10-14",
-    "event": "Chris Chambliss\\' 9th inning lead off homers gives Yanks pennant #30"
+    "event": "Chris Chambliss' 9th inning lead off homers gives Yanks pennant #30"
   },
   {
     "date": "1976-10-14",
@@ -19577,7 +19577,7 @@ var todayinhistory = [
   },
   {
     "date": "1978-10-14",
-    "event": "1st TV movie from a TV series - Rescue from Gilligan\\'s Island"
+    "event": "1st TV movie from a TV series - Rescue from Gilligan's Island"
   },
   {
     "date": "1978-10-14",
@@ -19649,7 +19649,7 @@ var todayinhistory = [
   },
   {
     "date": "1981-10-15",
-    "event": "Yanks defeat A\\'s 4-0 & win 33 pennant"
+    "event": "Yanks defeat A's 4-0 & win 33 pennant"
   },
   {
     "date": "1775-10-16",
@@ -19673,7 +19673,7 @@ var todayinhistory = [
   },
   {
     "date": "1859-10-16",
-    "event": "John Brown leads group of 20 in a raid on Harper\\'s Ferry Va."
+    "event": "John Brown leads group of 20 in a raid on Harper's Ferry Va."
   },
   {
     "date": "1861-10-16",
@@ -19701,7 +19701,7 @@ var todayinhistory = [
   },
   {
     "date": "1943-10-16",
-    "event": "Chicago Mayor Ed Kelly opens the city\\'s new subway system."
+    "event": "Chicago Mayor Ed Kelly opens the city's new subway system."
   },
   {
     "date": "1946-10-16",
@@ -19709,7 +19709,7 @@ var todayinhistory = [
   },
   {
     "date": "1952-10-16",
-    "event": "Woolworth\\'s at Powell & Market (S.F.) opens."
+    "event": "Woolworth's at Powell & Market (S.F.) opens."
   },
   {
     "date": "1957-10-16",
@@ -19729,7 +19729,7 @@ var todayinhistory = [
   },
   {
     "date": "1964-10-16",
-    "event": "China becomes world\\'s 5th nuclear power"
+    "event": "China becomes world's 5th nuclear power"
   },
   {
     "date": "1969-10-16",
@@ -19757,11 +19757,11 @@ var todayinhistory = [
   },
   {
     "date": "1981-10-16",
-    "event": "Israel\\'s General Moshe Dayan dies at 66"
+    "event": "Israel's General Moshe Dayan dies at 66"
   },
   {
     "date": "1982-10-16",
-    "event": "Mt Palomar Observatory 1st to detect Halley\\'s comet on 13th return"
+    "event": "Mt Palomar Observatory 1st to detect Halley's comet on 13th return"
   },
   {
     "date": "1982-10-16",
@@ -19853,7 +19853,7 @@ var todayinhistory = [
   },
   {
     "date": "1957-10-17",
-    "event": "Britain\\'s Queen Elizabeth & Prince Philip visits White House."
+    "event": "Britain's Queen Elizabeth & Prince Philip visits White House."
   },
   {
     "date": "1957-10-17",
@@ -19973,7 +19973,7 @@ var todayinhistory = [
   },
   {
     "date": "1967-10-18",
-    "event": "Walt Disney\\'s \\\"Jungle Book\\\" is released"
+    "event": "Walt Disney's \"Jungle Book\" is released"
   },
   {
     "date": "1967-10-18",
@@ -19985,7 +19985,7 @@ var todayinhistory = [
   },
   {
     "date": "1968-10-18",
-    "event": "US Olympic Committee suspended Tommie Smith & John Carlos for giving `black power\\' salute as a protest during victory ceremony"
+    "event": "US Olympic Committee suspended Tommie Smith & John Carlos for giving `black power' salute as a protest during victory ceremony"
   },
   {
     "date": "1969-10-18",
@@ -19997,11 +19997,11 @@ var todayinhistory = [
   },
   {
     "date": "1977-10-18",
-    "event": "Reggie Jackson hits 3 consecutive homers tying Ruth\\'s series record"
+    "event": "Reggie Jackson hits 3 consecutive homers tying Ruth's series record"
   },
   {
     "date": "1977-10-18",
-    "event": "1st Islander 0-0 tie-Kings at Nassau-25th time shutout-Resch\\'s 15th"
+    "event": "1st Islander 0-0 tie-Kings at Nassau-25th time shutout-Resch's 15th"
   },
   {
     "date": "1977-10-18",
@@ -20021,7 +20021,7 @@ var todayinhistory = [
   },
   {
     "date": "1845-10-19",
-    "event": "Wagner\\'s opera Tannh„user performed for 1st time."
+    "event": "Wagner's opera Tannh„user performed for 1st time."
   },
   {
     "date": "1853-10-19",
@@ -20033,7 +20033,7 @@ var todayinhistory = [
   },
   {
     "date": "1872-10-19",
-    "event": "world\\'s largest gold nugget (215 kg) found in New South Wales."
+    "event": "world's largest gold nugget (215 kg) found in New South Wales."
   },
   {
     "date": "1879-10-19",
@@ -20041,7 +20041,7 @@ var todayinhistory = [
   },
   {
     "date": "1936-10-19",
-    "event": "H.R. Ekins of the \\\"NY World-Telegram\\\" beats 2 other reporters in a race around the world on commercial flights by 18 1/2 days."
+    "event": "H.R. Ekins of the \"NY World-Telegram\" beats 2 other reporters in a race around the world on commercial flights by 18 1/2 days."
   },
   {
     "date": "1949-10-19",
@@ -20061,7 +20061,7 @@ var todayinhistory = [
   },
   {
     "date": "1963-10-19",
-    "event": "Beatles record \\\"I Want to Hold Your Hand\\"
+    "event": "Beatles record \"I Want to Hold Your Hand\""
   },
   {
     "date": "1967-10-19",
@@ -20085,7 +20085,7 @@ var todayinhistory = [
   },
   {
     "date": "1600-10-20",
-    "event": "Battle of Sekigahara establishes Tokugawa clan as rulers of Japan (shoguns) until 1865 (basis of Clavell\\'s novel)."
+    "event": "Battle of Sekigahara establishes Tokugawa clan as rulers of Japan (shoguns) until 1865 (basis of Clavell's novel)."
   },
   {
     "date": "1740-10-20",
@@ -20121,7 +20121,7 @@ var todayinhistory = [
   },
   {
     "date": "1944-10-20",
-    "event": "During WWII MacArthur goes to Phillipines saying `I have returned\\"
+    "event": "During WWII MacArthur goes to Phillipines saying `I have returned"
   },
   {
     "date": "1946-10-20",
@@ -20149,7 +20149,7 @@ var todayinhistory = [
   },
   {
     "date": "1972-10-20",
-    "event": "Harlow Shapley discoverer of the sun\\'s position in the galaxy dies."
+    "event": "Harlow Shapley discoverer of the sun's position in the galaxy dies."
   },
   {
     "date": "1973-10-20",
@@ -20165,11 +20165,11 @@ var todayinhistory = [
   },
   {
     "date": "1982-10-20",
-    "event": "Billy Martin fired as manager of the Oakland A\\'s"
+    "event": "Billy Martin fired as manager of the Oakland A's"
   },
   {
     "date": "1984-10-20",
-    "event": "Islander\\'s Mike Bossy\\'s 30th career hat trick - 4 goals"
+    "event": "Islander's Mike Bossy's 30th career hat trick - 4 goals"
   },
   {
     "date": "1987-10-20",
@@ -20205,7 +20205,7 @@ var todayinhistory = [
   },
   {
     "date": "1923-10-21",
-    "event": "Deutsches Museum Munich 1st Walther Bauersfeld\\'s Zeiss Planetarium."
+    "event": "Deutsches Museum Munich 1st Walther Bauersfeld's Zeiss Planetarium."
   },
   {
     "date": "1944-10-21",
@@ -20277,11 +20277,11 @@ var todayinhistory = [
   },
   {
     "date": "1928-10-22",
-    "event": "Pres Hoover spoke of `American system of rugged individualism.\\"
+    "event": "Pres Hoover spoke of `American system of rugged individualism."
   },
   {
     "date": "1934-10-22",
-    "event": "Charles \\\"Pretty Boy\\\" Floyd shot dead by FBI in Ohio."
+    "event": "Charles \"Pretty Boy\" Floyd shot dead by FBI in Ohio."
   },
   {
     "date": "1936-10-22",
@@ -20333,7 +20333,7 @@ var todayinhistory = [
   },
   {
     "date": "1979-10-22",
-    "event": "WDW\\'s 100-millionth guest"
+    "event": "WDW's 100-millionth guest"
   },
   {
     "date": "1979-10-22",
@@ -20373,7 +20373,7 @@ var todayinhistory = [
   },
   {
     "date": "1941-10-23",
-    "event": "Walt Disney\\'s \\\"Dumbo\\\" is released"
+    "event": "Walt Disney's \"Dumbo\" is released"
   },
   {
     "date": "1942-10-23",
@@ -20401,7 +20401,7 @@ var todayinhistory = [
   },
   {
     "date": "1975-10-23",
-    "event": "Islander Glenn Resch\\'s 5th shut-out opponent - Flyers 3-0"
+    "event": "Islander Glenn Resch's 5th shut-out opponent - Flyers 3-0"
   },
   {
     "date": "1977-10-23",
@@ -20493,11 +20493,11 @@ var todayinhistory = [
   },
   {
     "date": "1984-10-24",
-    "event": "Intelsat 5 re-enters Earth\\'s atmosphere 5 months after failed"
+    "event": "Intelsat 5 re-enters Earth's atmosphere 5 months after failed"
   },
   {
     "date": "1987-10-24",
-    "event": "Bork\\'s supreme court nomination rejected by senate"
+    "event": "Bork's supreme court nomination rejected by senate"
   },
   {
     "date": "1987-10-24",
@@ -20545,7 +20545,7 @@ var todayinhistory = [
   },
   {
     "date": "1962-10-25",
-    "event": "Stevenson demands USSR amb Zorin answer regarding Cuban missle bases saying \\\"I am prepared to wait for my answer until hell freezes over"
+    "event": "Stevenson demands USSR amb Zorin answer regarding Cuban missle bases saying \"I am prepared to wait for my answer until hell freezes over\""
   },
   {
     "date": "1971-10-25",
@@ -20689,7 +20689,7 @@ var todayinhistory = [
   },
   {
     "date": "1938-10-27",
-    "event": "DuPont announces that its new synthetic fiber will be called \\'nylon\\"
+    "event": "DuPont announces that its new synthetic fiber will be called 'nylon"
   },
   {
     "date": "1947-10-27",
@@ -20697,7 +20697,7 @@ var todayinhistory = [
   },
   {
     "date": "1954-10-27",
-    "event": "Walt Disney\\'s 1st TV show Disneyland premiers on ABC."
+    "event": "Walt Disney's 1st TV show Disneyland premiers on ABC."
   },
   {
     "date": "1961-10-27",
@@ -20769,7 +20769,7 @@ var todayinhistory = [
   },
   {
     "date": "1922-10-28",
-    "event": "Benito Mussolini takes control of Italy\\'s government."
+    "event": "Benito Mussolini takes control of Italy's government."
   },
   {
     "date": "1922-10-28",
@@ -20829,7 +20829,7 @@ var todayinhistory = [
   },
   {
     "date": "1977-10-28",
-    "event": "TV\\'s Rhoda gets married"
+    "event": "TV's Rhoda gets married"
   },
   {
     "date": "1979-10-28",
@@ -20917,7 +20917,7 @@ var todayinhistory = [
   },
   {
     "date": "1864-10-30",
-    "event": "Helena Montana\\'s capital founded."
+    "event": "Helena Montana's capital founded."
   },
   {
     "date": "1905-10-30",
@@ -20949,7 +20949,7 @@ var todayinhistory = [
   },
   {
     "date": "1961-10-30",
-    "event": "Soviet Party Congress unanimously approves a resolution removing Josef Stalin\\'s body from Lenin\\'s tomb in Red Square."
+    "event": "Soviet Party Congress unanimously approves a resolution removing Josef Stalin's body from Lenin's tomb in Red Square."
   },
   {
     "date": "1961-10-30",
@@ -20969,7 +20969,7 @@ var todayinhistory = [
   },
   {
     "date": "1975-10-30",
-    "event": "NY Daily News ran headline `Ford to City: Drop Dead\\"
+    "event": "NY Daily News ran headline `Ford to City: Drop Dead"
   },
   {
     "date": "1978-10-30",
@@ -21033,7 +21033,7 @@ var todayinhistory = [
   },
   {
     "date": "1752-11-01",
-    "event": "All Saints\\' Day"
+    "event": "All Saints' Day"
   },
   {
     "date": "1863-11-01",
@@ -21081,7 +21081,7 @@ var todayinhistory = [
   },
   {
     "date": "1977-11-01",
-    "event": "Islander Goran Hogosta\\'s only shut-out Flames 9-0 - Trottier 4 goals"
+    "event": "Islander Goran Hogosta's only shut-out Flames 9-0 - Trottier 4 goals"
   },
   {
     "date": "1981-11-01",
@@ -21113,7 +21113,7 @@ var todayinhistory = [
   },
   {
     "date": "1947-11-02",
-    "event": "Howard Hughes\\' Spruce Goose flies for 1st (& last) time"
+    "event": "Howard Hughes' Spruce Goose flies for 1st (& last) time"
   },
   {
     "date": "1948-11-02",
@@ -21261,7 +21261,7 @@ var todayinhistory = [
   },
   {
     "date": "1979-11-04",
-    "event": "500 Iranian \\\"students\\\" seize US embassy take 90 hostages"
+    "event": "500 Iranian \"students\" seize US embassy take 90 hostages"
   },
   {
     "date": "1980-11-04",
@@ -21281,7 +21281,7 @@ var todayinhistory = [
   },
   {
     "date": "1781-11-05",
-    "event": "John Hanson elected 1st \\'Pres of the US in Congress assembled\\"
+    "event": "John Hanson elected 1st 'Pres of the US in Congress assembled"
   },
   {
     "date": "1875-11-05",
@@ -21349,7 +21349,7 @@ var todayinhistory = [
   },
   {
     "date": "1952-11-06",
-    "event": "US explodes world\\'s 1st hydrogen bomb at Eniwetok Atoll"
+    "event": "US explodes world's 1st hydrogen bomb at Eniwetok Atoll"
   },
   {
     "date": "1962-11-06",
@@ -21357,7 +21357,7 @@ var todayinhistory = [
   },
   {
     "date": "1962-11-06",
-    "event": "Nixon tells press he won\\'t be available to kick around any more"
+    "event": "Nixon tells press he won't be available to kick around any more"
   },
   {
     "date": "1968-11-06",
@@ -21437,7 +21437,7 @@ var todayinhistory = [
   },
   {
     "date": "1962-11-07",
-    "event": "Richard Nixon quits politics - You won\\'t have Nixon to kick around"
+    "event": "Richard Nixon quits politics - You won't have Nixon to kick around"
   },
   {
     "date": "1972-11-07",
@@ -21453,7 +21453,7 @@ var todayinhistory = [
   },
   {
     "date": "1985-11-07",
-    "event": "Colombian troops ends 27-hour siege of Bogota\\'s Palace of Justice"
+    "event": "Colombian troops ends 27-hour siege of Bogota's Palace of Justice"
   },
   {
     "date": "1793-11-08",
@@ -21481,11 +21481,11 @@ var todayinhistory = [
   },
   {
     "date": "1923-11-08",
-    "event": "Hitler\\'s \\\"Beer Hall Putsch\\\" failed In jail writes \\\"Mein Kampf\\"
+    "event": "Hitler's \"Beer Hall Putsch\" failed In jail writes \"Mein Kampf\""
   },
   {
     "date": "1932-11-08",
-    "event": "FDR elected pres Lehman NY governor & O\\'Brien NY mayor"
+    "event": "FDR elected pres Lehman NY governor & O'Brien NY mayor"
   },
   {
     "date": "1939-11-08",
@@ -21501,15 +21501,15 @@ var todayinhistory = [
   },
   {
     "date": "1972-11-08",
-    "event": "Blackhawk\\'s Pit Martin failed on 1st penalty shot against Islanders Blackhawks score 2 goals within 9 seconds against Islanders"
+    "event": "Blackhawk's Pit Martin failed on 1st penalty shot against Islanders Blackhawks score 2 goals within 9 seconds against Islanders"
   },
   {
     "date": "1973-11-08",
-    "event": "Walt Disney\\'s \\\"Robin Hood\\\" is released"
+    "event": "Walt Disney's \"Robin Hood\" is released"
   },
   {
     "date": "1980-11-08",
-    "event": "Islander\\'s Mike Bossy\\'s 10th career hat trick"
+    "event": "Islander's Mike Bossy's 10th career hat trick"
   },
   {
     "date": "1982-11-08",
@@ -21521,7 +21521,7 @@ var todayinhistory = [
   },
   {
     "date": "1985-11-08",
-    "event": "Judge overturned Rubin ``Hurricane\\'\\' Carter\\'s conviction"
+    "event": "Judge overturned Rubin ``Hurricane'' Carter's conviction"
   },
   {
     "date": "1799-11-09",
@@ -21593,7 +21593,7 @@ var todayinhistory = [
   },
   {
     "date": "1891-11-10",
-    "event": "1st Woman\\'s Christian Temperance Union meeting held (in Boston)"
+    "event": "1st Woman's Christian Temperance Union meeting held (in Boston)"
   },
   {
     "date": "1945-11-10",
@@ -21681,11 +21681,11 @@ var todayinhistory = [
   },
   {
     "date": "1931-11-11",
-    "event": "Cornerstones laid for Opera House & Veteran\\'s Building"
+    "event": "Cornerstones laid for Opera House & Veteran's Building"
   },
   {
     "date": "1939-11-11",
-    "event": "Kate Smith 1st sang Irving Berlin\\'s `God Bless America\\"
+    "event": "Kate Smith 1st sang Irving Berlin's `God Bless America"
   },
   {
     "date": "1942-11-11",
@@ -21705,7 +21705,7 @@ var todayinhistory = [
   },
   {
     "date": "1963-11-11",
-    "event": "Gordie Howe ties Rocket Richard\\'s lifetime 544 goal record"
+    "event": "Gordie Howe ties Rocket Richard's lifetime 544 goal record"
   },
   {
     "date": "1965-11-11",
@@ -21717,7 +21717,7 @@ var todayinhistory = [
   },
   {
     "date": "1968-11-11",
-    "event": "John Lennon & Yoko Ono appear nude on cover of \\\"Two Virgins\\\" album"
+    "event": "John Lennon & Yoko Ono appear nude on cover of \"Two Virgins\" album"
   },
   {
     "date": "1972-11-11",
@@ -21733,7 +21733,7 @@ var todayinhistory = [
   },
   {
     "date": "1980-11-11",
-    "event": "Islander\\'s Mike Bossy scores 4 goals against North Stars"
+    "event": "Islander's Mike Bossy scores 4 goals against North Stars"
   },
   {
     "date": "1982-11-11",
@@ -21749,7 +21749,7 @@ var todayinhistory = [
   },
   {
     "date": "1987-11-11",
-    "event": "Van Gogh\\'s \\\"Irises\\\" sells for record $53.6 million at auction"
+    "event": "Van Gogh's \"Irises\" sells for record $53.6 million at auction"
   },
   {
     "date": "1873-11-12",
@@ -21797,11 +21797,11 @@ var todayinhistory = [
   },
   {
     "date": "1946-11-12",
-    "event": "Walt Disney\\'s \\\"Song Of The South\\\" released"
+    "event": "Walt Disney's \"Song Of The South\" released"
   },
   {
     "date": "1946-11-12",
-    "event": "1st \\\"autobank\\\" (banking by car) established (Chic)"
+    "event": "1st \"autobank\" (banking by car) established (Chic)"
   },
   {
     "date": "1948-11-12",
@@ -21821,7 +21821,7 @@ var todayinhistory = [
   },
   {
     "date": "1977-11-12",
-    "event": "New Orleans elects 1st black mayor Ernest `Dutch\\' Morial"
+    "event": "New Orleans elects 1st black mayor Ernest `Dutch' Morial"
   },
   {
     "date": "1980-11-12",
@@ -21837,7 +21837,7 @@ var todayinhistory = [
   },
   {
     "date": "1981-11-12",
-    "event": "Billy Martin named AL Manager of the Year (Oakland A\\'s)"
+    "event": "Billy Martin named AL Manager of the Year (Oakland A's)"
   },
   {
     "date": "1981-11-12",
@@ -21849,7 +21849,7 @@ var todayinhistory = [
   },
   {
     "date": "1983-11-12",
-    "event": "NJ Devils\\' 1st overtime game lose 4-3 to Flames"
+    "event": "NJ Devils' 1st overtime game lose 4-3 to Flames"
   },
   {
     "date": "1984-11-12",
@@ -21857,7 +21857,7 @@ var todayinhistory = [
   },
   {
     "date": "1987-11-12",
-    "event": "Van Gogh\\'s `Irises\\' sells for $53 900 000 - Rec amount for a painting"
+    "event": "Van Gogh's `Irises' sells for $53 900 000 - Rec amount for a painting"
   },
   {
     "date": "0867-11-13",
@@ -21901,7 +21901,7 @@ var todayinhistory = [
   },
   {
     "date": "1940-11-13",
-    "event": "Walt Disney\\'s \\\"Fantasia\\\" is released"
+    "event": "Walt Disney's \"Fantasia\" is released"
   },
   {
     "date": "1941-11-13",
@@ -21925,7 +21925,7 @@ var todayinhistory = [
   },
   {
     "date": "1970-11-13",
-    "event": "Vice Pres Spiro Agnew calls TV executives \\\"impudent snobs\\"
+    "event": "Vice Pres Spiro Agnew calls TV executives \"impudent snobs\""
   },
   {
     "date": "1970-11-13",
@@ -21977,11 +21977,11 @@ var todayinhistory = [
   },
   {
     "date": "1881-11-14",
-    "event": "Charles J Guiteau went on trial for Pres Garfield\\'s assassination"
+    "event": "Charles J Guiteau went on trial for Pres Garfield's assassination"
   },
   {
     "date": "1889-11-14",
-    "event": "NY World\\'s Nellie Bly (Liz Cochrane) begins 72 day world trip"
+    "event": "NY World's Nellie Bly (Liz Cochrane) begins 72 day world trip"
   },
   {
     "date": "1896-11-14",
@@ -22005,11 +22005,11 @@ var todayinhistory = [
   },
   {
     "date": "1943-11-14",
-    "event": "Bears\\' Sid Luckman throws 7 TD passes (NFL record)"
+    "event": "Bears' Sid Luckman throws 7 TD passes (NFL record)"
   },
   {
     "date": "1959-11-14",
-    "event": "Kilauea\\'s most spectacular eruption (in Hawaii)"
+    "event": "Kilauea's most spectacular eruption (in Hawaii)"
   },
   {
     "date": "1969-11-14",
@@ -22021,7 +22021,7 @@ var todayinhistory = [
   },
   {
     "date": "1973-11-14",
-    "event": "Britain\\'s Princess Anne marries commoner Capt Mark Phillips"
+    "event": "Britain's Princess Anne marries commoner Capt Mark Phillips"
   },
   {
     "date": "1977-11-14",
@@ -22137,7 +22137,7 @@ var todayinhistory = [
   },
   {
     "date": "1982-11-15",
-    "event": "Funeral services held in Moscow\\'s Red Square for Leonid I Brezhnev"
+    "event": "Funeral services held in Moscow's Red Square for Leonid I Brezhnev"
   },
   {
     "date": "1983-11-15",
@@ -22145,7 +22145,7 @@ var todayinhistory = [
   },
   {
     "date": "1984-11-15",
-    "event": "Baby Fae who received a baboon\\'s heart dies at Calif medical center"
+    "event": "Baby Fae who received a baboon's heart dies at Calif medical center"
   },
   {
     "date": "1532-11-16",
@@ -22229,7 +22229,7 @@ var todayinhistory = [
   },
   {
     "date": "1884-11-17",
-    "event": "Cops arrest John L Sullivan in 2nd round for being \\\"cruel\\"
+    "event": "Cops arrest John L Sullivan in 2nd round for being \"cruel\""
   },
   {
     "date": "1913-11-17",
@@ -22249,7 +22249,7 @@ var todayinhistory = [
   },
   {
     "date": "1948-11-17",
-    "event": "Britain\\'s House of Commons voted to nationalize steel industry"
+    "event": "Britain's House of Commons voted to nationalize steel industry"
   },
   {
     "date": "1956-11-17",
@@ -22269,7 +22269,7 @@ var todayinhistory = [
   },
   {
     "date": "1973-11-17",
-    "event": "Pres Nixon told AP \\\"...people have got to know whether or not their pres is a crook. Well I\\'m not a crook.\\"
+    "event": "Pres Nixon told AP \"...people have got to know whether or not their pres is a crook. Well I'm not a crook.\""
   },
   {
     "date": "1977-11-17",
@@ -22321,7 +22321,7 @@ var todayinhistory = [
   },
   {
     "date": "1928-11-18",
-    "event": "Walt Disney\\'s Mickey Mouse debuts in NY in \\\"Steamboat Willie\\"
+    "event": "Walt Disney's Mickey Mouse debuts in NY in \"Steamboat Willie\""
   },
   {
     "date": "1932-11-18",
@@ -22349,7 +22349,7 @@ var todayinhistory = [
   },
   {
     "date": "1984-11-18",
-    "event": "Flyers\\' Ron Sutter failed on 11th penalty shot against Islanders"
+    "event": "Flyers' Ron Sutter failed on 11th penalty shot against Islanders"
   },
   {
     "date": "1493-11-19",
@@ -22397,7 +22397,7 @@ var todayinhistory = [
   },
   {
     "date": "1977-11-19",
-    "event": "Canuck\\'s Ron Sedlbauer failed on 3rd penalty shot against Islanders"
+    "event": "Canuck's Ron Sedlbauer failed on 3rd penalty shot against Islanders"
   },
   {
     "date": "1978-11-19",
@@ -22453,7 +22453,7 @@ var todayinhistory = [
   },
   {
     "date": "1947-11-20",
-    "event": "Britain\\'s Princess Elizabeth marries Duke Philip Mountbatten"
+    "event": "Britain's Princess Elizabeth marries Duke Philip Mountbatten"
   },
   {
     "date": "1953-11-20",
@@ -22465,7 +22465,7 @@ var todayinhistory = [
   },
   {
     "date": "1975-11-20",
-    "event": "Spain\\'s Gen. Francisco Franco dies in Madrid at 82"
+    "event": "Spain's Gen. Francisco Franco dies in Madrid at 82"
   },
   {
     "date": "1977-11-20",
@@ -22481,11 +22481,11 @@ var todayinhistory = [
   },
   {
     "date": "1980-11-20",
-    "event": "Billy Martin named AL Manager of the Year (Oakland A\\'s)"
+    "event": "Billy Martin named AL Manager of the Year (Oakland A's)"
   },
   {
     "date": "1980-11-20",
-    "event": "UA withdraws $44 million movie `Heaven\\'s Gate\\' for reediting."
+    "event": "UA withdraws $44 million movie `Heaven's Gate' for reediting."
   },
   {
     "date": "1981-11-20",
@@ -22493,7 +22493,7 @@ var todayinhistory = [
   },
   {
     "date": "1983-11-20",
-    "event": "100 million watch ABC-TV movie `The Day After\\"
+    "event": "100 million watch ABC-TV movie `The Day After"
   },
   {
     "date": "1985-11-20",
@@ -22501,7 +22501,7 @@ var todayinhistory = [
   },
   {
     "date": "1986-11-20",
-    "event": "UN\\'s WHO announces 1st global effort to combat AIDS"
+    "event": "UN's WHO announces 1st global effort to combat AIDS"
   },
   {
     "date": "1620-11-21",
@@ -22513,7 +22513,7 @@ var todayinhistory = [
   },
   {
     "date": "1783-11-21",
-    "event": "Pilƒtre de Rozier & Marquis d\\'Arlandes make 1st free balloon flight"
+    "event": "Pilƒtre de Rozier & Marquis d'Arlandes make 1st free balloon flight"
   },
   {
     "date": "1789-11-21",
@@ -22545,11 +22545,11 @@ var todayinhistory = [
   },
   {
     "date": "1964-11-21",
-    "event": "World\\'s longest suspension bridge Verrazano Narrows Bridge opened"
+    "event": "World's longest suspension bridge Verrazano Narrows Bridge opened"
   },
   {
     "date": "1980-11-21",
-    "event": "Gene Michaels replaces Dick Howser as Yankee\\'s 25th manager"
+    "event": "Gene Michaels replaces Dick Howser as Yankee's 25th manager"
   },
   {
     "date": "1980-11-21",
@@ -22557,7 +22557,7 @@ var todayinhistory = [
   },
   {
     "date": "1906-11-22",
-    "event": "Intl Radio Telegraphic Convention adopts \\\"SOS\\\" as new call for help"
+    "event": "Intl Radio Telegraphic Convention adopts \"SOS\" as new call for help"
   },
   {
     "date": "1925-11-22",
@@ -22589,7 +22589,7 @@ var todayinhistory = [
   },
   {
     "date": "1968-11-22",
-    "event": "Beatles release \\\"The Beatles\\\" there only double album"
+    "event": "Beatles release \"The Beatles\" there only double album"
   },
   {
     "date": "1972-11-22",
@@ -22657,7 +22657,7 @@ var todayinhistory = [
   },
   {
     "date": "1979-11-24",
-    "event": "Kings\\' Charley Simmer failed on 8th penalty shot against Islanders"
+    "event": "Kings' Charley Simmer failed on 8th penalty shot against Islanders"
   },
   {
     "date": "1867-11-25",
@@ -22689,11 +22689,11 @@ var todayinhistory = [
   },
   {
     "date": "1948-11-25",
-    "event": "Ft Funston\\'s 16-inch coastal guns removed"
+    "event": "Ft Funston's 16-inch coastal guns removed"
   },
   {
     "date": "1952-11-25",
-    "event": "Agatha Christie\\'s \\\"Mouse Trap\\\" opens in London"
+    "event": "Agatha Christie's \"Mouse Trap\" opens in London"
   },
   {
     "date": "1957-11-25",
@@ -22765,7 +22765,7 @@ var todayinhistory = [
   },
   {
     "date": "1883-11-26",
-    "event": "Sojourner Truth abolitionist women\\'s rights advocate dies"
+    "event": "Sojourner Truth abolitionist women's rights advocate dies"
   },
   {
     "date": "1885-11-26",
@@ -22801,7 +22801,7 @@ var todayinhistory = [
   },
   {
     "date": "1973-11-26",
-    "event": "Nixon\\'s personal sec Rose Mary Woods told a federal court she accidentally caused part of 18-minute gap in a key Watergate tape"
+    "event": "Nixon's personal sec Rose Mary Woods told a federal court she accidentally caused part of 18-minute gap in a key Watergate tape"
   },
   {
     "date": "1975-11-26",
@@ -22845,11 +22845,11 @@ var todayinhistory = [
   },
   {
     "date": "1910-11-27",
-    "event": "NY\\'s Penn Station opens as world\\'s largest railway terminal"
+    "event": "NY's Penn Station opens as world's largest railway terminal"
   },
   {
     "date": "1937-11-27",
-    "event": "Pro-labor musical revue `Pins & Needles\\'opens produced by ILGWU"
+    "event": "Pro-labor musical revue `Pins & Needles'opens produced by ILGWU"
   },
   {
     "date": "1942-11-27",
@@ -22869,7 +22869,7 @@ var todayinhistory = [
   },
   {
     "date": "1953-11-27",
-    "event": "Playwright Eugene O\\'Neill dies in Boston at 65"
+    "event": "Playwright Eugene O'Neill dies in Boston at 65"
   },
   {
     "date": "1966-11-27",
@@ -22877,7 +22877,7 @@ var todayinhistory = [
   },
   {
     "date": "1967-11-27",
-    "event": "Beatles release \\\"Magical Mystery Tour\\"
+    "event": "Beatles release \"Magical Mystery Tour\""
   },
   {
     "date": "1970-11-27",
@@ -22885,7 +22885,7 @@ var todayinhistory = [
   },
   {
     "date": "1970-11-27",
-    "event": "George Harrison releases 3 album set \\\"All Things Must Pass\\"
+    "event": "George Harrison releases 3 album set \"All Things Must Pass"
   },
   {
     "date": "1971-11-27",
@@ -22933,7 +22933,7 @@ var todayinhistory = [
   },
   {
     "date": "1895-11-28",
-    "event": "America\\'s auto race starts; 6 cars 55 miles winner avg 7 MPH"
+    "event": "America's auto race starts; 6 cars 55 miles winner avg 7 MPH"
   },
   {
     "date": "1912-11-28",
@@ -22977,7 +22977,7 @@ var todayinhistory = [
   },
   {
     "date": "1530-11-29",
-    "event": "Cardinal Thomas Wolsey adviser to England\\'s King Henry VIII died."
+    "event": "Cardinal Thomas Wolsey adviser to England's King Henry VIII died."
   },
   {
     "date": "1847-11-29",
@@ -23037,7 +23037,7 @@ var todayinhistory = [
   },
   {
     "date": "1963-11-29",
-    "event": "Beatles release \\\"I Want to Hold Your Hand\\"
+    "event": "Beatles release \"I Want to Hold Your Hand\""
   },
   {
     "date": "1963-11-29",
@@ -23073,7 +23073,7 @@ var todayinhistory = [
   },
   {
     "date": "1987-11-29",
-    "event": "Ranger\\'s Bob Frosse becomes 2nd goalie to score a goal (vs Isles)"
+    "event": "Ranger's Bob Frosse becomes 2nd goalie to score a goal (vs Isles)"
   },
   {
     "date": "0030-11-30",
@@ -23081,7 +23081,7 @@ var todayinhistory = [
   },
   {
     "date": "1752-11-30",
-    "event": "St Andrew\\'s Day"
+    "event": "St Andrew's Day"
   },
   {
     "date": "1907-11-30",
@@ -23145,7 +23145,7 @@ var todayinhistory = [
   },
   {
     "date": "1922-12-01",
-    "event": "1st skywriting over US - \\\"Hello USA\\\" - by Capt Turner RAF"
+    "event": "1st skywriting over US - \"Hello USA\" - by Capt Turner RAF"
   },
   {
     "date": "1929-12-01",
@@ -23257,7 +23257,7 @@ var todayinhistory = [
   },
   {
     "date": "1975-12-02",
-    "event": "Lao People\\'s Democratic Republic founded (National Day)"
+    "event": "Lao People's Democratic Republic founded (National Day)"
   },
   {
     "date": "1981-12-02",
@@ -23273,7 +23273,7 @@ var todayinhistory = [
   },
   {
     "date": "1678-12-03",
-    "event": "Edmund Halley receives MA from Queen\\'s College Oxford"
+    "event": "Edmund Halley receives MA from Queen's College Oxford"
   },
   {
     "date": "1818-12-03",
@@ -23297,7 +23297,7 @@ var todayinhistory = [
   },
   {
     "date": "1947-12-03",
-    "event": "Tennessee Williams play `A Streetcar Named Desire \\' opens"
+    "event": "Tennessee Williams play `A Streetcar Named Desire ' opens"
   },
   {
     "date": "1948-12-03",
@@ -23349,7 +23349,7 @@ var todayinhistory = [
   },
   {
     "date": "1619-12-04",
-    "event": "America\\'s 1st Thanksgiving Day (Va)"
+    "event": "America's 1st Thanksgiving Day (Va)"
   },
   {
     "date": "1680-12-04",
@@ -23361,7 +23361,7 @@ var todayinhistory = [
   },
   {
     "date": "1783-12-04",
-    "event": "Washington bids officers farewell at Fraunce\\'s Tavern NYC"
+    "event": "Washington bids officers farewell at Fraunce's Tavern NYC"
   },
   {
     "date": "1909-12-04",
@@ -23377,7 +23377,7 @@ var todayinhistory = [
   },
   {
     "date": "1957-12-04",
-    "event": "1st edition of Chase\\'s Annual Events published"
+    "event": "1st edition of Chase's Annual Events published"
   },
   {
     "date": "1965-12-04",
@@ -23429,7 +23429,7 @@ var todayinhistory = [
   },
   {
     "date": "1973-12-05",
-    "event": "Paul McCartney releases \\\"Band on the Run\\\" album"
+    "event": "Paul McCartney releases \"Band on the Run\" album"
   },
   {
     "date": "1974-12-05",
@@ -23497,7 +23497,7 @@ var todayinhistory = [
   },
   {
     "date": "1842-12-07",
-    "event": "NY Philharmonic\\'s 1st concert"
+    "event": "NY Philharmonic's 1st concert"
   },
   {
     "date": "1912-12-07",
@@ -23513,7 +23513,7 @@ var todayinhistory = [
   },
   {
     "date": "1953-12-07",
-    "event": "Israel\\'s PM Ben-Gureon retires"
+    "event": "Israel's PM Ben-Gureon retires"
   },
   {
     "date": "1960-12-07",
@@ -23529,11 +23529,11 @@ var todayinhistory = [
   },
   {
     "date": "1977-12-07",
-    "event": "Islander Billy Smith\\'s 10th shut-out opponent - Black Hawks 4-0"
+    "event": "Islander Billy Smith's 10th shut-out opponent - Black Hawks 4-0"
   },
   {
     "date": "1978-12-07",
-    "event": "Islander\\'s Mike Bossy\\'s 1st career hat trick"
+    "event": "Islander's Mike Bossy's 1st career hat trick"
   },
   {
     "date": "1979-12-07",
@@ -23585,7 +23585,7 @@ var todayinhistory = [
   },
   {
     "date": "1966-12-08",
-    "event": "A terrible Yankee trade Roger Maris for Card\\'s Charlie Smith"
+    "event": "A terrible Yankee trade Roger Maris for Card's Charlie Smith"
   },
   {
     "date": "1974-12-08",
@@ -23605,7 +23605,7 @@ var todayinhistory = [
   },
   {
     "date": "1292-12-09",
-    "event": "Sa\\'di great Persian poet (Orchard Rose Garden) dies"
+    "event": "Sa'di great Persian poet (Orchard Rose Garden) dies"
   },
   {
     "date": "1792-12-09",
@@ -23613,7 +23613,7 @@ var todayinhistory = [
   },
   {
     "date": "1793-12-09",
-    "event": "Noah Webster establishes NY\\'s 1st daily newspaper American Minerva"
+    "event": "Noah Webster establishes NY's 1st daily newspaper American Minerva"
   },
   {
     "date": "1907-12-09",
@@ -23709,7 +23709,7 @@ var todayinhistory = [
   },
   {
     "date": "1975-12-10",
-    "event": "Andrei Sakharov\\'s wife Yelena Bonner accepts his Nobel Peace Prize"
+    "event": "Andrei Sakharov's wife Yelena Bonner accepts his Nobel Peace Prize"
   },
   {
     "date": "1977-12-10",
@@ -23761,11 +23761,11 @@ var todayinhistory = [
   },
   {
     "date": "1946-12-11",
-    "event": "UN Children\\'s Fund (UNICEF) established (Nobel 1965)"
+    "event": "UN Children's Fund (UNICEF) established (Nobel 1965)"
   },
   {
     "date": "1953-12-11",
-    "event": "KTVA Anchorage becomes Alaska\\'s 1st TV station"
+    "event": "KTVA Anchorage becomes Alaska's 1st TV station"
   },
   {
     "date": "1954-12-11",
@@ -23785,7 +23785,7 @@ var todayinhistory = [
   },
   {
     "date": "1970-12-11",
-    "event": "John Lennon release an album that contains songs with word \\\"fuck\\"
+    "event": "John Lennon release an album that contains songs with word \"fuck\""
   },
   {
     "date": "1975-12-11",
@@ -23793,7 +23793,7 @@ var todayinhistory = [
   },
   {
     "date": "1975-12-11",
-    "event": "Great Yankee trade getting Willie Randolph Dock Ellis & Ken Brett from Pirates for George \\'Doc\\' Medich"
+    "event": "Great Yankee trade getting Willie Randolph Dock Ellis & Ken Brett from Pirates for George 'Doc' Medich"
   },
   {
     "date": "1787-12-12",
@@ -23857,7 +23857,7 @@ var todayinhistory = [
   },
   {
     "date": "1928-12-13",
-    "event": "George Gershwin\\'s \\\"An American In Paris\\\" premieres"
+    "event": "George Gershwin's \"An American In Paris\" premieres"
   },
   {
     "date": "1968-12-13",
@@ -23865,7 +23865,7 @@ var todayinhistory = [
   },
   {
     "date": "1969-12-13",
-    "event": "Billy Martin fired as Twins\\' manager"
+    "event": "Billy Martin fired as Twins' manager"
   },
   {
     "date": "1974-12-13",
@@ -23885,11 +23885,11 @@ var todayinhistory = [
   },
   {
     "date": "1982-12-13",
-    "event": "Devil\\'s 1st hat trick - Steve Tambellini"
+    "event": "Devil's 1st hat trick - Steve Tambellini"
   },
   {
     "date": "1983-12-13",
-    "event": "Islander\\'s Butch Goring scorings 4 goals against Oilers"
+    "event": "Islander's Butch Goring scorings 4 goals against Oilers"
   },
   {
     "date": "1782-12-14",
@@ -23921,7 +23921,7 @@ var todayinhistory = [
   },
   {
     "date": "1974-12-14",
-    "event": "Islander Glenn Resch\\'s 1st shut-out opponent - Kings 3-0"
+    "event": "Islander Glenn Resch's 1st shut-out opponent - Kings 3-0"
   },
   {
     "date": "1980-12-14",
@@ -23937,7 +23937,7 @@ var todayinhistory = [
   },
   {
     "date": "1612-12-15",
-    "event": "Simon Marius namer of Jupiter\\'s 4 inner satellites is 1st to observe Andromeda galaxy through a telescope"
+    "event": "Simon Marius namer of Jupiter's 4 inner satellites is 1st to observe Andromeda galaxy through a telescope"
   },
   {
     "date": "1791-12-15",
@@ -23997,7 +23997,7 @@ var todayinhistory = [
   },
   {
     "date": "1971-12-15",
-    "event": "USSR\\'s Venera 7 becomes the 1st craft to land on Venus"
+    "event": "USSR's Venera 7 becomes the 1st craft to land on Venus"
   },
   {
     "date": "1973-12-15",
@@ -24013,7 +24013,7 @@ var todayinhistory = [
   },
   {
     "date": "1984-12-15",
-    "event": "USSR launches Vega 1 for rendezvous with Halley\\'s Comet"
+    "event": "USSR launches Vega 1 for rendezvous with Halley's Comet"
   },
   {
     "date": "1985-12-15",
@@ -24033,7 +24033,7 @@ var todayinhistory = [
   },
   {
     "date": "1893-12-16",
-    "event": "Anton Dvorak\\'s \\\"New World Symphony\\\" premieres"
+    "event": "Anton Dvorak's \"New World Symphony\" premieres"
   },
   {
     "date": "1905-12-16",
@@ -24041,7 +24041,7 @@ var todayinhistory = [
   },
   {
     "date": "1907-12-16",
-    "event": "Great White Fleet sails from Hampton Downs on it\\'s World Cruise"
+    "event": "Great White Fleet sails from Hampton Downs on it's World Cruise"
   },
   {
     "date": "1909-12-16",
@@ -24065,7 +24065,7 @@ var todayinhistory = [
   },
   {
     "date": "1538-12-17",
-    "event": "Pope Paul III excommunicated England\\'s King Henry VIII"
+    "event": "Pope Paul III excommunicated England's King Henry VIII"
   },
   {
     "date": "1777-12-17",
@@ -24085,7 +24085,7 @@ var todayinhistory = [
   },
   {
     "date": "1843-12-17",
-    "event": "Charles Dickens\\'s classic: A Christmas Carol published"
+    "event": "Charles Dickens's classic: A Christmas Carol published"
   },
   {
     "date": "1852-12-17",
@@ -24125,7 +24125,7 @@ var todayinhistory = [
   },
   {
     "date": "1975-12-17",
-    "event": "1st time Islanders shut-out Rangers 3-0 - Billy Smith\\'s 5th"
+    "event": "1st time Islanders shut-out Rangers 3-0 - Billy Smith's 5th"
   },
   {
     "date": "1979-12-17",
@@ -24221,7 +24221,7 @@ var todayinhistory = [
   },
   {
     "date": "1985-12-18",
-    "event": "UN Security Council unanimously condemns `acts of hostage-taking\\"
+    "event": "UN Security Council unanimously condemns `acts of hostage-taking"
   },
   {
     "date": "1686-12-19",
@@ -24229,7 +24229,7 @@ var todayinhistory = [
   },
   {
     "date": "1732-12-19",
-    "event": "Benjamin Frankin begins publication of \\\"Poor Richard\\'s Almanack\\"
+    "event": "Benjamin Frankin begins publication of \"Poor Richard's Almanack\""
   },
   {
     "date": "1741-12-19",
@@ -24237,7 +24237,7 @@ var todayinhistory = [
   },
   {
     "date": "1776-12-19",
-    "event": "Thomas Paine publishes his 1st `American Crisis\\' essay"
+    "event": "Thomas Paine publishes his 1st `American Crisis' essay"
   },
   {
     "date": "1777-12-19",
@@ -24249,7 +24249,7 @@ var todayinhistory = [
   },
   {
     "date": "1843-12-19",
-    "event": "Charles Dickens publishes `A Christmas Carol \\' in England"
+    "event": "Charles Dickens publishes `A Christmas Carol ' in England"
   },
   {
     "date": "1859-12-19",
@@ -24349,7 +24349,7 @@ var todayinhistory = [
   },
   {
     "date": "1864-12-20",
-    "event": "Union Gen. Sherman continued his `march to the sea.\\' Savannah Ga"
+    "event": "Union Gen. Sherman continued his `march to the sea.' Savannah Ga"
   },
   {
     "date": "1879-12-20",
@@ -24401,7 +24401,7 @@ var todayinhistory = [
   },
   {
     "date": "1976-12-20",
-    "event": "Israel\\'s PM Yitzhak Rabin resigns"
+    "event": "Israel's PM Yitzhak Rabin resigns"
   },
   {
     "date": "1977-12-20",
@@ -24429,7 +24429,7 @@ var todayinhistory = [
   },
   {
     "date": "1909-12-21",
-    "event": "U of Coopenhagen rejects Cook\\'s claim that he was 1st to North Pole"
+    "event": "U of Coopenhagen rejects Cook's claim that he was 1st to North Pole"
   },
   {
     "date": "1913-12-21",
@@ -24453,7 +24453,7 @@ var todayinhistory = [
   },
   {
     "date": "1954-12-21",
-    "event": "Dr Sam Sheppard\\'s wife Marilyn was murdered"
+    "event": "Dr Sam Sheppard's wife Marilyn was murdered"
   },
   {
     "date": "1968-12-21",
@@ -24469,7 +24469,7 @@ var todayinhistory = [
   },
   {
     "date": "1984-12-21",
-    "event": "Islander Kelly Hrudy\\'s 1st shut-out win - Whalers 1-0"
+    "event": "Islander Kelly Hrudy's 1st shut-out win - Whalers 1-0"
   },
   {
     "date": "1772-12-22",
@@ -24513,11 +24513,11 @@ var todayinhistory = [
   },
   {
     "date": "1690-12-23",
-    "event": "John Flamsteed observes Uranus but doesn\\'t realize its undiscovered"
+    "event": "John Flamsteed observes Uranus but doesn't realize its undiscovered"
   },
   {
     "date": "1783-12-23",
-    "event": "Washington resigns as US Army\\'s commander-in-chief"
+    "event": "Washington resigns as US Army's commander-in-chief"
   },
   {
     "date": "1913-12-23",
@@ -24589,7 +24589,7 @@ var todayinhistory = [
   },
   {
     "date": "1871-12-24",
-    "event": "Giuseppe Verdi\\'s `Aida\\' premiere in Cairo at Suez canal opening"
+    "event": "Giuseppe Verdi's `Aida' premiere in Cairo at Suez canal opening"
   },
   {
     "date": "1906-12-24",
@@ -24601,7 +24601,7 @@ var todayinhistory = [
   },
   {
     "date": "1910-12-24",
-    "event": "Luisa Tetrazzini sings to 250 000 people at Lotta\\'s Fountain"
+    "event": "Luisa Tetrazzini sings to 250 000 people at Lotta's Fountain"
   },
   {
     "date": "1920-12-24",
@@ -24629,7 +24629,7 @@ var todayinhistory = [
   },
   {
     "date": "1970-12-24",
-    "event": "Walt Disney\\'s \\\"The Aristocats\\\" is released"
+    "event": "Walt Disney's \"The Aristocats\" is released"
   },
   {
     "date": "1980-12-24",
@@ -24645,7 +24645,7 @@ var todayinhistory = [
   },
   {
     "date": "1758-12-25",
-    "event": "Halley\\'s comet 1st sighted by Johann Georg Palitzsch during return"
+    "event": "Halley's comet 1st sighted by Johann Georg Palitzsch during return"
   },
   {
     "date": "1776-12-25",
@@ -24665,7 +24665,7 @@ var todayinhistory = [
   },
   {
     "date": "1931-12-25",
-    "event": "NY\\'s Metropolitan Opera broadcasts an entire opera over radio"
+    "event": "NY's Metropolitan Opera broadcasts an entire opera over radio"
   },
   {
     "date": "1939-12-25",
@@ -24677,11 +24677,11 @@ var todayinhistory = [
   },
   {
     "date": "1963-12-25",
-    "event": "Walt Disney\\'s \\\"The Sword In The Stone\\\" is released"
+    "event": "Walt Disney's \"The Sword In The Stone\" is released"
   },
   {
     "date": "1968-12-25",
-    "event": "Frank Borman\\'s Christmas reading while orbiting moon"
+    "event": "Frank Borman's Christmas reading while orbiting moon"
   },
   {
     "date": "1977-12-25",
@@ -24769,7 +24769,7 @@ var todayinhistory = [
   },
   {
     "date": "1927-12-27",
-    "event": "Stalin\\'s faction wins All-Union Congress in USSR Trotsky expelled"
+    "event": "Stalin's faction wins All-Union Congress in USSR Trotsky expelled"
   },
   {
     "date": "1932-12-27",
@@ -24781,7 +24781,7 @@ var todayinhistory = [
   },
   {
     "date": "1941-12-27",
-    "event": "Japan bombs Manila even though it was declared an `open city\\"
+    "event": "Japan bombs Manila even though it was declared an `open city"
   },
   {
     "date": "1945-12-27",
@@ -24789,7 +24789,7 @@ var todayinhistory = [
   },
   {
     "date": "1947-12-27",
-    "event": "1st `Howdy Doody\\' show (Puppet Playhouse) telecast on NBC"
+    "event": "1st `Howdy Doody' show (Puppet Playhouse) telecast on NBC"
   },
   {
     "date": "1968-12-27",
@@ -24873,7 +24873,7 @@ var todayinhistory = [
   },
   {
     "date": "1851-12-29",
-    "event": "1st Young Men\\'s Christian Association chapter opened in Boston"
+    "event": "1st Young Men's Christian Association chapter opened in Boston"
   },
   {
     "date": "1864-12-29",
@@ -24989,7 +24989,7 @@ var todayinhistory = [
   },
   {
     "date": "1744-12-31",
-    "event": "James Bradley announces discovery of earth\\'s motion of nutation"
+    "event": "James Bradley announces discovery of earth's motion of nutation"
   },
   {
     "date": "1775-12-31",
@@ -25013,7 +25013,7 @@ var todayinhistory = [
   },
   {
     "date": "1862-12-31",
-    "event": "Union ironclad ship \\\"Monitor\\\" sank at Cape Hatteras NC"
+    "event": "Union ironclad ship \"Monitor\" sank at Cape Hatteras NC"
   },
   {
     "date": "1879-12-31",
@@ -25033,7 +25033,7 @@ var todayinhistory = [
   },
   {
     "date": "1943-12-31",
-    "event": "NYC\\'s Times Square greets Frank Sinatra at the Paramount Theater"
+    "event": "NYC's Times Square greets Frank Sinatra at the Paramount Theater"
   },
   {
     "date": "1944-12-31",
@@ -25073,7 +25073,7 @@ var todayinhistory = [
   },
   {
     "date": "1984-12-31",
-    "event": "Rajiv Gandhi took office as India\\'s 6th PM"
+    "event": "Rajiv Gandhi took office as India's 6th PM"
   },
   {
     "date": "1999-12-31",

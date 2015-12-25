@@ -107,7 +107,7 @@ function generateHistIdsArrayForSelectedDate() {
 	var ids = [startIdx]
 
 	var idx = startIdx+1
-	while (date_compare_ignore_yrs(selectedDate, todayinhistory[idx].date) == 0) {
+	while (idx < todayinhistory.length && date_compare_ignore_yrs(selectedDate, todayinhistory[idx].date) == 0) {
 		ids.push(idx)
 		idx++;
 	}
