@@ -135,14 +135,14 @@ function setHeaderText() {
 	var diffDays = timeDiff/(1000*3600*24)
 
 	var factYr = getCurrentFact().date.substring(0, 4)
-	if (selectedDateObj == todayDateObj) {
-		txt = 'Today In History, ' + factYr
+	if (diffDays == 0) {
+		txt = 'Today In History, ' + factYr + '...'
 	} else if (diffDays == -1) {
-		txt = 'Yesterday in History, ' + factYr
+		txt = 'Yesterday in History, ' + factYr + '...'
 	} else if (diffDays == 1) {
-		txt = 'Tomorrow in History, ' + factYr
+		txt = 'Tomorrow in History, ' + factYr + '...'
 	} else {
-		txt = 'On ' + monthLookup(parseInt(selectedDateObj.getMonth())) + ' ' + selectedDateObj.getDate() + ' in history, ' + factYr
+		txt = 'On ' + monthLookup(parseInt(selectedDateObj.getMonth())) + ' ' + selectedDateObj.getDate() + ' in History, ' + factYr + "... "
 	}
 
 	document.getElementById('span_header').innerHTML = txt
