@@ -6,3 +6,13 @@ body {
 	background-color: lightblue;
 	text-align: center;
 }
+
+#span_fact {
+	display: block;
+	height: 35px;
+}
+
+#span_header {
+	display: block;
+	height: 15px;
+}
