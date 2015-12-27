@@ -30,6 +30,8 @@ body {
 	height: 33px;
 	font-size: 18px;
 	font-family: Verdana, Geneva, sans-serif;
+	padding-left: 3px;
+	padding-right: 3px;
 }
 
 button {

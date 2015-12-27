@@ -116,16 +116,39 @@ function generateHistIdsArrayForSelectedDate() {
 		idx++;
 	}
 
-	// now shift here -> this preserves consistency across all users
-	var yr = parseInt(selectedDate.substring(0, 3))
-	var shftAmt = yr % ids.length
+	var yr = parseInt(selectedDate.substring(0, 3)) // use year as seed - for consistency among users
+	
+	ids = shuffleIntArrayOnSeed(selectedDate, ids)
 
+	/** - original way - used shifting - problem here is that facts were ordered by year, so would return in year order
+	var shftAmt = yr % ids.length
 	while (shftAmt > 0) {
 		ids.push(ids.shift())
 		shftAmt--
 	}
-
+	**/
 	return ids
+}
+
+function shuffleIntArrayOnSeed(seed, intArr) {
+	Math.seedrandom(seed) // keeps consistency, refer to seedrandom.js
+	var newIds = []
+
+	while (intArr.length > 0) {
+		var idx = getRandomInt(0, intArr.length)
+		newIds.push(intArr[idx])
+		intArr.splice(idx, 1)  // removes that element
+	}
+
+	return newIds
+}
+
+/**
+ * Returns a random integer between min (inclusive) and max (exclusive)
+ * Using Math.round() will give you a non-uniform distribution!
+ */
+function getRandomInt(min, max) {
+    return Math.floor(Math.random() * (max - min)) + min;
 }
 
 // Today/Tomorrow/Yesterday/'Jan 26' in History,
