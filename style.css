@@ -3,7 +3,7 @@ body {
 	font-size: 100%;
 	width: 400;
 	height: 160;
-	background-image: linear-gradient(#d5cedb, #dedbd1);
+	background-image: linear-gradient(#dbcdcc, #dedbd1);
 	text-align: center;
 	color: #292926;
 }
@@ -31,9 +31,16 @@ button {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 14px;
 	border: 0;
-	cursor: pointer;
 	background-color: #c9b49e;
 }
+
+
+button:hover {
+	background-color: #b08d67;
+	cursor: pointer;
+}
+
+button:focus {outline:0;}
 
 #goBackBtn {
 	border-top-left-radius: 25px;
