@@ -2,10 +2,18 @@ body {
 	font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
 	font-size: 100%;
 	width: 400;
-	height: 160;
+	height: 172;
 	background-image: linear-gradient(#c9c6c5, #eeeeee);
 	text-align: center;
 	color: #292926;
+	border: 2px solid #292926;
+	margin: 0;
+	padding: 0;
+}
+
+#span_headerspace {
+	height: 4px;
+	display: block;
 }
 
 #span_header {
