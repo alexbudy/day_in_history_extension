@@ -24,7 +24,6 @@ function addButtonListeners() {
 
 function setSpansForSelectedDate() {
 	setHeaderText()	
-	// setYearText() TODO needed?
 	setFactText()
 }
 
@@ -146,10 +145,6 @@ function setHeaderText() {
 	}
 
 	document.getElementById('span_header').innerHTML = txt
-}
-
-function setYearText() {
-	document.getElementById('span_year').innerHTML = getCurrentFact().date.substring(0, 4)
 }
 
 function setFactText() {

@@ -7,12 +7,24 @@ body {
 	text-align: center;
 }
 
-#span_fact {
-	display: block;
-	height: 35px;
-}
-
 #span_header {
 	display: block;
 	height: 15px;
+	font-size: 18px;
+	font-weight: bold;
+	font-style: italic;
+	font-family: "Times New Roman", Georgia, Serif;
+}
+
+#span_fact {
+	display: block;
+	height: 35px;
+	font-size: 18px;
+	font-family: Georgia, serif;
+}
+
+button {
+	width: 30%;
+	height: 40px;
+	vertical-align: top;
 }
