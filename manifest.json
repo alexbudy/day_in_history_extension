@@ -7,6 +7,9 @@
         "default_icon": "history.png",
         "default_popup": "popup.html"
     },
+    "icons": {
+        "48": "history.png"
+    },
     "permissions": [
         "tabs"
     ]

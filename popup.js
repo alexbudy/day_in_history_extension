@@ -20,7 +20,7 @@ function addButtonListeners() {
 	document.getElementById("goBackBtn").addEventListener("click", goBackDay);
 	document.getElementById("goFwdBtn").addEventListener("click", goFwdDay);
 
-	document.getElementById("closeBtn").addEventListener("click", closeScreen);
+	document.getElementById("closeSpn").addEventListener("click", closeScreen);
 }
 
 function closeScreen() {

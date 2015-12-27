@@ -3,7 +3,7 @@ body {
 	font-size: 100%;
 	width: 400;
 	height: 160;
-	background-image: linear-gradient(#dbcdcc, #dedbd1);
+	background-image: linear-gradient(#c9c6c5, #eeeeee);
 	text-align: center;
 	color: #292926;
 }
@@ -36,7 +36,7 @@ button {
 
 
 button:hover {
-	background-color: #b08d67;
+	background-color: #bd9d75;
 	cursor: pointer;
 }
 
