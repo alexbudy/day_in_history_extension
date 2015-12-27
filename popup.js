@@ -19,8 +19,13 @@ function addButtonListeners() {
 	document.getElementById("showAnotherBtn").addEventListener("click", showAnotherFact);
 	document.getElementById("goBackBtn").addEventListener("click", goBackDay);
 	document.getElementById("goFwdBtn").addEventListener("click", goFwdDay);
+
+	document.getElementById("closeBtn").addEventListener("click", closeScreen);
 }
 
+function closeScreen() {
+	window.close()
+}
 
 function setSpansForSelectedDate() {
 	setHeaderText()	

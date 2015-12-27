@@ -2,15 +2,16 @@ body {
 	font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
 	font-size: 100%;
 	width: 400;
-	height: 150;
-	background-color: lightblue;
+	height: 160;
+	background-image: linear-gradient(#d5cedb, #dedbd1);
 	text-align: center;
+	color: #292926;
 }
 
 #span_header {
 	display: block;
-	height: 15px;
-	font-size: 18px;
+	height: 21px;
+	font-size: 20px;
 	font-weight: bold;
 	font-style: italic;
 	font-family: "Times New Roman", Georgia, Serif;
@@ -18,13 +19,40 @@ body {
 
 #span_fact {
 	display: block;
-	height: 35px;
+	height: 33px;
 	font-size: 18px;
-	font-family: Georgia, serif;
+	font-family: Verdana, Geneva, sans-serif;
 }
 
 button {
 	width: 30%;
-	height: 40px;
+	height: 44px;
 	vertical-align: top;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	border: 0;
+	cursor: pointer;
+	background-color: #c9b49e;
+}
+
+#goBackBtn {
+	border-top-left-radius: 25px;
+	border-bottom-left-radius: 25px;
+}
+
+#goFwdBtn {
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+
+#closeSpn {
+	position: fixed;
+	width:  30;
+	height: 30;
+	top: 0;
+	right:  0;
+	border: 0;
+	font-weight: bold;
+	cursor: pointer;
+	color: #333333;
 }
