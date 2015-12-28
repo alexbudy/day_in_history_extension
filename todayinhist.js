@@ -177,7 +177,7 @@ var todayinhistory = [
   },
   {
     "date": "1987-01-01",
-    "event": "Internat'l Year of Shelter"
+    "event": "International Year of Shelter"
   },
   {
     "date": "1988-01-01",
@@ -545,7 +545,7 @@ var todayinhistory = [
   },
   {
     "date": "1789-01-07",
-    "event": "1st natl presidental election - US"
+    "event": "1st national presidental election - US"
   },
   {
     "date": "1822-01-07",
@@ -1557,7 +1557,7 @@ var todayinhistory = [
   },
   {
     "date": "1961-01-26",
-    "event": "1st woman `personal physician to President' - JG Travell"
+    "event": "1st woman 'personal physician to President' - JG Travell"
   },
   {
     "date": "1976-01-26",
@@ -1637,7 +1637,7 @@ var todayinhistory = [
   },
   {
     "date": "1971-01-27",
-    "event": "Montgomery St Station last link in BART 'holed thru"
+    "event": "Montgomery St Station last link in BART 'holed thru'"
   },
   {
     "date": "1973-01-27",
@@ -2065,7 +2065,7 @@ var todayinhistory = [
   },
   {
     "date": "1948-02-04",
-    "event": "Ceylon (now Sri Lanka) gains independence from Britain (Nat'l Day)"
+    "event": "Ceylon (now Sri Lanka) gains independence from Britain (National Day)"
   },
   {
     "date": "1957-02-04",
@@ -2901,7 +2901,7 @@ var todayinhistory = [
   },
   {
     "date": "1927-03-01",
-    "event": "Bank of Italy becomes a Natl Bank"
+    "event": "Bank of Italy becomes a National Bank"
   },
   {
     "date": "1932-03-01",
@@ -3533,7 +3533,7 @@ var todayinhistory = [
   },
   {
     "date": "1847-03-11",
-    "event": "John Chapman `Johnny Appleseed' dies in Allen County - Ind"
+    "event": "John Chapman 'Johnny Appleseed' dies in Allen County - Ind"
   },
   {
     "date": "1861-03-11",
@@ -3681,7 +3681,7 @@ var todayinhistory = [
   },
   {
     "date": "1968-03-12",
-    "event": "Mauritius gains ind from Britain (Natl Day)"
+    "event": "Mauritius gains ind from Britain (National Day)"
   },
   {
     "date": "1969-03-12",
@@ -3837,7 +3837,7 @@ var todayinhistory = [
   },
   {
     "date": "1903-03-14",
-    "event": "1st natl bird reservation established in Sebastian - FL"
+    "event": "1st national bird reservation established in Sebastian - FL"
   },
   {
     "date": "1923-03-14",
@@ -4037,7 +4037,7 @@ var todayinhistory = [
   },
   {
     "date": "1941-03-17",
-    "event": "Natl Gallery of Art opens in Wash DC"
+    "event": "National Gallery of Art opens in Wash DC"
   },
   {
     "date": "1950-03-17",
@@ -4253,7 +4253,7 @@ var todayinhistory = [
   },
   {
     "date": "1852-03-20",
-    "event": "Harriet Beecher Stowe's `Uncle Tom's Cabin -' published"
+    "event": "Harriet Beecher Stowe's 'Uncle Tom's Cabin' published"
   },
   {
     "date": "1886-03-20",
@@ -4481,7 +4481,7 @@ var todayinhistory = [
   },
   {
     "date": "1743-03-23",
-    "event": "George Frideric Handel's oratorio `Messiah' London premiere"
+    "event": "George Frideric Handel's oratorio 'Messiah' London premiere"
   },
   {
     "date": "1752-03-23",
@@ -5801,7 +5801,7 @@ var todayinhistory = [
   },
   {
     "date": "1971-05-03",
-    "event": "Natl non-coml Network Radio Begins Programming"
+    "event": "National non-coml Network Radio Begins Programming"
   },
   {
     "date": "1971-05-03",
@@ -5865,7 +5865,7 @@ var todayinhistory = [
   },
   {
     "date": "1970-05-04",
-    "event": "4 students at Kent State U killed by Ohio Natl Guard"
+    "event": "4 students at Kent State U killed by Ohio National Guard"
   },
   {
     "date": "1973-05-04",
@@ -6181,7 +6181,7 @@ var todayinhistory = [
   },
   {
     "date": "1754-05-09",
-    "event": "1st newspaper cartoon in America Divided snake `Join or die"
+    "event": "1st newspaper cartoon in America Divided snake 'Join or die'"
   },
   {
     "date": "1882-05-09",
@@ -6209,7 +6209,7 @@ var todayinhistory = [
   },
   {
     "date": "1945-05-09",
-    "event": "Czechoslovakia liberated from Nazi occupation (Natl Day)"
+    "event": "Czechoslovakia liberated from Nazi occupation (National Day)"
   },
   {
     "date": "1946-05-09",
@@ -6225,7 +6225,7 @@ var todayinhistory = [
   },
   {
     "date": "1961-05-09",
-    "event": "FCC Chairman Newton N Minow criticizes TV as a `vast wasteland"
+    "event": "FCC Chairman Newton N Minow criticizes TV as a 'vast wasteland'"
   },
   {
     "date": "1974-05-09",
@@ -6473,7 +6473,7 @@ var todayinhistory = [
   },
   {
     "date": "1811-05-14",
-    "event": "Paraguay gains independence from Spain (Natl Day)"
+    "event": "Paraguay gains independence from Spain (National Day)"
   },
   {
     "date": "1853-05-14",
@@ -6709,7 +6709,7 @@ var todayinhistory = [
   },
   {
     "date": "1814-05-17",
-    "event": "Denmark cedes Norway to Sweden (Natl Day)"
+    "event": "Denmark cedes Norway to Sweden (National Day)"
   },
   {
     "date": "1872-05-17",
@@ -6729,7 +6729,7 @@ var todayinhistory = [
   },
   {
     "date": "1938-05-17",
-    "event": "Radio quiz show `Information Please!' debuts on NBC Blue Network"
+    "event": "Radio quiz show 'Information Please!' debuts on NBC Blue Network"
   },
   {
     "date": "1939-05-17",
@@ -6741,7 +6741,7 @@ var todayinhistory = [
   },
   {
     "date": "1954-05-17",
-    "event": "Supreme Court unanimously rules on Brown v Topeka Board of Ed reversed 1896 `separate but equal' Plessy Vs Ferguson decision"
+    "event": "Supreme Court unanimously rules on Brown v Topeka Board of Ed reversed 1896 'separate but equal' Plessy Vs Ferguson decision"
   },
   {
     "date": "1960-05-17",
@@ -6861,7 +6861,7 @@ var todayinhistory = [
   },
   {
     "date": "1830-05-20",
-    "event": "1st railroad timetable published in newspaper -`Baltimore American"
+    "event": "1st railroad timetable published in newspaper -'Baltimore American'"
   },
   {
     "date": "1845-05-20",
@@ -6909,7 +6909,7 @@ var todayinhistory = [
   },
   {
     "date": "1961-05-20",
-    "event": "White mob attacks `Freedom Riders' in Montgomery - Alabama"
+    "event": "White mob attacks 'Freedom Riders' in Montgomery - Alabama"
   },
   {
     "date": "1972-05-20",
@@ -6945,7 +6945,7 @@ var todayinhistory = [
   },
   {
     "date": "1832-05-21",
-    "event": "1st Democratic party natl convention"
+    "event": "1st Democratic party national convention"
   },
   {
     "date": "1846-05-21",
@@ -7033,7 +7033,7 @@ var todayinhistory = [
   },
   {
     "date": "1939-05-22",
-    "event": "Hitler & Mussolini sign `Pact of Steel"
+    "event": "Hitler & Mussolini sign 'Pact of Steel'"
   },
   {
     "date": "1946-05-22",
@@ -7273,7 +7273,7 @@ var todayinhistory = [
   },
   {
     "date": "1810-05-25",
-    "event": "Argentina declares independence from Napoleonic Spain (Nat'l Day)"
+    "event": "Argentina declares independence from Napoleonic Spain (National Day)"
   },
   {
     "date": "1825-05-25",
@@ -7297,7 +7297,7 @@ var todayinhistory = [
   },
   {
     "date": "1946-05-25",
-    "event": "Jordan gains independence from Britain (Natl Day)"
+    "event": "Jordan gains independence from Britain (National Day)"
   },
   {
     "date": "1948-05-25",
@@ -7457,7 +7457,7 @@ var todayinhistory = [
   },
   {
     "date": "1935-05-27",
-    "event": "Supreme Court declares FDR's Natl Recovery Act unconstitutional"
+    "event": "Supreme Court declares FDR's National Recovery Act unconstitutional"
   },
   {
     "date": "1936-05-27",
@@ -7745,7 +7745,7 @@ var todayinhistory = [
   },
   {
     "date": "1961-05-31",
-    "event": "South Africa becomes a republic (Natl Day)"
+    "event": "South Africa becomes a republic (National Day)"
   },
   {
     "date": "1962-05-31",
@@ -7777,7 +7777,7 @@ var todayinhistory = [
   },
   {
     "date": "1813-06-01",
-    "event": "Capt John Lawrence utters Navy motto 'Don't give up the ship"
+    "event": "Capt John Lawrence utters Navy motto 'Don't give up the ship'"
   },
   {
     "date": "1845-06-01",
@@ -7878,10 +7878,6 @@ var todayinhistory = [
   {
     "date": "1873-06-02",
     "event": "Ground broken on Clay Street for world's 1st cable railroad"
-  },
-  {
-    "date": "1873-06-02",
-    "event": "ground broken on Clay Street for world's 1st cable railroad"
   },
   {
     "date": "1883-06-02",
@@ -8185,7 +8181,7 @@ var todayinhistory = [
   },
   {
     "date": "1947-06-05",
-    "event": "Sec of State George C Marshall outlines `The Marshall Plan"
+    "event": "Sec of State George C Marshall outlines 'The Marshall Plan'"
   },
   {
     "date": "1967-06-05",
@@ -8313,7 +8309,7 @@ var todayinhistory = [
   },
   {
     "date": "1966-06-06",
-    "event": "Gemini 9 completes 45 orbits after rendezvous with 'angry alligator"
+    "event": "Gemini 9 completes 45 orbits after rendezvous with 'angry alligator'"
   },
   {
     "date": "1967-06-06",
@@ -8509,7 +8505,7 @@ var todayinhistory = [
   },
   {
     "date": "1959-06-08",
-    "event": "1st official `missile mail' landed Jacksonville Fla"
+    "event": "1st official 'missile mail' landed Jacksonville Fla"
   },
   {
     "date": "1966-06-08",
@@ -8677,7 +8673,7 @@ var todayinhistory = [
   },
   {
     "date": "1910-06-10",
-    "event": "Portuguese Natl Day"
+    "event": "Portuguese National Day"
   },
   {
     "date": "1921-06-10",
@@ -9149,7 +9145,7 @@ var todayinhistory = [
   },
   {
     "date": "1954-06-14",
-    "event": "Pres Eisenhower signs order adding words `under God' to the Pledge"
+    "event": "Pres Eisenhower signs order adding words 'under God' to the Pledge"
   },
   {
     "date": "1963-06-14",
@@ -9461,7 +9457,7 @@ var todayinhistory = [
   },
   {
     "date": "1885-06-17",
-    "event": "Statue of Liberty arrived in NYC aboard French ship `Isere"
+    "event": "Statue of Liberty arrived in NYC aboard French ship 'Isere'"
   },
   {
     "date": "1937-06-17",
@@ -9825,7 +9821,7 @@ var todayinhistory = [
   },
   {
     "date": "1947-06-20",
-    "event": "Gangster Benjamin `Buggsy' Siegel shot dead in Beverly Hills Cal"
+    "event": "Gangster Benjamin 'Buggsy' Siegel shot dead in Beverly Hills Cal"
   },
   {
     "date": "1947-06-20",
@@ -9945,7 +9941,7 @@ var todayinhistory = [
   },
   {
     "date": "1948-06-21",
-    "event": "Dr Peter Goldmark of CBS demonstrated 'long playing record"
+    "event": "Dr Peter Goldmark of CBS demonstrated 'long playing record'"
   },
   {
     "date": "1948-06-21",
@@ -10253,7 +10249,7 @@ var todayinhistory = [
   },
   {
     "date": "1901-06-24",
-    "event": "Jewish Natl Fund started"
+    "event": "Jewish National Fund started"
   },
   {
     "date": "1908-06-24",
@@ -10513,7 +10509,7 @@ var todayinhistory = [
   },
   {
     "date": "1963-06-26",
-    "event": "Kennedy visits W Berlin `Ich bin ein Berliner (I am a Berliner)"
+    "event": "Kennedy visits W Berlin 'Ich bin ein Berliner (I am a Berliner)'"
   },
   {
     "date": "1964-06-26",
@@ -10625,7 +10621,7 @@ var todayinhistory = [
   },
   {
     "date": "1973-06-27",
-    "event": "John W Dean tells Watergate Committee about Nixon's `enemies list"
+    "event": "John W Dean tells Watergate Committee about Nixon's 'enemies list'"
   },
   {
     "date": "1977-06-27",
@@ -10873,7 +10869,7 @@ var todayinhistory = [
   },
   {
     "date": "1972-06-29",
-    "event": "Supreme Court-death penalty usually was `cruel & unusual punishment"
+    "event": "Supreme Court-death penalty usually was 'cruel & unusual punishment'"
   },
   {
     "date": "1976-06-29",
@@ -11085,7 +11081,7 @@ var todayinhistory = [
   },
   {
     "date": "1916-07-01",
-    "event": "Eisenhower married Mary ``Mamie'' Geneva Doud in Denver Colo"
+    "event": "Eisenhower married Mary 'Mamie' Geneva Doud in Denver Colo"
   },
   {
     "date": "1919-07-01",
@@ -11193,7 +11189,7 @@ var todayinhistory = [
   },
   {
     "date": "1776-07-02",
-    "event": "Continental Congress passes resolution saying `these United Colonies Care & of right ought to be Free & Independent States"
+    "event": "Continental Congress passes resolution saying 'these United Colonies Care & of right ought to be Free & Independent States'"
   },
   {
     "date": "1858-07-02",
@@ -11561,7 +11557,7 @@ var todayinhistory = [
   },
   {
     "date": "1935-07-05",
-    "event": "President FDR signs Natl Labor Relations Act"
+    "event": "President FDR signs National Labor Relations Act"
   },
   {
     "date": "1937-07-05",
@@ -11621,7 +11617,7 @@ var todayinhistory = [
   },
   {
     "date": "1984-07-05",
-    "event": "Supreme Court weakens 70-year-old `exclusionary rule'-evidence seized with defective court warrants can now be used in criminal trials"
+    "event": "Supreme Court weakens 70-year-old 'exclusionary rule'-evidence seized with defective court warrants can now be used in criminal trials"
   },
   {
     "date": "1986-07-05",
@@ -11637,7 +11633,7 @@ var todayinhistory = [
   },
   {
     "date": "1687-07-06",
-    "event": "Newton publishes 'Principia"
+    "event": "Newton publishes 'Principia'"
   },
   {
     "date": "1699-07-06",
@@ -11685,7 +11681,7 @@ var todayinhistory = [
   },
   {
     "date": "1964-07-06",
-    "event": "Malawi (then Nyasaland) gains independence from Britain (Nat'l Day)."
+    "event": "Malawi (then Nyasaland) gains independence from Britain (National Day)."
   },
   {
     "date": "1975-07-06",
@@ -11741,7 +11737,7 @@ var todayinhistory = [
   },
   {
     "date": "1949-07-07",
-    "event": "Dragnet' premiers on NBC radio. A TV series in 1951 & in 1967"
+    "event": "'Dragnet' premiers on NBC radio. A TV series in 1951 & in 1967"
   },
   {
     "date": "1958-07-07",
@@ -11833,7 +11829,7 @@ var todayinhistory = [
   },
   {
     "date": "1907-07-08",
-    "event": "Florenz Ziegfeld staged 1st `Follies' on NY Theater roof"
+    "event": "Florenz Ziegfeld staged 1st 'Follies' on NY Theater roof"
   },
   {
     "date": "1909-07-08",
@@ -12169,7 +12165,7 @@ var todayinhistory = [
   },
   {
     "date": "1975-07-12",
-    "event": "Sao Tom‚ e Pr¡ncipe gains independence from Portugal (Nat'l Day)."
+    "event": "Sao Tom‚ e Pr¡ncipe gains independence from Portugal (National Day)."
   },
   {
     "date": "1977-07-12",
@@ -12465,7 +12461,7 @@ var todayinhistory = [
   },
   {
     "date": "1841-07-17",
-    "event": "British humor magazine `Punch' 1st published."
+    "event": "British humor magazine 'Punch' 1st published."
   },
   {
     "date": "1850-07-17",
@@ -12481,7 +12477,7 @@ var todayinhistory = [
   },
   {
     "date": "1917-07-17",
-    "event": "British royal family adopts the name `Windsor."
+    "event": "British royal family adopts the name 'Windsor'."
   },
   {
     "date": "1919-07-17",
@@ -12493,7 +12489,7 @@ var todayinhistory = [
   },
   {
     "date": "1935-07-17",
-    "event": "Variety's famous headline `Sticks Nix Hick Pix."
+    "event": "Variety's famous headline 'Sticks Nix Hick Pix'."
   },
   {
     "date": "1938-07-17",
@@ -12589,7 +12585,7 @@ var todayinhistory = [
   },
   {
     "date": "1938-07-18",
-    "event": "Douglas `Wrong Way' Corrigan arrives in Ireland-left NY for Calif"
+    "event": "Douglas 'Wrong Way' Corrigan arrives in Ireland-left NY for Calif"
   },
   {
     "date": "1940-07-18",
@@ -12785,7 +12781,7 @@ var todayinhistory = [
   },
   {
     "date": "1831-07-21",
-    "event": "Belgium gains independence from Netherlands (Natl Day)."
+    "event": "Belgium gains independence from Netherlands (National Day)."
   },
   {
     "date": "1861-07-21",
@@ -13005,11 +13001,11 @@ var todayinhistory = [
   },
   {
     "date": "1959-07-24",
-    "event": "VP Nixon argued with Khrushchev known as the `Kitchen Debate"
+    "event": "VP Nixon argued with Khrushchev known as the 'Kitchen Debate'"
   },
   {
     "date": "1967-07-24",
-    "event": "Charles de Gaulle says 'Vive le Quebec libre! Long live free Quebec!"
+    "event": "Charles de Gaulle says 'Vive le Quebec libre! Long live free Quebec!'"
   },
   {
     "date": "1969-07-24",
@@ -13205,7 +13201,7 @@ var todayinhistory = [
   },
   {
     "date": "1965-07-26",
-    "event": "Republic of Maldives gains independence from Britain (Nat'l Day)."
+    "event": "Republic of Maldives gains independence from Britain (National Day)."
   },
   {
     "date": "1967-07-26",
@@ -13517,7 +13513,7 @@ var todayinhistory = [
   },
   {
     "date": "1938-07-31",
-    "event": "Yanks suspend Jake Powell after he said on Chicago radio 'he'd hit every colored person in Chicago over the head with a club"
+    "event": "Yanks suspend Jake Powell after he said on Chicago radio 'he'd hit every colored person in Chicago over the head with a club'"
   },
   {
     "date": "1948-07-31",
@@ -13533,7 +13529,7 @@ var todayinhistory = [
   },
   {
     "date": "1970-07-31",
-    "event": "Chet Huntley retires from NBC ending 'Huntley-Brinkley Report"
+    "event": "Chet Huntley retires from NBC ending 'Huntley-Brinkley Report'"
   },
   {
     "date": "1972-07-31",
@@ -13565,7 +13561,7 @@ var todayinhistory = [
   },
   {
     "date": "1291-08-01",
-    "event": "Everlasting League forms basis of Swiss Confederation (Nat'l Day)"
+    "event": "Everlasting League forms basis of Swiss Confederation (National Day)"
   },
   {
     "date": "1584-08-01",
@@ -13625,7 +13621,7 @@ var todayinhistory = [
   },
   {
     "date": "1916-08-01",
-    "event": "Hawaii Natl Park established"
+    "event": "Hawaii National Park established"
   },
   {
     "date": "1946-08-01",
@@ -13913,7 +13909,7 @@ var todayinhistory = [
   },
   {
     "date": "1945-08-06",
-    "event": "Hiroshima Peace Day-atom bomb dropped on Hiroshima by the 'Enola Gay"
+    "event": "Hiroshima Peace Day-atom bomb dropped on Hiroshima by the 'Enola Gay'"
   },
   {
     "date": "1946-08-06",
@@ -13985,7 +13981,7 @@ var todayinhistory = [
   },
   {
     "date": "1934-08-07",
-    "event": "US Court of Appeals upheld lower court ruling striking down govt's attempt to ban the controversial James Joyce novel `Ulysses"
+    "event": "US Court of Appeals upheld lower court ruling striking down govt's attempt to ban the controversial James Joyce novel 'Ulysses'"
   },
   {
     "date": "1942-08-07",
@@ -14137,7 +14133,7 @@ var todayinhistory = [
   },
   {
     "date": "1854-08-09",
-    "event": "Henry David Thoreau published `Walden"
+    "event": "Henry David Thoreau published 'Walden'"
   },
   {
     "date": "1902-08-09",
@@ -14553,7 +14549,7 @@ var todayinhistory = [
   },
   {
     "date": "1960-08-15",
-    "event": "Congo (Brazzaville) gains independence from France (Nat'l Day)"
+    "event": "Congo (Brazzaville) gains independence from France (National Day)"
   },
   {
     "date": "1965-08-15",
@@ -14893,7 +14889,7 @@ var todayinhistory = [
   },
   {
     "date": "1940-08-20",
-    "event": "British PM Churchill said of the Royal Air Force `Never in the field of human conflict was so much owed by so many to so few."
+    "event": "British PM Churchill said of the Royal Air Force 'Never in the field of human conflict was so much owed by so many to so few."
   },
   {
     "date": "1942-08-20",
@@ -16529,7 +16525,7 @@ var todayinhistory = [
   },
   {
     "date": "1941-09-11",
-    "event": "Charles Lindbergh charges `the British the Jewish and the Roosevelt administration' were trying to get the US into WW II"
+    "event": "Charles Lindbergh charges 'the British the Jewish and the Roosevelt administration' were trying to get the US into WW II"
   },
   {
     "date": "1944-09-11",
@@ -17229,7 +17225,7 @@ var todayinhistory = [
   },
   {
     "date": "1983-09-19",
-    "event": "St Christopher-Nevis gains independence from Britain (Nat'l Day)"
+    "event": "St Christopher-Nevis gains independence from Britain (National Day)"
   },
   {
     "date": "1986-09-19",
@@ -17489,7 +17485,7 @@ var todayinhistory = [
   },
   {
     "date": "1779-09-23",
-    "event": "Naval engagement 'Bonhomme Richard' defeats 'HMS Serepis"
+    "event": "Naval engagement 'Bonhomme Richard' defeats 'HMS Serepis'"
   },
   {
     "date": "1780-09-23",
@@ -17677,7 +17673,7 @@ var todayinhistory = [
   },
   {
     "date": "1969-09-24",
-    "event": "Trial of `Chicago 8' began"
+    "event": "Trial of 'Chicago 8' began"
   },
   {
     "date": "1970-09-24",
@@ -17861,7 +17857,7 @@ var todayinhistory = [
   },
   {
     "date": "1977-09-26",
-    "event": "Sir Freddie Laker began cut-rate `Skytrain' service London to NY"
+    "event": "Sir Freddie Laker began cut-rate 'Skytrain' service London to NY"
   },
   {
     "date": "1980-09-26",
@@ -18661,7 +18657,7 @@ var todayinhistory = [
   },
   {
     "date": "1976-10-04",
-    "event": "Agriculture Secretary Earl Butz resigns after racial 'joke"
+    "event": "Agriculture Secretary Earl Butz resigns after racial 'joke'"
   },
   {
     "date": "1977-10-04",
@@ -19985,7 +19981,7 @@ var todayinhistory = [
   },
   {
     "date": "1968-10-18",
-    "event": "US Olympic Committee suspended Tommie Smith & John Carlos for giving `black power' salute as a protest during victory ceremony"
+    "event": "US Olympic Committee suspended Tommie Smith & John Carlos for giving 'black power' salute as a protest during victory ceremony"
   },
   {
     "date": "1969-10-18",
@@ -20121,7 +20117,7 @@ var todayinhistory = [
   },
   {
     "date": "1944-10-20",
-    "event": "During WWII MacArthur goes to Phillipines saying `I have returned"
+    "event": "During WWII MacArthur goes to Phillipines saying 'I have returned'"
   },
   {
     "date": "1946-10-20",
@@ -20277,7 +20273,7 @@ var todayinhistory = [
   },
   {
     "date": "1928-10-22",
-    "event": "Pres Hoover spoke of `American system of rugged individualism."
+    "event": "Pres Hoover spoke of 'American system of rugged individualism'."
   },
   {
     "date": "1934-10-22",
@@ -20689,7 +20685,7 @@ var todayinhistory = [
   },
   {
     "date": "1938-10-27",
-    "event": "DuPont announces that its new synthetic fiber will be called 'nylon"
+    "event": "DuPont announces that its new synthetic fiber will be called 'nylon'"
   },
   {
     "date": "1947-10-27",
@@ -20713,7 +20709,7 @@ var todayinhistory = [
   },
   {
     "date": "1972-10-27",
-    "event": "Golden Gate Natl Recreation Area created"
+    "event": "Golden Gate National Recreation Area created"
   },
   {
     "date": "1973-10-27",
@@ -20969,7 +20965,7 @@ var todayinhistory = [
   },
   {
     "date": "1975-10-30",
-    "event": "NY Daily News ran headline `Ford to City: Drop Dead"
+    "event": "NY Daily News ran headline 'Ford to City: Drop Dead'"
   },
   {
     "date": "1978-10-30",
@@ -21197,7 +21193,7 @@ var todayinhistory = [
   },
   {
     "date": "1978-11-03",
-    "event": "UK grants Dominica independence (Natl Day)"
+    "event": "UK grants Dominica independence (National Day)"
   },
   {
     "date": "1979-11-03",
@@ -21425,7 +21421,7 @@ var todayinhistory = [
   },
   {
     "date": "1918-11-07",
-    "event": "USSR Natl Day"
+    "event": "USSR National Day"
   },
   {
     "date": "1940-11-07",
@@ -21521,7 +21517,7 @@ var todayinhistory = [
   },
   {
     "date": "1985-11-08",
-    "event": "Judge overturned Rubin ``Hurricane'' Carter's conviction"
+    "event": "Judge overturned Rubin ''Hurricane'' Carter's conviction"
   },
   {
     "date": "1799-11-09",
@@ -21685,7 +21681,7 @@ var todayinhistory = [
   },
   {
     "date": "1939-11-11",
-    "event": "Kate Smith 1st sang Irving Berlin's `God Bless America"
+    "event": "Kate Smith 1st sang Irving Berlin's 'God Bless America'"
   },
   {
     "date": "1942-11-11",
@@ -21725,7 +21721,7 @@ var todayinhistory = [
   },
   {
     "date": "1975-11-11",
-    "event": "Portugal grants Angola independence (Natl Day)"
+    "event": "Portugal grants Angola independence (National Day)"
   },
   {
     "date": "1980-11-11",
@@ -21821,7 +21817,7 @@ var todayinhistory = [
   },
   {
     "date": "1977-11-12",
-    "event": "New Orleans elects 1st black mayor Ernest `Dutch' Morial"
+    "event": "New Orleans elects 1st black mayor Ernest 'Dutch' Morial"
   },
   {
     "date": "1980-11-12",
@@ -21857,7 +21853,7 @@ var todayinhistory = [
   },
   {
     "date": "1987-11-12",
-    "event": "Van Gogh's `Irises' sells for $53 900 000 - Rec amount for a painting"
+    "event": "Van Gogh's 'Irises' sells for $53 900 000 - Rec amount for a painting"
   },
   {
     "date": "0867-11-13",
@@ -22485,7 +22481,7 @@ var todayinhistory = [
   },
   {
     "date": "1980-11-20",
-    "event": "UA withdraws $44 million movie `Heaven's Gate' for reediting."
+    "event": "UA withdraws $44 million movie 'Heaven's Gate' for reediting."
   },
   {
     "date": "1981-11-20",
@@ -22493,7 +22489,7 @@ var todayinhistory = [
   },
   {
     "date": "1983-11-20",
-    "event": "100 million watch ABC-TV movie `The Day After"
+    "event": "100 million watch ABC-TV movie 'The Day After'"
   },
   {
     "date": "1985-11-20",
@@ -22565,7 +22561,7 @@ var todayinhistory = [
   },
   {
     "date": "1943-11-22",
-    "event": "Lebanon gains independence from France (Natl Day)"
+    "event": "Lebanon gains independence from France (National Day)"
   },
   {
     "date": "1944-11-22",
@@ -22713,7 +22709,7 @@ var todayinhistory = [
   },
   {
     "date": "1975-11-25",
-    "event": "Netherlands grants Surinam independence (Natl Day)"
+    "event": "Netherlands grants Surinam independence (National Day)"
   },
   {
     "date": "1976-11-25",
@@ -22741,7 +22737,7 @@ var todayinhistory = [
   },
   {
     "date": "1789-11-26",
-    "event": "1st natl celebration of Thanksgiving"
+    "event": "1st national celebration of Thanksgiving"
   },
   {
     "date": "1793-11-26",
@@ -22849,7 +22845,7 @@ var todayinhistory = [
   },
   {
     "date": "1937-11-27",
-    "event": "Pro-labor musical revue `Pins & Needles'opens produced by ILGWU"
+    "event": "Pro-labor musical revue 'Pins & Needles' opens produced by ILGWU"
   },
   {
     "date": "1942-11-27",
@@ -22953,7 +22949,7 @@ var todayinhistory = [
   },
   {
     "date": "1960-11-28",
-    "event": "Mauritania gains independence from France (Natl Day)"
+    "event": "Mauritania gains independence from France (National Day)"
   },
   {
     "date": "1964-11-28",
@@ -23013,7 +23009,7 @@ var todayinhistory = [
   },
   {
     "date": "1944-11-29",
-    "event": "Albania liberated from Nazi control (Natl Day)"
+    "event": "Albania liberated from Nazi control (National Day)"
   },
   {
     "date": "1945-11-29",
@@ -23113,7 +23109,7 @@ var todayinhistory = [
   },
   {
     "date": "1966-11-30",
-    "event": "Barbados gains independence from Britain (Natl Day)"
+    "event": "Barbados gains independence from Britain (National Day)"
   },
   {
     "date": "1967-11-30",
@@ -23297,7 +23293,7 @@ var todayinhistory = [
   },
   {
     "date": "1947-12-03",
-    "event": "Tennessee Williams play `A Streetcar Named Desire ' opens"
+    "event": "Tennessee Williams play 'A Streetcar Named Desire' opens"
   },
   {
     "date": "1948-12-03",
@@ -23573,7 +23569,7 @@ var todayinhistory = [
   },
   {
     "date": "1940-12-08",
-    "event": "1st NFL championship on natl radio; Bears beat Redskins 73-0"
+    "event": "1st NFL championship on national radio; Bears beat Redskins 73-0"
   },
   {
     "date": "1941-12-08",
@@ -24221,7 +24217,7 @@ var todayinhistory = [
   },
   {
     "date": "1985-12-18",
-    "event": "UN Security Council unanimously condemns `acts of hostage-taking"
+    "event": "UN Security Council unanimously condemns 'acts of hostage-taking'"
   },
   {
     "date": "1686-12-19",
@@ -24237,7 +24233,7 @@ var todayinhistory = [
   },
   {
     "date": "1776-12-19",
-    "event": "Thomas Paine publishes his 1st `American Crisis' essay"
+    "event": "Thomas Paine publishes his 1st 'American Crisis' essay"
   },
   {
     "date": "1777-12-19",
@@ -24249,7 +24245,7 @@ var todayinhistory = [
   },
   {
     "date": "1843-12-19",
-    "event": "Charles Dickens publishes `A Christmas Carol ' in England"
+    "event": "Charles Dickens publishes 'A Christmas Carol' in England"
   },
   {
     "date": "1859-12-19",
@@ -24349,7 +24345,7 @@ var todayinhistory = [
   },
   {
     "date": "1864-12-20",
-    "event": "Union Gen. Sherman continued his `march to the sea.' Savannah Ga"
+    "event": "Union Gen. Sherman continued his 'march to the sea.' Savannah Ga"
   },
   {
     "date": "1879-12-20",
@@ -24589,7 +24585,7 @@ var todayinhistory = [
   },
   {
     "date": "1871-12-24",
-    "event": "Giuseppe Verdi's `Aida' premiere in Cairo at Suez canal opening"
+    "event": "Giuseppe Verdi's 'Aida' premiere in Cairo at Suez canal opening"
   },
   {
     "date": "1906-12-24",
@@ -24781,7 +24777,7 @@ var todayinhistory = [
   },
   {
     "date": "1941-12-27",
-    "event": "Japan bombs Manila even though it was declared an `open city"
+    "event": "Japan bombs Manila even though it was declared an 'open city'"
   },
   {
     "date": "1945-12-27",
@@ -24789,7 +24785,7 @@ var todayinhistory = [
   },
   {
     "date": "1947-12-27",
-    "event": "1st `Howdy Doody' show (Puppet Playhouse) telecast on NBC"
+    "event": "1st 'Howdy Doody' show (Puppet Playhouse) telecast on NBC"
   },
   {
     "date": "1968-12-27",
