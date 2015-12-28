@@ -115,12 +115,11 @@ function generateHistIdsArrayForSelectedDate() {
 		ids.push(idx)
 		idx++;
 	}
-
-	var yr = parseInt(selectedDate.substring(0, 3)) // use year as seed - for consistency among users
 	
 	ids = shuffleIntArrayOnSeed(selectedDate, ids)
 
 	/** - original way - used shifting - problem here is that facts were ordered by year, so would return in year order
+	var yr = parseInt(selectedDate.substring(0, 3)) // use year as seed - for consistency among users
 	var shftAmt = yr % ids.length
 	while (shftAmt > 0) {
 		ids.push(ids.shift())

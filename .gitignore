@@ -1,3 +1,5 @@
 *.sql
 # ignore json for now
 *.json
+*.zip
+/screenshots
