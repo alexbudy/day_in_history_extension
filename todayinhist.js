@@ -561,7 +561,7 @@ var todayinhistory = [
   },
   {
     "date": "1963-01-07",
-    "event": "1st class postage raised from 4› to 5›."
+    "event": "1st class postage raised from 4&#162; to 5&#162;."
   },
   {
     "date": "1967-01-07",
@@ -569,7 +569,7 @@ var todayinhistory = [
   },
   {
     "date": "1968-01-07",
-    "event": "1st class postage raised from 5› to 6›"
+    "event": "1st class postage raised from 5&#162; to 6&#162;"
   },
   {
     "date": "1972-01-07",
