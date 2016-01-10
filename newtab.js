@@ -13,18 +13,18 @@ window.onload = function() {
 	setSpansForSelectedDate()
 
 	addButtonListeners()
+
+	$('#bodyDiv').css({
+        position: 'absolute',
+        left: ($(window).width() - $('#bodyDiv').outerWidth())/2,
+        top:  ($(window).height() - $('#bodyDiv').outerHeight())/2 - 75
+    });
 }
 
 function addButtonListeners() {
 	document.getElementById("showAnotherBtn").addEventListener("click", showAnotherFact);
 	document.getElementById("goBackBtn").addEventListener("click", goBackDay);
 	document.getElementById("goFwdBtn").addEventListener("click", goFwdDay);
-
-	document.getElementById("closeSpn").addEventListener("click", closeScreen);
-}
-
-function closeScreen() {
-	window.close()
 }
 
 function setSpansForSelectedDate() {

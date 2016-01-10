@@ -1,14 +1,15 @@
 body {
 	font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
 	font-size: 100%;
-	width: 400;
-	height: 180;
 	background-image: linear-gradient(#c9c6c5, #eeeeee);
 	text-align: center;
 	color: #292926;
-	border: 2px solid #292926;
 	margin: 0;
 	padding: 0;
+}
+
+#bodyDiv {
+	width: 500px;
 }
 
 #span_headerspace {
@@ -18,17 +19,22 @@ body {
 
 #span_header {
 	display: block;
-	height: 21px;
-	font-size: 20px;
+	height: 30px;
+	font-size: 29px;
 	font-weight: bold;
 	font-style: italic;
 	font-family: "Times New Roman", Georgia, Serif;
 }
 
+/* this span sits inside span_header*/
+#span_year {
+	font-size: 34px;
+}
+
 #span_fact {
 	display: block;
-	height: 40px;
-	font-size: 18px;
+	height: 67px;
+	font-size: 23px;
 	font-family: Verdana, Geneva, sans-serif;
 	padding-left: 3px;
 	padding-right: 3px;
@@ -36,10 +42,10 @@ body {
 
 button {
 	width: 30%;
-	height: 44px;
+	height: 52px;
 	vertical-align: top;
 	font-family: Verdana, Geneva, sans-serif;
-	font-size: 14px;
+	font-size: 18px;
 	border: 0;
 	background-color: #c9b49e;
 }
@@ -60,16 +66,4 @@ button:focus {outline:0;}
 #goFwdBtn {
 	border-top-right-radius: 25px;
 	border-bottom-right-radius: 25px;
-}
-
-#closeSpn {
-	position: fixed;
-	width:  30;
-	height: 30;
-	top: 0;
-	right:  0;
-	border: 0;
-	font-weight: bold;
-	cursor: pointer;
-	color: #333333;
 }

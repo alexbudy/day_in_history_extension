@@ -1,0 +1,81 @@
+body {
+	font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+	font-size: 100%;
+	width: 400;
+	height: 180;
+	background-image: linear-gradient(#c9c6c5, #eeeeee);
+	text-align: center;
+	color: #292926;
+	border: 2px solid #292926;
+	margin: 0;
+	padding: 0;
+}
+
+#span_headerspace {
+	height: 4px;
+	display: block;
+}
+
+
+#span_header {
+	display: block;
+	height: 21px;
+	font-size: 21px;
+	font-weight: bold;
+	font-style: italic;
+	font-family: "Times New Roman", Georgia, Serif;
+}
+
+/* this span sits inside span_header*/
+#span_year {
+	font-size: 30px;
+}
+
+#span_fact {
+	display: block;
+	height: 40px;
+	font-size: 18px;
+	font-family: Verdana, Geneva, sans-serif;
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+button {
+	width: 30%;
+	height: 44px;
+	vertical-align: top;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	border: 0;
+	background-color: #c9b49e;
+}
+
+
+button:hover {
+	background-color: #bd9d75;
+	cursor: pointer;
+}
+
+button:focus {outline:0;}
+
+#goBackBtn {
+	border-top-left-radius: 25px;
+	border-bottom-left-radius: 25px;
+}
+
+#goFwdBtn {
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+
+#closeSpn {
+	position: fixed;
+	width:  30;
+	height: 30;
+	top: 0;
+	right:  0;
+	border: 0;
+	font-weight: bold;
+	cursor: pointer;
+	color: #333333;
+}
