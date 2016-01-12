@@ -19,6 +19,11 @@ window.onload = function() {
         left: ($(window).width() - $('#bodyDiv').outerWidth())/2,
         top:  ($(window).height() - $('#bodyDiv').outerHeight())/2 - 75
     });
+
+	console.log($('#settings-img-div').width())
+    $('#settings-img-div').css({
+    	left: ($('#changeOptionsLink').position().left - $('#settings-img-div').width() - 3) 
+    });
 }
 
 function addButtonListeners() {
@@ -280,3 +285,29 @@ function test_search() {
 		}
 	}
 }
+
+$(document).ready(function(){ 
+
+    // It takes a moment for the Chrome query/update so sometimes there is a flash of content
+    // Hiding the Body makes it look blank/white until either redirected or shown
+	$('body').hide();
+
+	if('show-fact-newtab' in localStorage && localStorage['show-fact-newtab'] == 'false'){
+
+		// Get the current Tab
+		chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
+			var active = tabs[0].id;
+          
+            // Set the URL to the Local-NTP (New Tab Page)
+			chrome.tabs.update(active, { url: "chrome-search://local-ntp/local-ntp.html" }, function() { });
+		});
+
+	// App is ON, show custom content
+	} else {
+		$('body').show();
+
+	}
+
+});
+
+window.onresize = function(){ location.reload(); }

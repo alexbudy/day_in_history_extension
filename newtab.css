@@ -33,7 +33,7 @@ body {
 
 #span_fact {
 	display: block;
-	height: 67px;
+	height: 64px;
 	font-size: 23px;
 	font-family: Verdana, Geneva, sans-serif;
 	padding-left: 3px;
@@ -66,4 +66,38 @@ button:focus {outline:0;}
 #goFwdBtn {
 	border-top-right-radius: 25px;
 	border-bottom-right-radius: 25px;
+}
+
+#changeOptionsLink {
+	position:fixed;
+    bottom:20px;
+    right:25px;
+    height:20px;
+    color: #6f553a;
+    font-weight: 500;
+}
+
+#settings-img-div { 
+	background: #ffffff url("settings.png") no-repeat;
+	width: 25px;
+	height: 25px;
+	position: fixed;
+	bottom: 16px;
+}
+
+a#changeOptionsLink:link {
+    text-decoration: none;
+}
+
+a#changeOptionsLink:visited {
+    text-decoration: none;
+    color: none;
+}
+
+a#changeOptionsLink:hover {
+    text-decoration: underline;
+}
+
+a#changeOptionsLink:active {
+    text-decoration: underline;
 }
