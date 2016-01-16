@@ -155,26 +155,38 @@ function setHeaderText() {
 	var timeDiff = selectedDateObj.getTime() - todayDateObj.getTime()
 	var diffDays = timeDiff/(1000*3600*24)
 
-	var factYr = '<span id="span_year">' + getCurrentFact().date.substring(0, 4) + '</span>'
-	if (diffDays == 0) {
-		txt = 'Today In History, ' + factYr + '...'
-	} else if (diffDays == -1) {
-		txt = 'Yesterday in History, ' + factYr + '...'
-	} else if (diffDays == 1) {
-		txt = 'Tomorrow in History, ' + factYr + '...'
+	if ((localStorage['showYrOnWhichLine'] == 'headerLineId') || 
+		(localStorage['showYrOnWhichLine'] == 'bothLinesId') || !('showYrOnWhichLine' in localStorage)) {
+		ending = ", " + getSpanYearStr(false) + "..."
 	} else {
-		txt = 'On ' + monthLookup(parseInt(selectedDateObj.getMonth())) + ' ' + selectedDateObj.getDate() + ' in History, ' + factYr + "... "
+		ending = "..."
 	}
 
+	if (diffDays == 0) {
+		txt = 'Today In History'
+	} else if (diffDays == -1) {
+		txt = 'Yesterday in History'
+	} else if (diffDays == 1) {
+		txt = 'Tomorrow in History'
+	} else {
+		txt = 'On ' + monthLookup(parseInt(selectedDateObj.getMonth())) + ' ' + selectedDateObj.getDate() + ' in History'
+	}
+
+	txt += ending
 	document.getElementById('span_header').innerHTML = txt
 }
 
-function getSpanYearStr() {
-	return '<span id="span_year">' + getCurrentFact().date.substring(0, 4) + '</span>'
+function getSpanYearStr(withColon) {
+	return '<span id="span_year">' + getCurrentFact().date.substring(0, 4) + (withColon ? ': ' : '') + '</span>'
 }
 
 function setFactText() {
-	document.getElementById('span_fact').innerHTML = getCurrentFact().event	
+	var pre = ""
+	var curStorageVal = localStorage['showYrOnWhichLine']
+	if (curStorageVal == 'factLineId' || curStorageVal == 'bothLinesId') {
+		pre = getSpanYearStr(true)
+	}
+	document.getElementById('span_fact').innerHTML = pre + getCurrentFact().event	
 }
 
 // Jan = 0, Feb = 1, etc

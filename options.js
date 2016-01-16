@@ -16,7 +16,17 @@ for (var i = 0; i < chkBoxes.length; i++) {
 }
 
 function saveRadioOpts() {
-	localStorage[this.]
+	localStorage['showYrOnWhichLine'] = this.id
 }
-radiobtn = document.getElementById("theid");
-radiobtn.checked = true;
+
+var radioBoxes=document.getElementsByName("yrOnOptions")
+for (var i = 0; i < radioBoxes.length; i++) {
+	var radioBox = radioBoxes[i]
+	radioBox.addEventListener('click', saveRadioOpts)
+	
+	if (!('showYrOnWhichLine' in localStorage) && radioBox.id == 'headerLineId') { // default value
+		radioBox.checked = true
+	} else if (localStorage['showYrOnWhichLine'] == radioBox.id) {
+		radioBox.checked = true
+	}
+}
