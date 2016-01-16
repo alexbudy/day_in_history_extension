@@ -169,6 +169,10 @@ function setHeaderText() {
 	document.getElementById('span_header').innerHTML = txt
 }
 
+function getSpanYearStr() {
+	return '<span id="span_year">' + getCurrentFact().date.substring(0, 4) + '</span>'
+}
+
 function setFactText() {
 	document.getElementById('span_fact').innerHTML = getCurrentFact().event	
 }
