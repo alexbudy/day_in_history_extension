@@ -50,7 +50,6 @@ button {
 	background-color: #c9b49e;
 }
 
-
 button:hover {
 	background-color: #bd9d75;
 	cursor: pointer;
@@ -99,5 +98,31 @@ a#changeOptionsLink:hover {
 }
 
 a#changeOptionsLink:active {
+    text-decoration: underline;
+}
+
+#creatorUrl {
+	position:fixed;
+    bottom:20px;
+    left:25px;
+    height:20px;
+    color: #6f553a;
+    font-weight: 400;	
+}
+
+a#creatorUrl:link {
+    text-decoration: none;
+}
+
+a#creatorUrl:visited {
+    text-decoration: none;
+    color: none;
+}
+
+a#creatorUrl:hover {
+    text-decoration: underline;
+}
+
+a#creatorUrl:active {
     text-decoration: underline;
 }

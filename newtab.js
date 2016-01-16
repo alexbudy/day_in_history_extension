@@ -13,7 +13,11 @@ $(document).ready(function(){
     // Hiding the Body makes it look blank/white until either redirected or shown
 	$('body').hide();
 
-	if('show-fact-newtab' in localStorage && localStorage['show-fact-newtab'] == 'false'){
+	if (localStorage['hide-creator-url'] == 'true') {
+		$('#creatorUrl').hide()
+	}
+
+	if('show-fact-newtab' in localStorage && localStorage['show-fact-newtab'] == 'false') {
 
 		// Get the current Tab
 		chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
