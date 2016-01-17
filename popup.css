@@ -29,6 +29,9 @@ body {
 /* this span sits inside span_header*/
 #span_year {
 	font-size: 30px;
+	font-weight: bold;
+	font-style: italic;
+	font-family: "Times New Roman", Georgia, Serif;
 }
 
 #span_fact {

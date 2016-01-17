@@ -5,6 +5,7 @@ function saveOptions() {
 var defaults = {
 	'show-fact-newtab' : true,
 	'hide-creator-url' : false,
+	'rotate-facts-in-session' : false
 }
 
 var chkBoxes=document.getElementsByName("options")

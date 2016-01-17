@@ -15,6 +15,15 @@ window.onload = function() {
 	setSpansForSelectedDate()
 
 	addButtonListeners()
+	incrementCounter()
+}
+
+function incrementCounter() {
+	if (!('factShownCount' in localStorage)) {
+		localStorage['factShownCount'] = 0
+	} else {
+		localStorage['factShownCount']++;
+	}
 }
 
 function addButtonListeners() {
@@ -34,6 +43,7 @@ function showAnotherFact() {
 	if (currentFactListIdx >= histIds.length) {
 		resetCurrentFactIdx(true)
 	}
+
 	setSpansForSelectedDate()
 }
 
@@ -42,7 +52,12 @@ function resetCurrentFactIdx() {
 }
 
 function getCurrentFact() {
-	return todayinhistory[histIds[currentFactListIdx]]
+	// want to add to index for fact rotation if settting set
+	offset = 0
+	if (localStorage['rotate-facts-in-session']) { // defaults to false
+		offset = localStorage['factShownCount']
+	}
+	return todayinhistory[histIds[(currentFactListIdx + offset) % histIds.length]]
 }
 
 function goBackDay() {
