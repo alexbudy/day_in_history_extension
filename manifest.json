@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "This Day in History",
     "description": "This extension shows a quick 'This day in history' fact.",
-    "version": "1.4",
+    "version": "1.5",
     "browser_action": {
         "default_icon": "history.png",
         "default_popup": "popup.html"

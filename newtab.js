@@ -17,7 +17,7 @@ $(document).ready(function(){
 		$('#creatorUrl').hide()
 	}
 
-	if('show-fact-newtab' in localStorage && localStorage['show-fact-newtab'] == 'false') {
+	if(localStorage['show-fact-newtab'] == 'false') {
 
 		// Get the current Tab
 		chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {

@@ -54,7 +54,7 @@ function resetCurrentFactIdx() {
 function getCurrentFact() {
 	// want to add to index for fact rotation if settting set
 	offset = 0
-	if (localStorage['rotate-facts-in-session']) { // defaults to false
+	if (localStorage['rotate-facts-in-session'] == 'true') { // defaults to false
 		offset = localStorage['factShownCount']
 	}
 	return todayinhistory[histIds[(currentFactListIdx + offset) % histIds.length]]

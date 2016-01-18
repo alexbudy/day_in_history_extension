@@ -13,9 +13,11 @@ for (var i = 0; i < chkBoxes.length; i++) {
 	var chkBox = chkBoxes[i]
 	chkBox.addEventListener('click', saveOptions)
 
-	chkBox.checked = localStorage[chkBox.id] || defaults[chkBox.id]
+	chkBox.checked = (localStorage[chkBox.id] == 'true') || 
+						(!(chkBox.id in localStorage) && defaults[chkBox.id])
 }
 
+// radio box options
 function saveRadioOpts() {
 	localStorage['showYrOnWhichLine'] = this.id
 }
