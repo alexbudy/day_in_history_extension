@@ -1,5 +1,18 @@
+var optionValues = {}
+
 $(document).ready(function(){ 
-	centerFact()
+	$('body').hide();
+	chrome.storage.sync.get({
+	        'show-fact-newtab' : true, //default values here
+	        'hide-creator-url' : false,
+	        'rotate-facts-in-session' : false,
+	    	'showYrOnWhichLine' : 'factLineId'
+
+	    }, function(items) {
+            optionValues = items
+        	$('body').show();
+            centerFact()
+	});
 });
 
 function centerFact() {
@@ -17,11 +30,11 @@ function centerFact() {
     // Hiding the Body makes it look blank/white until either redirected or shown
 	$('body').hide();
 
-	if (localStorage['hide-creator-url'] == 'true') {
+	if (optionValues['hide-creator-url']) { // optionValues is global, comes from functionality.js
 		$('#creatorUrl').hide()
 	}
 
-	if(localStorage['show-fact-newtab'] == 'false') {
+	if(!optionValues['show-fact-newtab']) {
 
 		// Get the current Tab
 		chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {

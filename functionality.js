@@ -7,15 +7,36 @@ var currentFactListIdx // index for displayed fact
 var today
 var selectedDate
 
-window.onload = function() {
-	today = getStringDateFromObj(new Date())
-	selectedDate = today //initially
-	
-	setHistIdsAndIdx()
-	setSpansForSelectedDate()
+var optionValues = { // initial default values here, should match options.js
+}
 
-	addButtonListeners()
-	incrementCounter()
+chrome.storage.onChanged.addListener(function(changes, namespace) {
+    for (key in changes) {
+        optionValues[key] = changes[key].newValue  
+    }
+})
+
+
+window.onload = function() {
+	chrome.storage.sync.get({
+	        'show-fact-newtab' : true, //default values here
+	        'hide-creator-url' : false,
+	        'rotate-facts-in-session' : false,
+	    	'showYrOnWhichLine' : 'factLineId'
+
+	    }, function(items) {
+            optionValues = items
+	
+			today = getStringDateFromObj(new Date())
+			selectedDate = today //initially
+			
+			setHistIdsAndIdx()
+			setSpansForSelectedDate()
+
+			addButtonListeners()
+			incrementCounter()
+	});
+
 }
 
 function incrementCounter() {
@@ -54,7 +75,7 @@ function resetCurrentFactIdx() {
 function getCurrentFact() {
 	// want to add to index for fact rotation if settting set
 	var offset = 0
-	if (localStorage['rotate-facts-in-session'] == 'true') { // defaults to false
+	if (optionValues['rotate-facts-in-session']) { // defaults to false
 		offset = localStorage['factShownCount'] || 0
 	}
 	var histIdsIdx = (currentFactListIdx + parseInt(offset)) % histIds.length
@@ -172,8 +193,8 @@ function setHeaderText() {
 	var timeDiff = selectedDateObj.getTime() - todayDateObj.getTime()
 	var diffDays = timeDiff/(1000*3600*24)
 
-	if ((localStorage['showYrOnWhichLine'] == 'headerLineId') || 
-		(localStorage['showYrOnWhichLine'] == 'bothLinesId') || !('showYrOnWhichLine' in localStorage)) {
+	if ((optionValues['showYrOnWhichLine'] == 'headerLineId') || 
+		(optionValues['showYrOnWhichLine'] == 'bothLinesId')) {
 		ending = ", " + getSpanYearStr(false) + "..."
 	} else {
 		ending = "..."
@@ -200,7 +221,7 @@ function getSpanYearStr(withColon) {
 
 function setFactText() {
 	var pre = ""
-	var curStorageVal = localStorage['showYrOnWhichLine']
+	var curStorageVal = optionValues['showYrOnWhichLine']
 	if (curStorageVal == 'factLineId' || curStorageVal == 'bothLinesId') {
 		pre = getSpanYearStr(true)
 	}
