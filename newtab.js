@@ -1,4 +1,8 @@
 $(document).ready(function(){ 
+	centerFact()
+});
+
+function centerFact() {
 	$('#bodyDiv').css({
         position: 'absolute',
         left: ($(window).width() - $('#bodyDiv').outerWidth())/2,
@@ -32,8 +36,8 @@ $(document).ready(function(){
 		$('body').show();
 
 	}
-});
+}
 
 window.onresize = function(){ 
-	location.reload();
+	centerFact()
 }

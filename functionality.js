@@ -53,11 +53,13 @@ function resetCurrentFactIdx() {
 
 function getCurrentFact() {
 	// want to add to index for fact rotation if settting set
-	offset = 0
+	var offset = 0
 	if (localStorage['rotate-facts-in-session'] == 'true') { // defaults to false
-		offset = localStorage['factShownCount']
+		offset = localStorage['factShownCount'] || 0
 	}
-	return todayinhistory[histIds[(currentFactListIdx + offset) % histIds.length]]
+	var histIdsIdx = (currentFactListIdx + parseInt(offset)) % histIds.length
+	var tdihId = histIds[histIdsIdx]
+	return todayinhistory[tdihId]
 }
 
 function goBackDay() {
@@ -109,7 +111,7 @@ function getStringDateFromObj(d) {
 // sets history ids for the selected date
 function setHistIdsAndIdx() {
 	histIds = generateHistIdsArrayForSelectedDate()
-	resetCurrentFactIdx(false)
+	resetCurrentFactIdx()
 }
 
 // this function generates array of ids for the date today, and shifts based on year
@@ -192,7 +194,8 @@ function setHeaderText() {
 }
 
 function getSpanYearStr(withColon) {
-	return '<span id="span_year">' + getCurrentFact().date.substring(0, 4) + (withColon ? ': ' : '') + '</span>'
+	var curFact = getCurrentFact()
+	return '<span id="span_year">' + curFact.date.substring(0, 4) + (withColon ? ': ' : '') + '</span>'
 }
 
 function setFactText() {
