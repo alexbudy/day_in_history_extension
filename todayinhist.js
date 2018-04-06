@@ -4956,10 +4956,6 @@ var todayinhistory = [
     "event": "USSR invades Austria during WW II"
   },
   {
-    "date": "1948-03-30",
-    "event": "Mahatma Gandhi assassinated in New Delhi"
-  },
-  {
     "date": "1950-03-30",
     "event": "Phototransistor invention announced - Murray Hill - NJ"
   },
